@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "listName": "Marvel_Games",
+  "updatedAt": "2026-10-23T03:40:51.278Z",
+  "state": {
+    "vars": {
+      "--hex-bg": "",
+      "--hex-outline": "#e31b24",
+      "--hex-filter": "#420505",
+      "--hex-filter-op": "",
+      "--t2-frame": "",
+      "--t2-frame-size": "",
+      "--t2-frame-opacity": "",
+      "--t2-frame-blend": "normal",
+      "--t2-filter": "",
+      "--t2-filter-opacity": "",
+      "--vignette-op": "",
+      "--vignette-color": "",
+      "--vignette-size": "",
+      "--grain-op": "",
+      "--grain-size": "",
+      "--overlay-blur": "",
+      "--font-family": "",
+      "--font-size": "",
+      "--text-stroke-width": "",
+      "--text-stroke-color": "",
+      "--text-shadow-x": "",
+      "--text-shadow-y": "",
+      "--text-shadow-blur": "",
+      "--text-shadow-color": "",
+      "--plate-color": "#ec1d23",
+      "--plate-opacity": "",
+      "--text-color": "",
+      "--white-bar-color": "",
+      "--plate-tex-blend": "normal"
+    },
+    "inputs": {
+      "banner-product-search-mode": "name",
+      "banner-product-query": "",
+      "hex-bg": "#111111",
+      "hex-outline": "#e31b24",
+      "stroke": "5",
+      "shadow-op": "100",
+      "hex-filter-col": "#420505",
+      "hex-filter-op": "100",
+      "sat": "0",
+      "blur": "3",
+      "scale": "100",
+      "t2-frame-col": "#000000",
+      "t2-frame-size": "0",
+      "t2-frame-op": "100",
+      "t2-filter-col": "#c81414",
+      "t2-filter-op": "75",
+      "t2-sat": "100",
+      "banner-gradient-type": "linear",
+      "banner-gradient-start": "#000000",
+      "banner-gradient-start-alpha": "100",
+      "banner-gradient-end": "#000000",
+      "banner-gradient-end-alpha": "0",
+      "banner-gradient-end-stop": "100",
+      "banner-gradient-angle": "90",
+      "banner-gradient-opacity": "100",
+      "banner-gradient-blend": "normal",
+      "banner-title-text": "A11.STORE",
+      "banner-title-size": "48",
+      "banner-title-color": "#ffffff",
+      "banner-title-weight": "800",
+      "vig-color": "#000000",
+      "vig-size": "30",
+      "vig": "0",
+      "grain": "0",
+      "grain-size": "1",
+      "ov-blur": "0",
+      "plate-col": "#ec1d23",
+      "plate-op": "100",
+      "bar-col": "#ffffff",
+      "ptex-op": "100",
+      "ptex-filter-col": "#000000",
+      "text-col": "#ffffff",
+      "font-fam": "'Arial Black',sans-serif",
+      "font-size": "56",
+      "stroke-col": "#000000",
+      "stroke-w": "0",
+      "tshadow-col": "#000000",
+      "tshadow-x": "0",
+      "tshadow-y": "0",
+      "tshadow-blur": "0",
+      "bright": "200",
+      "contrast": "105",
+      "hue": "150",
+      "sepia": "100",
+      "grayscale": "100"
+    },
+    "hexImgs": [
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/l1/LEGO_MARVEL_Super_Heroes_2_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/l1/LEGO_Marvel_Super_Heroes_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/l1/LEGO_MARVEL_s_Avengers_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/Marvel_s_Spider-Man_Miles_Morales_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/MARVEL_T_kon_Fighting_Souls_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/Marvel_s_Midnight_Suns_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/Marvel_s_Spider-Man_2_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/Marvel_vs._Capcom_Infinite_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/MARVEL_Cosmic_Invasion_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/MARVEL_T_kon_Fighting_Souls_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/MARVEL_Cosmic_Invasion_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/Marvel_s_Midnight_Suns_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/Marvel_s_Spider-Man_2_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/Marvel_s_Guardians_of_the_Galaxy_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/Marvel_s_Wolverine_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/MARVEL_Cosmic_Invasion_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/MARVEL_Cosmic_Invasion_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/Marvel_s_Iron_Man_VR_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/m1/MARVEL_vs._CAPCOM_Fighting_Collection_Arcade_Classics_-_01.jpg",
+      "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/u1/Ultimate_Marvel_vs._Capcom_3_-_01.jpg"
+    ],
+    "toggles": {
+      "block-colors": true,
+      "block-hexfilter": true,
+      "block-photo": true,
+      "block-frame": false,
+      "block-t2filter": false,
+      "block-effects": true,
+      "block-plate": true,
+      "block-text": true,
+      "block-cc": true
+    },
+    "type": 1,
+    "t2Img": null,
+    "t2Transform": {
+      "x": 0,
+      "y": 0,
+      "s": 1
+    },
+    "plateTex": "",
+    "title": "Marvel Games",
+    "cc": {
+      "1": {
+        "bright": 200,
+        "contrast": 105,
+        "hue": 150,
+        "sepia": 100,
+        "gray": 100
+      },
+      "2": {
+        "bright": 100,
+        "contrast": 100,
+        "hue": 0,
+        "sepia": 0,
+        "gray": 0
+      },
+      "3": {
+        "bright": 100,
+        "contrast": 100,
+        "hue": 0,
+        "sepia": 0,
+        "gray": 0
+      }
+    },
+    "banner": {
+      "target": "desktop",
+      "layers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "selected": {
+        "desktop": null,
+        "mobile": null
+      },
+      "gradients": {
+        "desktop": {
+          "type": "linear",
+          "start": "#000000",
+          "startAlpha": 1,
+          "end": "#000000",
+          "endAlpha": 0,
+          "endStop": 100,
+          "angle": 90,
+          "opacity": 1,
+          "blend": "normal"
+        },
+        "mobile": {
+          "type": "linear",
+          "start": "#000000",
+          "startAlpha": 1,
+          "end": "#000000",
+          "endAlpha": 0,
+          "endStop": 100,
+          "angle": 90,
+          "opacity": 1,
+          "blend": "normal"
+        }
+      },
+      "selectedProduct": null,
+      "titleText": {
+        "desktop": "A11.STORE",
+        "mobile": "A11.STORE"
+      },
+      "titleStyles": {
+        "desktop": {
+          "text": "A11.STORE",
+          "size": 48,
+          "color": "#ffffff",
+          "weight": "800"
+        },
+        "mobile": {
+          "text": "A11.STORE",
+          "size": 48,
+          "color": "#ffffff",
+          "weight": "800"
+        }
+      },
+      "mobileInitialized": false,
+      "titleSize": "48",
+      "titleColor": "#ffffff",
+      "titleWeight": "800",
+      "fontData": "",
+      "fontName": "",
+      "fontMime": ""
+    }
+  },
+  "variants": []
+}
