@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T03:06:08.974Z",
+  "updatedAt": "2026-10-24T03:12:15.343Z",
   "mappings": {
     "nba2k26for": "data_psstore/image/covers/n1/NBA_2K26_-_01.jpg",
     "marveltokonfightingsouls": "data_psstore/image/covers/m1/MARVEL_T_kon_Fighting_Souls_-_01.jpg",
@@ -24,7 +24,45 @@
     "diabloiii": "data_psstore/image/covers/d1/Diablo_III_Eternal_Collection_-_01.jpg",
     "likeadragoninfinitewealth": "data_psstore/image/covers/l1/Like_a_Dragon_Infinite_Wealth_PS4_PS5_-_01.jpg",
     "thedarkpicturesanthologylittlehope": "data_psstore/image/covers/t1/The_Dark_Pictures_Anthology_Little_Hope_PS5_PS4_01.jpg",
-    "wolfensteiniithenewcolossuscusa07378": "data_psstore/image/covers/w1/Wolfenstein_II_The_New_Colossus_-_01.jpg"
+    "wolfensteiniithenewcolossuscusa07378": "data_psstore/image/covers/w1/Wolfenstein_II_The_New_Colossus_-_01.jpg",
+    "ageofempiresiv": "data_psstore/image/covers/a1/Age_of_Empires_IV_Anniversary_Edition_-_01.jpg",
+    "mafiadefinitiveeditionfor": "data_psstore/image/covers/m1/Mafia_Definitive_Edition_-_01.jpg",
+    "thequarryfor": "data_psstore/image/covers/t2/The_Quarry_-_01.jpg",
+    "theelderscrollsivoblivion": "data_psstore/image/covers/t1/The_Elder_Scrolls_IV_Oblivion_Remastered_-_01.jpg",
+    "7daystodie": "data_psstore/image/covers/d1/7_Days_to_Die_-_Console_Edition_-_01.jpg",
+    "godofwariii": "data_psstore/image/covers/g1/God_of_War_III_Remastered_-_01.jpg",
+    "unchartedthenathan": "data_psstore/image/covers/u1/Uncharted_The_Nathan_Drake_Collection_-_01.jpg",
+    "mafiaii": "data_psstore/image/covers/m1/Mafia_II_Definitive_Edition_-_01.jpg",
+    "deathstrandingdirectorscut": "data_psstore/image/covers/d1/DEATH_STRANDING_-_01.jpg",
+    "fernbuscoachsimulator": "data_psstore/image/covers/f1/Fernbus_-_Coachbus_Simulator_-_01.jpg",
+    "wreckfestversion": "data_psstore/image/covers/w1/Wreckfest_-_01.jpg",
+    "tropico6next": "data_psstore/image/covers/t4/Tropico_6_-_01.jpg",
+    "ageofempiresii": "data_psstore/image/covers/a1/Age_of_Empires_II_Definitive_Edition_-_01.jpg",
+    "finalfantasyviiremakeintergrade": "data_psstore/image/covers/f1/FINAL_FANTASY_VII_REMAKE_-_01.jpg",
+    "creedrisetoglory": "data_psstore/image/covers/c2/Creed_Rise_to_Glory_-_Championship_Edition_-_01.jpg",
+    "yakuzakiwami3darkties": "data_psstore/image/covers/y1/Yakuza_Kiwami_3_Dark_Ties_PS4_PS5_-_01.jpg",
+    "rimworld": "data_psstore/image/covers/r1/RimWorld_Console_Edition_-_01.jpg",
+    "saintsrowthethird": "data_psstore/image/covers/s1/Saints_Row_The_Third_Remastered_-_01.jpg",
+    "justcause4reloaded": "data_psstore/image/covers/j1/Just_Cause_4_-_01.jpg",
+    "icarus": "data_psstore/image/covers/i1/ICARUS_Console_Edition_-_01.jpg",
+    "dishonored": "data_psstore/image/covers/d1/Dishonored_Definitive_Edition_-_01.jpg",
+    "darksidersii": "data_psstore/image/covers/d1/Darksiders_II_Deathinitive_Edition_-_01.jpg",
+    "outward": "data_psstore/image/covers/o1/Outward_Definitive_Edition_-_01.jpg",
+    "thedarkpicturesanthologymanofmedan": "data_psstore/image/covers/t1/The_Dark_Pictures_Anthology_Man_of_Medan_PS4_PS5_-_01.jpg",
+    "hitmanhd": "data_psstore/image/covers/h1/Hitman_Absolution_HD_-_01.jpg",
+    "kerbalspaceprogram": "data_psstore/image/covers/k1/Kerbal_Space_Program_Enhanced_Edition_-_01.jpg",
+    "catan": "data_psstore/image/covers/c1/Catana_-_01.jpg",
+    "thethreekingdomsrebirth": "data_psstore/image/covers/r2/ROMANCE_OF_THE_THREE_KINGDOMS_XIII_-_01.jpg",
+    "sonicfrontiers": "data_psstore/image/covers/s2/Sonic_Frontiers_PS4_PS5_-_01.jpg",
+    "legoharry": "data_psstore/image/covers/l1/LEGO_Harry_Potter_Collection_-_01.jpg",
+    "myfriendpeppapig": "data_psstore/image/covers/m2/My_Friend_Peppa_Pig_Complete_Edition_-_01.jpg",
+    "syberia": "data_psstore/image/covers/s4/Syberia_-_Remastered_-_01.jpg",
+    "legacyofkainsoulreaver12": "data_psstore/image/covers/l1/Legacy_of_Kain_Soul_Reaver_1_2_Remastered_-_01.jpg",
+    "grounded": "data_psstore/image/covers/g1/Grounded_PS4_PS5_-_01.jpg",
+    "residentevilrevelations2episodeonepenalcolony": "data_psstore/image/covers/r1/Resident_Evil_Revelations_2_-_01.jpg",
+    "legacyofkaindefiance": "data_psstore/image/covers/l1/Legacy_of_Kain_Defiance_PS4_PS5_-_01.jpg",
+    "farcry3": "data_psstore/image/covers/f1/Far_Cry_3_Classic_Edition_-_01.jpg",
+    "needforspeedhotpursuit": "data_psstore/image/covers/n1/Need_for_Speed_Hot_Pursuit_Remastered_-_01.jpg"
   },
   "learning": {
     "version": 1,
@@ -68,6 +106,158 @@
       {
         "name": "Wolfenstein II: The New Colossus (CUSA07378)",
         "path": "data_psstore/image/covers/w1/Wolfenstein_II_The_New_Colossus_-_01.jpg"
+      },
+      {
+        "name": "Age of Empires IV",
+        "path": "data_psstore/image/covers/a1/Age_of_Empires_IV_Anniversary_Edition_-_01.jpg"
+      },
+      {
+        "name": "Mafia: Definitive Edition for",
+        "path": "data_psstore/image/covers/m1/Mafia_Definitive_Edition_-_01.jpg"
+      },
+      {
+        "name": "The Quarry for",
+        "path": "data_psstore/image/covers/t2/The_Quarry_-_01.jpg"
+      },
+      {
+        "name": "The Elder Scrolls IV: Oblivion",
+        "path": "data_psstore/image/covers/t1/The_Elder_Scrolls_IV_Oblivion_Remastered_-_01.jpg"
+      },
+      {
+        "name": "7 Days to Die",
+        "path": "data_psstore/image/covers/d1/7_Days_to_Die_-_Console_Edition_-_01.jpg"
+      },
+      {
+        "name": "God of War III",
+        "path": "data_psstore/image/covers/g1/God_of_War_III_Remastered_-_01.jpg"
+      },
+      {
+        "name": "Uncharted: The Nathan",
+        "path": "data_psstore/image/covers/u1/Uncharted_The_Nathan_Drake_Collection_-_01.jpg"
+      },
+      {
+        "name": "Mafia II",
+        "path": "data_psstore/image/covers/m1/Mafia_II_Definitive_Edition_-_01.jpg"
+      },
+      {
+        "name": "DEATH STRANDING DIRECTOR’S CUT",
+        "path": "data_psstore/image/covers/d1/DEATH_STRANDING_-_01.jpg"
+      },
+      {
+        "name": "Fernbus Coach Simulator",
+        "path": "data_psstore/image/covers/f1/Fernbus_-_Coachbus_Simulator_-_01.jpg"
+      },
+      {
+        "name": "Wreckfest PlayStation5 Version",
+        "path": "data_psstore/image/covers/w1/Wreckfest_-_01.jpg"
+      },
+      {
+        "name": "Tropico 6 - Next",
+        "path": "data_psstore/image/covers/t4/Tropico_6_-_01.jpg"
+      },
+      {
+        "name": "Age of Empires II",
+        "path": "data_psstore/image/covers/a1/Age_of_Empires_II_Definitive_Edition_-_01.jpg"
+      },
+      {
+        "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "path": "data_psstore/image/covers/f1/FINAL_FANTASY_VII_REMAKE_-_01.jpg"
+      },
+      {
+        "name": "Creed: Rise to Glory",
+        "path": "data_psstore/image/covers/c2/Creed_Rise_to_Glory_-_Championship_Edition_-_01.jpg"
+      },
+      {
+        "name": "Yakuza Kiwami 3 & Dark Ties",
+        "path": "data_psstore/image/covers/y1/Yakuza_Kiwami_3_Dark_Ties_PS4_PS5_-_01.jpg"
+      },
+      {
+        "name": "RimWorld",
+        "path": "data_psstore/image/covers/r1/RimWorld_Console_Edition_-_01.jpg"
+      },
+      {
+        "name": "Saints Row: The Third",
+        "path": "data_psstore/image/covers/s1/Saints_Row_The_Third_Remastered_-_01.jpg"
+      },
+      {
+        "name": "Just Cause 4: Reloaded",
+        "path": "data_psstore/image/covers/j1/Just_Cause_4_-_01.jpg"
+      },
+      {
+        "name": "ICARUS",
+        "path": "data_psstore/image/covers/i1/ICARUS_Console_Edition_-_01.jpg"
+      },
+      {
+        "name": "Dishonored",
+        "path": "data_psstore/image/covers/d1/Dishonored_Definitive_Edition_-_01.jpg"
+      },
+      {
+        "name": "Darksiders II",
+        "path": "data_psstore/image/covers/d1/Darksiders_II_Deathinitive_Edition_-_01.jpg"
+      },
+      {
+        "name": "Outward",
+        "path": "data_psstore/image/covers/o1/Outward_Definitive_Edition_-_01.jpg"
+      },
+      {
+        "name": "The Dark Pictures Anthology: Man of Medan",
+        "path": "data_psstore/image/covers/t1/The_Dark_Pictures_Anthology_Man_of_Medan_PS4_PS5_-_01.jpg"
+      },
+      {
+        "name": "Hitman HD",
+        "path": "data_psstore/image/covers/h1/Hitman_Absolution_HD_-_01.jpg"
+      },
+      {
+        "name": "Kerbal Space Program",
+        "path": "data_psstore/image/covers/k1/Kerbal_Space_Program_Enhanced_Edition_-_01.jpg"
+      },
+      {
+        "name": "CATAN",
+        "path": "data_psstore/image/covers/c1/Catana_-_01.jpg"
+      },
+      {
+        "name": "The Three Kingdoms: Rebirth",
+        "path": "data_psstore/image/covers/r2/ROMANCE_OF_THE_THREE_KINGDOMS_XIII_-_01.jpg"
+      },
+      {
+        "name": "Sonic Frontiers",
+        "path": "data_psstore/image/covers/s2/Sonic_Frontiers_PS4_PS5_-_01.jpg"
+      },
+      {
+        "name": "LEGO Harry",
+        "path": "data_psstore/image/covers/l1/LEGO_Harry_Potter_Collection_-_01.jpg"
+      },
+      {
+        "name": "My Friend Peppa Pig",
+        "path": "data_psstore/image/covers/m2/My_Friend_Peppa_Pig_Complete_Edition_-_01.jpg"
+      },
+      {
+        "name": "Syberia",
+        "path": "data_psstore/image/covers/s4/Syberia_-_Remastered_-_01.jpg"
+      },
+      {
+        "name": "Legacy of Kain Soul Reaver 1&2",
+        "path": "data_psstore/image/covers/l1/Legacy_of_Kain_Soul_Reaver_1_2_Remastered_-_01.jpg"
+      },
+      {
+        "name": "Grounded",
+        "path": "data_psstore/image/covers/g1/Grounded_PS4_PS5_-_01.jpg"
+      },
+      {
+        "name": "Resident Evil Revelations 2 (Episode One: Penal Colony)",
+        "path": "data_psstore/image/covers/r1/Resident_Evil_Revelations_2_-_01.jpg"
+      },
+      {
+        "name": "Legacy of Kain: Defiance",
+        "path": "data_psstore/image/covers/l1/Legacy_of_Kain_Defiance_PS4_PS5_-_01.jpg"
+      },
+      {
+        "name": "FARCRY 3",
+        "path": "data_psstore/image/covers/f1/Far_Cry_3_Classic_Edition_-_01.jpg"
+      },
+      {
+        "name": "Need for Speed Hot Pursuit",
+        "path": "data_psstore/image/covers/n1/Need_for_Speed_Hot_Pursuit_Remastered_-_01.jpg"
       }
     ]
   },
@@ -78,6 +268,111 @@
       "id": 6,
       "platforms": "PS5",
       "markedAt": "2026-10-24T03:06:06.342Z"
+    },
+    {
+      "name": "Phantom Blade Zero",
+      "gameId": "PPSA34579",
+      "id": 3,
+      "platforms": "PS5",
+      "markedAt": "2026-10-24T03:06:29.636Z"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare 4",
+      "gameId": "PPSA07950",
+      "id": 11,
+      "platforms": "PS5",
+      "markedAt": "2026-10-24T03:06:33.075Z"
+    },
+    {
+      "name": "The Lord of the Rings: War in the North",
+      "gameId": "PPSA22721",
+      "id": 29,
+      "platforms": "PS5",
+      "markedAt": "2026-10-24T03:06:33.970Z"
+    },
+    {
+      "name": "SnowRunner - 5-Year",
+      "gameId": "PPSA04929",
+      "id": 63,
+      "platforms": "PS4, PS5",
+      "markedAt": "2026-10-24T03:06:37.691Z"
+    },
+    {
+      "name": "Path of Exile 2 Founder's Pack - Path of Exile 2",
+      "gameId": "PPSA22041",
+      "id": 108,
+      "platforms": "PS5",
+      "markedAt": "2026-10-24T03:06:38.230Z"
+    },
+    {
+      "name": "Tom Clancy's Rainbow Six Siege - Free Access",
+      "gameId": "PPSA01660",
+      "id": 125,
+      "platforms": "PS5",
+      "markedAt": "2026-10-24T03:06:42.146Z"
+    },
+    {
+      "name": "No More Room in Hell 2",
+      "gameId": "PPSA36921",
+      "id": 127,
+      "platforms": "PS5",
+      "markedAt": "2026-10-24T03:06:42.610Z"
+    },
+    {
+      "name": "Rust",
+      "gameId": "PPSA24616",
+      "id": 137,
+      "platforms": "PS5",
+      "markedAt": "2026-10-24T03:06:43.193Z"
+    },
+    {
+      "name": "Plants vs. Zombies Garden Warfare 2",
+      "gameId": "CUSA01934",
+      "id": 231,
+      "platforms": "PS4",
+      "markedAt": "2026-10-24T03:06:48.758Z"
+    },
+    {
+      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+      "gameId": "PPSA25427",
+      "id": 236,
+      "platforms": "PS4, PS5",
+      "markedAt": "2026-10-24T03:06:49.136Z"
+    },
+    {
+      "name": "Darksiders",
+      "gameId": "PPSA31977",
+      "id": 289,
+      "platforms": "PS4, PS5",
+      "markedAt": "2026-10-24T03:07:06.428Z"
+    },
+    {
+      "name": "Grand Theft Auto: The Trilogy – The",
+      "gameId": "PPSA05805",
+      "id": 404,
+      "platforms": "PS4, PS5",
+      "markedAt": "2026-10-24T03:08:07.226Z"
+    },
+    {
+      "name": "KINGDOM HEARTS III",
+      "gameId": "CUSA12025",
+      "id": 670,
+      "platforms": "PS4",
+      "markedAt": "2026-10-24T03:08:28.427Z"
+    },
+    {
+      "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+      "gameId": "CUSA14909",
+      "id": 653,
+      "platforms": "PS4",
+      "markedAt": "2026-10-24T03:08:29.811Z"
+    },
+    {
+      "name": "Life is Strange 2 Episode 1",
+      "gameId": "CUSA08124",
+      "id": 624,
+      "platforms": "PS4",
+      "markedAt": "2026-10-24T03:08:43.176Z"
     }
   ]
 }
