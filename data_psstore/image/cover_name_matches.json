@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T03:12:15.343Z",
+  "updatedAt": "2026-10-24T03:38:55.982Z",
   "mappings": {
     "nba2k26for": "data_psstore/image/covers/n1/NBA_2K26_-_01.jpg",
     "marveltokonfightingsouls": "data_psstore/image/covers/m1/MARVEL_T_kon_Fighting_Souls_-_01.jpg",
@@ -62,7 +62,18 @@
     "residentevilrevelations2episodeonepenalcolony": "data_psstore/image/covers/r1/Resident_Evil_Revelations_2_-_01.jpg",
     "legacyofkaindefiance": "data_psstore/image/covers/l1/Legacy_of_Kain_Defiance_PS4_PS5_-_01.jpg",
     "farcry3": "data_psstore/image/covers/f1/Far_Cry_3_Classic_Edition_-_01.jpg",
-    "needforspeedhotpursuit": "data_psstore/image/covers/n1/Need_for_Speed_Hot_Pursuit_Remastered_-_01.jpg"
+    "needforspeedhotpursuit": "data_psstore/image/covers/n1/Need_for_Speed_Hot_Pursuit_Remastered_-_01.jpg",
+    "divinityoriginalsin2": "data_psstore/image/covers/d2/Divinity_Original_Sin_2_-_Definitive_Edition_-_01.jpg",
+    "planetzoo": "data_psstore/image/covers/p1/Planet_Zoo_Console_Edition_-_01.jpg",
+    "dontstarvetogether": "data_psstore/image/covers/d2/Don_t_Starve_Together_Console_Edition_-_01.jpg",
+    "nioh2remasteredthe": "data_psstore/image/covers/n1/Nioh_2_-_01.jpg",
+    "brotato": "data_psstore/image/covers/b2/Brotato_PS4_PS5_-_01.jpg",
+    "payday2": "data_psstore/image/covers/p1/PAYDAY_2_CRIMEWAVE_EDITION_-_01.jpg",
+    "streetfighter30th": "data_psstore/image/covers/s3/Street_Fighter_30th_Anniversary_Collection_-_01.jpg",
+    "crysis2": "data_psstore/image/covers/c2/Crysis_2_Remastered_-_01.jpg",
+    "uncharted2amongthieves": "data_psstore/image/covers/u1/Uncharted_2_Among_Thieves_Remastered_-_01.jpg",
+    "uncharteddrakesfortune": "data_psstore/image/covers/u1/Uncharted_Drake_s_Fortune_Remastered_-_01.jpg",
+    "sniperelitev2": "data_psstore/image/covers/s1/Sniper_Elite_V2_Remastered_-_01.jpg"
   },
   "learning": {
     "version": 1,
@@ -258,6 +269,50 @@
       {
         "name": "Need for Speed Hot Pursuit",
         "path": "data_psstore/image/covers/n1/Need_for_Speed_Hot_Pursuit_Remastered_-_01.jpg"
+      },
+      {
+        "name": "Divinity: Original Sin 2",
+        "path": "data_psstore/image/covers/d2/Divinity_Original_Sin_2_-_Definitive_Edition_-_01.jpg"
+      },
+      {
+        "name": "Planet Zoo",
+        "path": "data_psstore/image/covers/p1/Planet_Zoo_Console_Edition_-_01.jpg"
+      },
+      {
+        "name": "Don't Starve Together",
+        "path": "data_psstore/image/covers/d2/Don_t_Starve_Together_Console_Edition_-_01.jpg"
+      },
+      {
+        "name": "Nioh 2 Remastered – The",
+        "path": "data_psstore/image/covers/n1/Nioh_2_-_01.jpg"
+      },
+      {
+        "name": "Brotato",
+        "path": "data_psstore/image/covers/b2/Brotato_PS4_PS5_-_01.jpg"
+      },
+      {
+        "name": "PAYDAY 2",
+        "path": "data_psstore/image/covers/p1/PAYDAY_2_CRIMEWAVE_EDITION_-_01.jpg"
+      },
+      {
+        "name": "Street Fighter 30th",
+        "path": "data_psstore/image/covers/s3/Street_Fighter_30th_Anniversary_Collection_-_01.jpg"
+      },
+      {
+        "name": "Crysis 2",
+        "path": "data_psstore/image/covers/c2/Crysis_2_Remastered_-_01.jpg"
+      },
+      {
+        "name": "Uncharted 2: Among Thieves",
+        "path": "data_psstore/image/covers/u1/Uncharted_2_Among_Thieves_Remastered_-_01.jpg"
+      },
+      {
+        "name": "Uncharted: Drake's Fortune",
+        "path": "data_psstore/image/covers/u1/Uncharted_Drake_s_Fortune_Remastered_-_01.jpg"
+      },
+      {
+        "name": "Sniper Elite V2",
+        "path": "data_psstore/image/covers/s1/Sniper_Elite_V2_Remastered_-_01.jpg"
       }
     ]
   },
@@ -373,6 +428,34 @@
       "id": 624,
       "platforms": "PS4",
       "markedAt": "2026-10-24T03:08:43.176Z"
+    },
+    {
+      "name": "Kingdom Heritage Bundle",
+      "gameId": "CUSA13501",
+      "id": 735,
+      "platforms": "PS4, PS5",
+      "markedAt": "2026-10-24T03:36:25.129Z"
+    },
+    {
+      "name": "Bassmaster Fishing PS4 and",
+      "gameId": "PPSA04071",
+      "id": 737,
+      "platforms": "PS4, PS5",
+      "markedAt": "2026-10-24T03:36:26.976Z"
+    },
+    {
+      "name": "ONCE HUMAN (Free to Play) Starter Pack (Pre-Order Bundle)",
+      "gameId": "PPSA31219",
+      "id": 747,
+      "platforms": "PS5",
+      "markedAt": "2026-10-24T03:36:34.044Z"
+    },
+    {
+      "name": "Uncharted 3: Drake’s Deception",
+      "gameId": "CUSA03282",
+      "id": 871,
+      "platforms": "PS4",
+      "markedAt": "2026-10-24T03:37:03.060Z"
     }
   ]
 }
