@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T02:20:51.748Z",
+  "updatedAt": "2026-10-24T02:35:45.959Z",
   "mappings": {
     "nba2k26for": "data_psstore/image/covers/n1/NBA_2K26_-_01.jpg",
     "marveltokonfightingsouls": "data_psstore/image/covers/m1/MARVEL_T_kon_Fighting_Souls_-_01.jpg",
@@ -14,6 +14,56 @@
     "godofwarragnarok": "data_psstore/image/covers/g1/God_of_War_Ragnar_k_-_01.jpg",
     "unchartedlegacyof": "data_psstore/image/covers/u1/UNCHARTED_Legacy_of_Thieves_Collection_-_01.jpg",
     "devilmaycry5": "data_psstore/image/covers/d1/Devil_May_Cry_5_Series_-_01.jpg",
-    "ghostofyotei": "data_psstore/image/covers/g1/Ghost_of_Y_tei_-_01.jpg"
+    "ghostofyotei": "data_psstore/image/covers/g1/Ghost_of_Y_tei_-_01.jpg",
+    "callofdutymodernwarfare2campaign": "data_psstore/image/covers/c1/Call_of_Duty_Modern_Warfare_2_Campaign_Remastered_-_01.jpg",
+    "dyinglight2stayhuman": "data_psstore/image/covers/d2/Dying_Light_2_-_01.jpg",
+    "crysis": "data_psstore/image/covers/c2/Crysis_Remastered_-_01.jpg",
+    "assassinscreedthe": "data_psstore/image/covers/a3/Assassin_s_Creed_The_Ezio_Collection_-_01.jpg",
+    "theelderscrollsvskyrim": "data_psstore/image/covers/t1/The_Elder_Scrolls_V_Skyrim_VR_-_01.jpg",
+    "nierautomatagameofthe": "data_psstore/image/covers/n1/NieR_Automata_-_01.jpg",
+    "diabloiii": "data_psstore/image/covers/d1/Diablo_III_Eternal_Collection_-_01.jpg",
+    "likeadragoninfinitewealth": "data_psstore/image/covers/l1/Like_a_Dragon_Infinite_Wealth_PS4_PS5_-_01.jpg",
+    "thedarkpicturesanthologylittlehope": "data_psstore/image/covers/t1/The_Dark_Pictures_Anthology_Little_Hope_PS5_PS4_01.jpg"
+  },
+  "learning": {
+    "version": 1,
+    "examples": [
+      {
+        "name": "Call of Duty: Modern Warfare 2 Campaign",
+        "path": "data_psstore/image/covers/c1/Call_of_Duty_Modern_Warfare_2_Campaign_Remastered_-_01.jpg"
+      },
+      {
+        "name": "Dying Light 2 Stay Human",
+        "path": "data_psstore/image/covers/d2/Dying_Light_2_-_01.jpg"
+      },
+      {
+        "name": "Crysis",
+        "path": "data_psstore/image/covers/c2/Crysis_Remastered_-_01.jpg"
+      },
+      {
+        "name": "Assassin’s Creed The",
+        "path": "data_psstore/image/covers/a3/Assassin_s_Creed_The_Ezio_Collection_-_01.jpg"
+      },
+      {
+        "name": "The Elder Scrolls V: Skyrim",
+        "path": "data_psstore/image/covers/t1/The_Elder_Scrolls_V_Skyrim_VR_-_01.jpg"
+      },
+      {
+        "name": "NieR: Automata Game of the",
+        "path": "data_psstore/image/covers/n1/NieR_Automata_-_01.jpg"
+      },
+      {
+        "name": "Diablo III",
+        "path": "data_psstore/image/covers/d1/Diablo_III_Eternal_Collection_-_01.jpg"
+      },
+      {
+        "name": "Like a Dragon: Infinite Wealth",
+        "path": "data_psstore/image/covers/l1/Like_a_Dragon_Infinite_Wealth_PS4_PS5_-_01.jpg"
+      },
+      {
+        "name": "The Dark Pictures Anthology: Little Hope",
+        "path": "data_psstore/image/covers/t1/The_Dark_Pictures_Anthology_Little_Hope_PS5_PS4_01.jpg"
+      }
+    ]
   }
 }
