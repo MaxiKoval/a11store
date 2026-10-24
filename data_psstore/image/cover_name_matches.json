@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T09:20:14.536Z",
+  "updatedAt": "2026-10-24T09:20:26.981Z",
   "mappings": {
     "nba2k26for": "data_psstore/image/covers/n1/NBA_2K26_-_01.jpg",
     "marveltokonfightingsouls": "data_psstore/image/covers/m1/MARVEL_T_kon_Fighting_Souls_-_01.jpg",
@@ -84,7 +84,8 @@
     "id:PPSA01721": "data_psstore/data_mediabase/covers/PS5/PPSA01721_GTAOnline-BoxArt.jpg",
     "id:PPSA22721": "data_psstore/data_mediabase/covers/PS5/PPSA22721_imgwebp.jpg",
     "id:PPSA02050": "data_psstore/image/covers/c1/Call_of_Duty_Black_Ops_Cold_War_-_01.jpg",
-    "id:CUSA02624": "data_psstore/image/covers/c1/Call_of_Duty_Black_Ops_III_-_01.jpg"
+    "id:CUSA02624": "data_psstore/image/covers/c1/Call_of_Duty_Black_Ops_III_-_01.jpg",
+    "id:PPSA26785": "data_psstore/image/covers/n1/NHL_26_-_01.jpg"
   },
   "learning": {
     "version": 1,
@@ -368,6 +369,10 @@
       {
         "name": "Call of Duty: Black Ops III - Zombies Chronicles Edition",
         "path": "data_psstore/image/covers/c1/Call_of_Duty_Black_Ops_III_-_01.jpg"
+      },
+      {
+        "name": "NHL 26 Standard Edition PS5",
+        "path": "data_psstore/image/covers/n1/NHL_26_-_01.jpg"
       }
     ]
   },
