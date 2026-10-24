@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T01:35:20.703Z",
+  "updatedAt": "2026-10-24T02:20:51.748Z",
   "mappings": {
     "nba2k26for": "data_psstore/image/covers/n1/NBA_2K26_-_01.jpg",
     "marveltokonfightingsouls": "data_psstore/image/covers/m1/MARVEL_T_kon_Fighting_Souls_-_01.jpg",
@@ -13,6 +13,7 @@
     "thelastofus": "data_psstore/image/covers/t2/The_Last_of_Us_Remastered_-_01.jpg",
     "godofwarragnarok": "data_psstore/image/covers/g1/God_of_War_Ragnar_k_-_01.jpg",
     "unchartedlegacyof": "data_psstore/image/covers/u1/UNCHARTED_Legacy_of_Thieves_Collection_-_01.jpg",
-    "devilmaycry5": "data_psstore/image/covers/d1/Devil_May_Cry_5_Series_-_01.jpg"
+    "devilmaycry5": "data_psstore/image/covers/d1/Devil_May_Cry_5_Series_-_01.jpg",
+    "ghostofyotei": "data_psstore/image/covers/g1/Ghost_of_Y_tei_-_01.jpg"
   }
 }
