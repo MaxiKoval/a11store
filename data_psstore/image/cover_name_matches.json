@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T07:39:49.722Z",
+  "updatedAt": "2026-10-24T09:19:57.696Z",
   "mappings": {
     "nba2k26for": "data_psstore/image/covers/n1/NBA_2K26_-_01.jpg",
     "marveltokonfightingsouls": "data_psstore/image/covers/m1/MARVEL_T_kon_Fighting_Souls_-_01.jpg",
@@ -80,7 +80,10 @@
     "id:PPSA34579": "data_psstore/data_mediabase/covers/PS5/PPSA34579_0548e61cb6fb0ff6a6dde647c125569454acf567dd4684f8.avif",
     "id:PPSA34038": "data_psstore/image/covers/g1/Ghost_Master_Resurrection_Core_Edition_-_01.jpg",
     "id:PPSA03544": "data_psstore/image/covers/a1/Aliens_Fireteam_Elite_PS4_PS5_-_01.jpg",
-    "id:CUSA08948": "data_psstore/image/covers/a1/A.O.T._2_-_01.jpg"
+    "id:CUSA08948": "data_psstore/image/covers/a1/A.O.T._2_-_01.jpg",
+    "id:PPSA01721": "data_psstore/data_mediabase/covers/PS5/PPSA01721_GTAOnline-BoxArt.jpg",
+    "id:PPSA22721": "data_psstore/data_mediabase/covers/PS5/PPSA22721_imgwebp.jpg",
+    "id:PPSA02050": "data_psstore/image/covers/c1/Call_of_Duty_Black_Ops_Cold_War_-_01.jpg"
   },
   "learning": {
     "version": 1,
@@ -348,24 +351,22 @@
       {
         "name": "A.O.T. 2: Final Battle",
         "path": "data_psstore/image/covers/a1/A.O.T._2_-_01.jpg"
+      },
+      {
+        "name": "Grand Theft Auto Online (PlayStation5)",
+        "path": "data_psstore/data_mediabase/covers/PS5/PPSA01721_GTAOnline-BoxArt.jpg"
+      },
+      {
+        "name": "The Lord of the Rings: War in the North",
+        "path": "data_psstore/data_mediabase/covers/PS5/PPSA22721_imgwebp.jpg"
+      },
+      {
+        "name": "Call of Duty: Black Ops Cold War - Cross-Gen Bundle PS4 & PS5",
+        "path": "data_psstore/image/covers/c1/Call_of_Duty_Black_Ops_Cold_War_-_01.jpg"
       }
     ]
   },
   "missingCovers": [
-    {
-      "name": "Grand Theft Auto Online (PlayStation5)",
-      "gameId": "PPSA01721",
-      "id": 6,
-      "platforms": "PS5",
-      "markedAt": "2026-10-24T03:06:06.342Z"
-    },
-    {
-      "name": "The Lord of the Rings: War in the North",
-      "gameId": "PPSA22721",
-      "id": 29,
-      "platforms": "PS5",
-      "markedAt": "2026-10-24T03:06:33.970Z"
-    },
     {
       "name": "SnowRunner - 5-Year",
       "gameId": "PPSA04929",
