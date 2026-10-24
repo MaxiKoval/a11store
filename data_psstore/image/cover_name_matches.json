@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T02:35:45.959Z",
+  "updatedAt": "2026-10-24T03:06:08.974Z",
   "mappings": {
     "nba2k26for": "data_psstore/image/covers/n1/NBA_2K26_-_01.jpg",
     "marveltokonfightingsouls": "data_psstore/image/covers/m1/MARVEL_T_kon_Fighting_Souls_-_01.jpg",
@@ -23,7 +23,8 @@
     "nierautomatagameofthe": "data_psstore/image/covers/n1/NieR_Automata_-_01.jpg",
     "diabloiii": "data_psstore/image/covers/d1/Diablo_III_Eternal_Collection_-_01.jpg",
     "likeadragoninfinitewealth": "data_psstore/image/covers/l1/Like_a_Dragon_Infinite_Wealth_PS4_PS5_-_01.jpg",
-    "thedarkpicturesanthologylittlehope": "data_psstore/image/covers/t1/The_Dark_Pictures_Anthology_Little_Hope_PS5_PS4_01.jpg"
+    "thedarkpicturesanthologylittlehope": "data_psstore/image/covers/t1/The_Dark_Pictures_Anthology_Little_Hope_PS5_PS4_01.jpg",
+    "wolfensteiniithenewcolossuscusa07378": "data_psstore/image/covers/w1/Wolfenstein_II_The_New_Colossus_-_01.jpg"
   },
   "learning": {
     "version": 1,
@@ -63,7 +64,20 @@
       {
         "name": "The Dark Pictures Anthology: Little Hope",
         "path": "data_psstore/image/covers/t1/The_Dark_Pictures_Anthology_Little_Hope_PS5_PS4_01.jpg"
+      },
+      {
+        "name": "Wolfenstein II: The New Colossus (CUSA07378)",
+        "path": "data_psstore/image/covers/w1/Wolfenstein_II_The_New_Colossus_-_01.jpg"
       }
     ]
-  }
+  },
+  "missingCovers": [
+    {
+      "name": "Grand Theft Auto Online (PlayStation5)",
+      "gameId": "PPSA01721",
+      "id": 6,
+      "platforms": "PS5",
+      "markedAt": "2026-10-24T03:06:06.342Z"
+    }
+  ]
 }
