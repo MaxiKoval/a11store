@@ -1,0 +1,3403 @@
+{
+  "version": 4,
+  "state": {
+    "vars": {
+      "--hex-bg": "#111111",
+      "--hex-outline": "#000000",
+      "--hex-filter": "",
+      "--hex-filter-op": "",
+      "--t2-frame": "",
+      "--t2-frame-size": "",
+      "--t2-frame-opacity": "",
+      "--t2-frame-blend": "normal",
+      "--t2-filter": "",
+      "--t2-filter-opacity": "",
+      "--vignette-op": "",
+      "--vignette-color": "",
+      "--vignette-size": "",
+      "--grain-op": "",
+      "--grain-size": "",
+      "--overlay-blur": "",
+      "--font-family": "",
+      "--font-size": "",
+      "--text-stroke-width": "",
+      "--text-stroke-color": "",
+      "--text-shadow-x": "",
+      "--text-shadow-y": "",
+      "--text-shadow-blur": "",
+      "--text-shadow-color": "",
+      "--plate-color": "",
+      "--plate-opacity": "1",
+      "--text-color": "",
+      "--white-bar-color": "",
+      "--plate-tex-blend": "normal"
+    },
+    "inputs": {
+      "banner-product-query": "dawnw",
+      "hex-bg": "#111111",
+      "hex-outline": "#000000",
+      "stroke": "5",
+      "shadow-op": "79",
+      "hex-filter-col": "#ffffff",
+      "hex-filter-op": "10",
+      "extra-cover-op": "100",
+      "sat": "0",
+      "blur": "2",
+      "scale": "100",
+      "t2-frame-col": "#000000",
+      "t2-frame-size": "0",
+      "t2-frame-op": "100",
+      "t2-filter-col": "#c81414",
+      "t2-filter-op": "75",
+      "t2-sat": "100",
+      "banner-fx-scope": "selected",
+      "banner-fx-enabled": false,
+      "banner-fx-vig": "0",
+      "banner-fx-vigSize": "30",
+      "banner-fx-grain": "0",
+      "banner-fx-grainSize": "1",
+      "banner-fx-blur": "0",
+      "banner-fx-vigColor": "#000000",
+      "banner-fx-bright": "100",
+      "banner-fx-contrast": "100",
+      "banner-fx-saturation": "100",
+      "banner-fx-hue": "0",
+      "banner-fx-sepia": "0",
+      "banner-fx-gray": "0",
+      "banner-gradient-start": "#000000",
+      "banner-gradient-start-alpha": "0",
+      "inline-position-gradient-stop-mvm5kcq2-3": "0.3",
+      "inline-alpha-gradient-stop-mvm5kcq2-3": "100",
+      "inline-position-gradient-stop-mvm5wfx0-6": "55.5",
+      "inline-alpha-gradient-stop-mvm5wfx0-6": "100",
+      "inline-position-gradient-stop-mvm5jyif-2": "69.9",
+      "inline-alpha-gradient-stop-mvm5jyif-2": "100",
+      "banner-gradient-end": "#ffffff",
+      "banner-gradient-end-alpha": "100",
+      "banner-gradient-stop-select": "gradient-stop-mvm5kcq2-3",
+      "banner-gradient-stop-position": "0.3",
+      "banner-gradient-stop-color": "#ffffff",
+      "banner-gradient-stop-alpha": "100",
+      "banner-gradient-type": "segment",
+      "banner-gradient-opacity": "100",
+      "banner-gradient-smoothness": "100",
+      "banner-gradient-angle": "103",
+      "banner-gradient-blend": "normal",
+      "banner-gradient-end-stop": "100",
+      "banner-title-size": "48",
+      "banner-title-color": "#ffffff",
+      "banner-title-weight": "800",
+      "banner-text-family": "",
+      "banner-text-strokeColor": "#000000",
+      "banner-text-strokeWidth": "0",
+      "banner-text-shadowColor": "#000000",
+      "banner-text-shadowX": "0",
+      "banner-text-shadowY": "0",
+      "banner-text-shadowBlur": "0",
+      "vig-color": "#000000",
+      "vig-size": "30",
+      "vig": "0",
+      "grain": "0",
+      "grain-size": "1",
+      "ov-blur": "0",
+      "plate-col": "#000000",
+      "plate-op": "100",
+      "bar-col": "#ffffff",
+      "ptex-op": "100",
+      "ptex-filter-col": "#000000",
+      "text-col": "#ffffff",
+      "font-fam": "'Arial Black',sans-serif",
+      "font-size": "56",
+      "stroke-col": "#000000",
+      "stroke-w": "0",
+      "tshadow-col": "#000000",
+      "tshadow-x": "0",
+      "tshadow-y": "0",
+      "tshadow-blur": "0",
+      "bright": "100",
+      "contrast": "100",
+      "hue": "0",
+      "sepia": "0",
+      "grayscale": "0"
+    },
+    "hexImgs": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "toggles": {
+      "block-colors": true,
+      "block-hexfilter": true,
+      "block-photo": true,
+      "block-frame": false,
+      "block-t2filter": false,
+      "block-effects": false,
+      "block-plate": true,
+      "block-text": true,
+      "block-cc": true
+    },
+    "type": 3,
+    "t2Img": null,
+    "t2Transform": {
+      "x": 0,
+      "y": 0,
+      "s": 1
+    },
+    "plateTex": "",
+    "title": "A11.STORE",
+    "cc": {
+      "1": {
+        "bright": 100,
+        "contrast": 100,
+        "hue": 0,
+        "sepia": 0,
+        "gray": 0
+      },
+      "2": {
+        "bright": 100,
+        "contrast": 100,
+        "hue": 0,
+        "sepia": 0,
+        "gray": 0
+      },
+      "3": {
+        "bright": 100,
+        "contrast": 100,
+        "hue": 0,
+        "sepia": 0,
+        "gray": 0
+      }
+    },
+    "banner": {
+      "target": "mobile",
+      "layers": {
+        "desktop": [
+          {
+            "id": "banner-layer-1-1m4n",
+            "type": "image",
+            "name": "Медиа · the_last_of_us_part_ii_remastered_cover.jpg",
+            "x": -7.013875188483546,
+            "y": -6.60359482196439,
+            "w": 49.44814502021429,
+            "h": 123.62036255053575,
+            "z": 20,
+            "opacity": 1,
+            "blend": "normal",
+            "aspectRatio": 1.7777777777777777,
+            "effects": {
+              "enabled": false,
+              "bright": 100,
+              "contrast": 100,
+              "saturation": 100,
+              "hue": 0,
+              "sepia": 0,
+              "gray": 0,
+              "blur": 0,
+              "vig": 0,
+              "vigSize": 30,
+              "vigColor": "#000000",
+              "grain": 0,
+              "grainSize": 1
+            },
+            "userSized": true,
+            "hidden": true,
+            "assetPath": "assets/image_001.jpg"
+          },
+          {
+            "id": "banner-layer-3-xrku",
+            "type": "gradient",
+            "name": "Градиент",
+            "settings": {
+              "type": "segment",
+              "start": "#000000",
+              "startAlpha": 0,
+              "end": "#ffffff",
+              "endAlpha": 1,
+              "endStop": 100,
+              "smoothness": 100,
+              "angle": 103.3245312618908,
+              "vector": {
+                "x1": -15.245643028846153,
+                "y1": -12.29110962566845,
+                "x2": 112.63897235576923,
+                "y2": 122.4682486631016
+              },
+              "opacity": 1,
+              "blend": "normal",
+              "segmentEditingPaused": true,
+              "projectLayerId": "banner-layer-3-xrku",
+              "stops": [
+                {
+                  "id": "gradient-stop-mvm5jyif-2",
+                  "label": "C",
+                  "pos": 0.6990666150619705,
+                  "color": "#ffffff",
+                  "alpha": 1,
+                  "transparent": false
+                },
+                {
+                  "id": "gradient-stop-mvm5kcq2-3",
+                  "label": "D",
+                  "pos": 0.0032084309133489463,
+                  "color": "#ffffff",
+                  "alpha": 1,
+                  "transparent": false
+                },
+                {
+                  "id": "gradient-stop-mvm5wfx0-6",
+                  "label": "G",
+                  "pos": 0.5545614650933235,
+                  "color": "#ffffff",
+                  "alpha": 1,
+                  "transparent": false
+                }
+              ],
+              "stopSequence": 7,
+              "selectedStop": "gradient-stop-mvm5kcq2-3",
+              "startTransparent": true,
+              "endTransparent": false
+            },
+            "opacity": 1,
+            "hidden": false,
+            "effects": {
+              "enabled": false,
+              "bright": 100,
+              "contrast": 100,
+              "saturation": 100,
+              "hue": 0,
+              "sepia": 0,
+              "gray": 0,
+              "blur": 0,
+              "vig": 0,
+              "vigSize": 30,
+              "vigColor": "#000000",
+              "grain": 0,
+              "grainSize": 1
+            },
+            "z": 23
+          },
+          {
+            "id": "banner-layer-8-8gyo",
+            "type": "image",
+            "name": "kawpfRAMcOWOfr8GXITUVQ.jpeg",
+            "x": 26.115120639907808,
+            "y": -3.1311630821816907,
+            "w": 43.02409267608404,
+            "h": 107.5602316902101,
+            "z": 21,
+            "opacity": 1,
+            "blend": "normal",
+            "aspectRatio": 1.7777777777777777,
+            "effects": {
+              "enabled": false,
+              "bright": 100,
+              "contrast": 100,
+              "saturation": 100,
+              "hue": 0,
+              "sepia": 0,
+              "gray": 0,
+              "blur": 0,
+              "vig": 0,
+              "vigSize": 30,
+              "vigColor": "#000000",
+              "grain": 0,
+              "grainSize": 1
+            },
+            "userSized": true,
+            "hidden": true,
+            "assetPath": "assets/image_002.jpg"
+          },
+          {
+            "id": "banner-layer-9-hl1l",
+            "type": "image",
+            "name": "Медиа · the_last_of_us_part_i_cover.jpg",
+            "x": 61.95656131472571,
+            "y": -5.711845687087959,
+            "w": 48.73474571231315,
+            "h": 121.83686428078288,
+            "z": 22,
+            "opacity": 1,
+            "blend": "normal",
+            "aspectRatio": 1.7777777777777777,
+            "effects": {
+              "enabled": false,
+              "bright": 100,
+              "contrast": 100,
+              "saturation": 100,
+              "hue": 0,
+              "sepia": 0,
+              "gray": 0,
+              "blur": 0,
+              "vig": 0,
+              "vigSize": 30,
+              "vigColor": "#000000",
+              "grain": 0,
+              "grainSize": 1
+            },
+            "userSized": true,
+            "hidden": true,
+            "assetPath": "assets/image_003.jpg"
+          },
+          {
+            "id": "banner-layer-10-e84r",
+            "type": "image",
+            "name": "orig.webp",
+            "x": -75.49153840004804,
+            "y": -31.602021058698337,
+            "w": 108.82487173338137,
+            "h": 272.06217933345346,
+            "z": 24,
+            "opacity": 1,
+            "blend": "normal",
+            "aspectRatio": 1.7777777777777777,
+            "effects": {
+              "enabled": false,
+              "bright": 100,
+              "contrast": 100,
+              "saturation": 100,
+              "hue": 0,
+              "sepia": 0,
+              "gray": 0,
+              "blur": 0,
+              "vig": 0,
+              "vigSize": 30,
+              "vigColor": "#000000",
+              "grain": 0,
+              "grainSize": 1
+            },
+            "userSized": true,
+            "hidden": false,
+            "assetPath": "assets/image_004.webp"
+          },
+          {
+            "id": "banner-layer-12-wf4i",
+            "type": "image",
+            "name": "kawpfRAMcOWOfr8GXITUVQ.png",
+            "x": 47.62716697794983,
+            "y": -31.083300706634336,
+            "w": 118.48005474816456,
+            "h": 296.2001368704114,
+            "z": 25,
+            "opacity": 1,
+            "blend": "normal",
+            "aspectRatio": 1.7777777777777777,
+            "effects": {
+              "enabled": false,
+              "bright": 100,
+              "contrast": 100,
+              "saturation": 100,
+              "hue": 0,
+              "sepia": 0,
+              "gray": 0,
+              "blur": 0,
+              "vig": 0,
+              "vigSize": 30,
+              "vigColor": "#000000",
+              "grain": 0,
+              "grainSize": 1
+            },
+            "userSized": true,
+            "assetPath": "assets/image_005.png"
+          },
+          {
+            "id": "banner-layer-13-wqny",
+            "type": "image",
+            "name": "vvv.png",
+            "x": -23.663269606955343,
+            "y": -192.49150735072172,
+            "w": 180.659872547244,
+            "h": 451.64968136811,
+            "z": 26,
+            "opacity": 1,
+            "blend": "normal",
+            "aspectRatio": 1.7777777777777777,
+            "effects": {
+              "enabled": false,
+              "bright": 100,
+              "contrast": 100,
+              "saturation": 100,
+              "hue": 0,
+              "sepia": 0,
+              "gray": 0,
+              "blur": 0,
+              "vig": 0,
+              "vigSize": 30,
+              "vigColor": "#000000",
+              "grain": 0,
+              "grainSize": 1
+            },
+            "userSized": true,
+            "assetPath": "assets/image_006.png"
+          }
+        ],
+        "mobile": [
+          {
+            "id": "banner-layer-16-ou32",
+            "type": "image",
+            "name": "Медиа · the_last_of_us_part_ii_remastered_cover.jpg",
+            "x": -7.013875188483546,
+            "y": -6.60359482196439,
+            "w": 49.44814502021429,
+            "h": 57.01989222643461,
+            "z": 20,
+            "opacity": 1,
+            "blend": "normal",
+            "aspectRatio": 1.7777777777777777,
+            "effects": {
+              "enabled": false,
+              "bright": 100,
+              "contrast": 100,
+              "saturation": 100,
+              "hue": 0,
+              "sepia": 0,
+              "gray": 0,
+              "blur": 0,
+              "vig": 0,
+              "vigSize": 30,
+              "vigColor": "#000000",
+              "grain": 0,
+              "grainSize": 1
+            },
+            "userSized": true,
+            "hidden": true,
+            "assetPath": "assets/image_001.jpg"
+          },
+          {
+            "id": "banner-layer-17-l24i",
+            "type": "gradient",
+            "name": "Градиент",
+            "settings": {
+              "type": "segment",
+              "start": "#000000",
+              "startAlpha": 0,
+              "end": "#ffffff",
+              "endAlpha": 1,
+              "endStop": 100,
+              "smoothness": 100,
+              "angle": 103.3245312618908,
+              "vector": {
+                "x1": -15.245643028846153,
+                "y1": -12.29110962566845,
+                "x2": 112.63897235576923,
+                "y2": 122.4682486631016
+              },
+              "opacity": 1,
+              "blend": "normal",
+              "segmentEditingPaused": true,
+              "projectLayerId": "banner-layer-17-l24i",
+              "stops": [
+                {
+                  "id": "gradient-stop-mvm5jyif-2",
+                  "label": "C",
+                  "pos": 0.6990666150619705,
+                  "color": "#ffffff",
+                  "alpha": 1,
+                  "transparent": false
+                },
+                {
+                  "id": "gradient-stop-mvm5kcq2-3",
+                  "label": "D",
+                  "pos": 0.0032084309133489463,
+                  "color": "#ffffff",
+                  "alpha": 1,
+                  "transparent": false
+                },
+                {
+                  "id": "gradient-stop-mvm5wfx0-6",
+                  "label": "G",
+                  "pos": 0.5545614650933235,
+                  "color": "#ffffff",
+                  "alpha": 1,
+                  "transparent": false
+                }
+              ],
+              "stopSequence": 7,
+              "selectedStop": "gradient-stop-mvm5kcq2-3",
+              "startTransparent": true,
+              "endTransparent": false
+            },
+            "opacity": 1,
+            "hidden": false,
+            "effects": {
+              "enabled": false,
+              "bright": 100,
+              "contrast": 100,
+              "saturation": 100,
+              "hue": 0,
+              "sepia": 0,
+              "gray": 0,
+              "blur": 0,
+              "vig": 0,
+              "vigSize": 30,
+              "vigColor": "#000000",
+              "grain": 0,
+              "grainSize": 1
+            },
+            "z": 23
+          },
+          {
+            "id": "banner-layer-18-t9zr",
+            "type": "image",
+            "name": "kawpfRAMcOWOfr8GXITUVQ.jpeg",
+            "x": 26.115120639907808,
+            "y": -3.1311630821816907,
+            "w": 43.02409267608404,
+            "h": 49.612156867109405,
+            "z": 21,
+            "opacity": 1,
+            "blend": "normal",
+            "aspectRatio": 1.7777777777777777,
+            "effects": {
+              "enabled": false,
+              "bright": 100,
+              "contrast": 100,
+              "saturation": 100,
+              "hue": 0,
+              "sepia": 0,
+              "gray": 0,
+              "blur": 0,
+              "vig": 0,
+              "vigSize": 30,
+              "vigColor": "#000000",
+              "grain": 0,
+              "grainSize": 1
+            },
+            "userSized": true,
+            "hidden": true,
+            "assetPath": "assets/image_002.jpg"
+          },
+          {
+            "id": "banner-layer-19-isan",
+            "type": "image",
+            "name": "Медиа · the_last_of_us_part_i_cover.jpg",
+            "x": 61.95656131472571,
+            "y": -5.711845687087959,
+            "w": 48.73474571231315,
+            "h": 56.1972536495111,
+            "z": 22,
+            "opacity": 1,
+            "blend": "normal",
+            "aspectRatio": 1.7777777777777777,
+            "effects": {
+              "enabled": false,
+              "bright": 100,
+              "contrast": 100,
+              "saturation": 100,
+              "hue": 0,
+              "sepia": 0,
+              "gray": 0,
+              "blur": 0,
+              "vig": 0,
+              "vigSize": 30,
+              "vigColor": "#000000",
+              "grain": 0,
+              "grainSize": 1
+            },
+            "userSized": true,
+            "hidden": true,
+            "assetPath": "assets/image_003.jpg"
+          },
+          {
+            "id": "banner-layer-20-0uhs",
+            "type": "image",
+            "name": "orig.webp",
+            "x": -141.34992831275412,
+            "y": -23.39213294158319,
+            "w": 202.51315480685972,
+            "h": 233.5229816366601,
+            "z": 25,
+            "opacity": 1,
+            "blend": "normal",
+            "aspectRatio": 1.7777777777777777,
+            "effects": {
+              "enabled": false,
+              "bright": 100,
+              "contrast": 100,
+              "saturation": 100,
+              "hue": 0,
+              "sepia": 0,
+              "gray": 0,
+              "blur": 0,
+              "vig": 0,
+              "vigSize": 30,
+              "vigColor": "#000000",
+              "grain": 0,
+              "grainSize": 1
+            },
+            "userSized": true,
+            "hidden": false,
+            "assetPath": "assets/image_004.webp"
+          },
+          {
+            "id": "banner-layer-21-bvon",
+            "type": "image",
+            "name": "kawpfRAMcOWOfr8GXITUVQ.png",
+            "x": 10.184545867531671,
+            "y": -24.665104805378068,
+            "w": 216.22131998764763,
+            "h": 249.33020961075616,
+            "z": 24,
+            "opacity": 1,
+            "blend": "normal",
+            "aspectRatio": 1.7777777777777777,
+            "effects": {
+              "enabled": false,
+              "bright": 100,
+              "contrast": 100,
+              "saturation": 100,
+              "hue": 0,
+              "sepia": 0,
+              "gray": 0,
+              "blur": 0,
+              "vig": 0,
+              "vigSize": 30,
+              "vigColor": "#000000",
+              "grain": 0,
+              "grainSize": 1
+            },
+            "userSized": true,
+            "assetPath": "assets/image_005.png"
+          },
+          {
+            "id": "banner-layer-24-v1k0",
+            "type": "image",
+            "name": "vvv.png",
+            "x": -32.53039780864866,
+            "y": -67.90562118817024,
+            "w": 198.39412895063063,
+            "h": 228.77322994619593,
+            "z": 26,
+            "opacity": 1,
+            "blend": "normal",
+            "aspectRatio": 1.7777777777777777,
+            "effects": {
+              "enabled": false,
+              "bright": 100,
+              "contrast": 100,
+              "saturation": 100,
+              "hue": 0,
+              "sepia": 0,
+              "gray": 0,
+              "blur": 0,
+              "vig": 0,
+              "vigSize": 30,
+              "vigColor": "#000000",
+              "grain": 0,
+              "grainSize": 1
+            },
+            "userSized": true,
+            "assetPath": "assets/image_006.png"
+          }
+        ]
+      },
+      "selected": {
+        "desktop": null,
+        "mobile": "banner-layer-24-v1k0"
+      },
+      "selectedItems": {
+        "desktop": [],
+        "mobile": [
+          "banner-layer-24-v1k0"
+        ]
+      },
+      "gradients": {
+        "desktop": {
+          "type": "segment",
+          "start": "#000000",
+          "startAlpha": 0,
+          "end": "#ffffff",
+          "endAlpha": 1,
+          "endStop": 100,
+          "smoothness": 100,
+          "angle": 103.3245312618908,
+          "vector": {
+            "x1": -15.245643028846153,
+            "y1": -12.29110962566845,
+            "x2": 112.63897235576923,
+            "y2": 122.4682486631016
+          },
+          "opacity": 1,
+          "blend": "normal",
+          "segmentEditingPaused": true,
+          "projectLayerId": "banner-layer-3-xrku",
+          "stops": [
+            {
+              "id": "gradient-stop-mvm5jyif-2",
+              "label": "C",
+              "pos": 0.6990666150619705,
+              "color": "#ffffff",
+              "alpha": 1,
+              "transparent": false
+            },
+            {
+              "id": "gradient-stop-mvm5kcq2-3",
+              "label": "D",
+              "pos": 0.0032084309133489463,
+              "color": "#ffffff",
+              "alpha": 1,
+              "transparent": false
+            },
+            {
+              "id": "gradient-stop-mvm5wfx0-6",
+              "label": "G",
+              "pos": 0.5545614650933235,
+              "color": "#ffffff",
+              "alpha": 1,
+              "transparent": false
+            }
+          ],
+          "stopSequence": 7,
+          "selectedStop": "gradient-stop-mvm5kcq2-3",
+          "startTransparent": true,
+          "endTransparent": false
+        },
+        "mobile": {
+          "type": "segment",
+          "start": "#000000",
+          "startAlpha": 0,
+          "end": "#ffffff",
+          "endAlpha": 1,
+          "endStop": 100,
+          "smoothness": 100,
+          "angle": 103.3245312618908,
+          "vector": {
+            "x1": -15.245643028846153,
+            "y1": -12.29110962566845,
+            "x2": 112.63897235576923,
+            "y2": 122.4682486631016
+          },
+          "opacity": 1,
+          "blend": "normal",
+          "segmentEditingPaused": true,
+          "projectLayerId": "banner-layer-17-l24i",
+          "stops": [
+            {
+              "id": "gradient-stop-mvm5jyif-2",
+              "label": "C",
+              "pos": 0.6990666150619705,
+              "color": "#ffffff",
+              "alpha": 1,
+              "transparent": false
+            },
+            {
+              "id": "gradient-stop-mvm5kcq2-3",
+              "label": "D",
+              "pos": 0.0032084309133489463,
+              "color": "#ffffff",
+              "alpha": 1,
+              "transparent": false
+            },
+            {
+              "id": "gradient-stop-mvm5wfx0-6",
+              "label": "G",
+              "pos": 0.5545614650933235,
+              "color": "#ffffff",
+              "alpha": 1,
+              "transparent": false
+            }
+          ],
+          "stopSequence": 7,
+          "selectedStop": "gradient-stop-mvm5kcq2-3",
+          "startTransparent": true,
+          "endTransparent": false
+        }
+      },
+      "selectedProduct": {
+        "name": "The Last of Us Part II",
+        "gameId": "PPSA15508",
+        "id": 48,
+        "platforms": "PS5",
+        "url": "https://store.playstation.com/en-tr/concept/230079"
+      },
+      "titleText": {
+        "desktop": "A11.STORE",
+        "mobile": "A11.STORE"
+      },
+      "titleStyles": {
+        "desktop": {
+          "text": "A11.STORE",
+          "size": 48,
+          "color": "#ffffff",
+          "weight": "800",
+          "deleted": true,
+          "x": 30.600961538461537,
+          "y": 34.63123885918004,
+          "visible": false,
+          "effects": {
+            "enabled": false,
+            "bright": 100,
+            "contrast": 100,
+            "saturation": 100,
+            "hue": 0,
+            "sepia": 0,
+            "gray": 0,
+            "blur": 0,
+            "vig": 0,
+            "vigSize": 30,
+            "vigColor": "#000000",
+            "grain": 0,
+            "grainSize": 1
+          }
+        },
+        "mobile": {
+          "text": "A11.STORE",
+          "size": 48,
+          "color": "#ffffff",
+          "weight": "800",
+          "deleted": true,
+          "x": 30.600961538461537,
+          "y": 34.63123885918004,
+          "visible": false,
+          "effects": {
+            "enabled": false,
+            "bright": 100,
+            "contrast": 100,
+            "saturation": 100,
+            "hue": 0,
+            "sepia": 0,
+            "gray": 0,
+            "blur": 0,
+            "vig": 0,
+            "vigSize": 30,
+            "vigColor": "#000000",
+            "grain": 0,
+            "grainSize": 1
+          }
+        }
+      },
+      "mobileInitialized": true,
+      "workspaceViews": {
+        "desktop": {
+          "zoom": 100,
+          "width": 100,
+          "height": 417,
+          "panX": 86,
+          "panY": 11
+        },
+        "mobile": {
+          "zoom": 54.88116360940265,
+          "width": 100,
+          "height": 649,
+          "panX": 200.40100814827105,
+          "panY": 72.92316536587867
+        }
+      },
+      "titleSize": "48",
+      "titleColor": "#ffffff",
+      "titleWeight": "800",
+      "fontData": "",
+      "fontName": "",
+      "fontMime": "",
+      "wholeEffects": {
+        "desktop": {
+          "enabled": false,
+          "bright": 100,
+          "contrast": 100,
+          "saturation": 100,
+          "hue": 0,
+          "sepia": 0,
+          "gray": 0,
+          "blur": 0,
+          "vig": 0,
+          "vigSize": 30,
+          "vigColor": "#000000",
+          "grain": 0,
+          "grainSize": 1
+        },
+        "mobile": {
+          "enabled": false,
+          "bright": 100,
+          "contrast": 100,
+          "saturation": 100,
+          "hue": 0,
+          "sepia": 0,
+          "gray": 0,
+          "blur": 0,
+          "vig": 0,
+          "vigSize": 30,
+          "vigColor": "#000000",
+          "grain": 0,
+          "grainSize": 1
+        }
+      },
+      "workspaceColor": "#d9d9d9",
+      "layerOrder": {
+        "desktop": [
+          "banner-layer-13-wqny",
+          "banner-layer-12-wf4i",
+          "banner-layer-10-e84r",
+          "banner-layer-3-xrku",
+          "banner-layer-9-hl1l",
+          "banner-layer-8-8gyo",
+          "banner-layer-1-1m4n"
+        ],
+        "mobile": [
+          "banner-layer-24-v1k0",
+          "banner-layer-20-0uhs",
+          "banner-layer-21-bvon",
+          "banner-layer-17-l24i",
+          "banner-layer-19-isan",
+          "banner-layer-18-t9zr",
+          "banner-layer-16-ou32"
+        ]
+      },
+      "ratios": [
+        {
+          "id": "mobile",
+          "name": "Среда 41:20",
+          "width": 41,
+          "height": 20
+        }
+      ],
+      "layouts": {
+        "mobile": {
+          "layers": [
+            {
+              "id": "banner-layer-16-ou32",
+              "type": "image",
+              "name": "Медиа · the_last_of_us_part_ii_remastered_cover.jpg",
+              "x": -7.013875188483546,
+              "y": -6.60359482196439,
+              "w": 49.44814502021429,
+              "h": 57.01989222643461,
+              "z": 20,
+              "opacity": 1,
+              "blend": "normal",
+              "aspectRatio": 1.7777777777777777,
+              "effects": {
+                "enabled": false,
+                "bright": 100,
+                "contrast": 100,
+                "saturation": 100,
+                "hue": 0,
+                "sepia": 0,
+                "gray": 0,
+                "blur": 0,
+                "vig": 0,
+                "vigSize": 30,
+                "vigColor": "#000000",
+                "grain": 0,
+                "grainSize": 1
+              },
+              "userSized": true,
+              "hidden": true,
+              "assetPath": "assets/image_001.jpg"
+            },
+            {
+              "id": "banner-layer-17-l24i",
+              "type": "gradient",
+              "name": "Градиент",
+              "settings": {
+                "type": "segment",
+                "start": "#000000",
+                "startAlpha": 0,
+                "end": "#ffffff",
+                "endAlpha": 1,
+                "endStop": 100,
+                "smoothness": 100,
+                "angle": 103.3245312618908,
+                "vector": {
+                  "x1": -15.245643028846153,
+                  "y1": -12.29110962566845,
+                  "x2": 112.63897235576923,
+                  "y2": 122.4682486631016
+                },
+                "opacity": 1,
+                "blend": "normal",
+                "segmentEditingPaused": true,
+                "projectLayerId": "banner-layer-17-l24i",
+                "stops": [
+                  {
+                    "id": "gradient-stop-mvm5jyif-2",
+                    "label": "C",
+                    "pos": 0.6990666150619705,
+                    "color": "#ffffff",
+                    "alpha": 1,
+                    "transparent": false
+                  },
+                  {
+                    "id": "gradient-stop-mvm5kcq2-3",
+                    "label": "D",
+                    "pos": 0.0032084309133489463,
+                    "color": "#ffffff",
+                    "alpha": 1,
+                    "transparent": false
+                  },
+                  {
+                    "id": "gradient-stop-mvm5wfx0-6",
+                    "label": "G",
+                    "pos": 0.5545614650933235,
+                    "color": "#ffffff",
+                    "alpha": 1,
+                    "transparent": false
+                  }
+                ],
+                "stopSequence": 7,
+                "selectedStop": "gradient-stop-mvm5kcq2-3",
+                "startTransparent": true,
+                "endTransparent": false
+              },
+              "opacity": 1,
+              "hidden": false,
+              "effects": {
+                "enabled": false,
+                "bright": 100,
+                "contrast": 100,
+                "saturation": 100,
+                "hue": 0,
+                "sepia": 0,
+                "gray": 0,
+                "blur": 0,
+                "vig": 0,
+                "vigSize": 30,
+                "vigColor": "#000000",
+                "grain": 0,
+                "grainSize": 1
+              },
+              "z": 23
+            },
+            {
+              "id": "banner-layer-18-t9zr",
+              "type": "image",
+              "name": "kawpfRAMcOWOfr8GXITUVQ.jpeg",
+              "x": 26.115120639907808,
+              "y": -3.1311630821816907,
+              "w": 43.02409267608404,
+              "h": 49.612156867109405,
+              "z": 21,
+              "opacity": 1,
+              "blend": "normal",
+              "aspectRatio": 1.7777777777777777,
+              "effects": {
+                "enabled": false,
+                "bright": 100,
+                "contrast": 100,
+                "saturation": 100,
+                "hue": 0,
+                "sepia": 0,
+                "gray": 0,
+                "blur": 0,
+                "vig": 0,
+                "vigSize": 30,
+                "vigColor": "#000000",
+                "grain": 0,
+                "grainSize": 1
+              },
+              "userSized": true,
+              "hidden": true,
+              "assetPath": "assets/image_002.jpg"
+            },
+            {
+              "id": "banner-layer-19-isan",
+              "type": "image",
+              "name": "Медиа · the_last_of_us_part_i_cover.jpg",
+              "x": 61.95656131472571,
+              "y": -5.711845687087959,
+              "w": 48.73474571231315,
+              "h": 56.1972536495111,
+              "z": 22,
+              "opacity": 1,
+              "blend": "normal",
+              "aspectRatio": 1.7777777777777777,
+              "effects": {
+                "enabled": false,
+                "bright": 100,
+                "contrast": 100,
+                "saturation": 100,
+                "hue": 0,
+                "sepia": 0,
+                "gray": 0,
+                "blur": 0,
+                "vig": 0,
+                "vigSize": 30,
+                "vigColor": "#000000",
+                "grain": 0,
+                "grainSize": 1
+              },
+              "userSized": true,
+              "hidden": true,
+              "assetPath": "assets/image_003.jpg"
+            },
+            {
+              "id": "banner-layer-20-0uhs",
+              "type": "image",
+              "name": "orig.webp",
+              "x": -141.34992831275412,
+              "y": -23.39213294158319,
+              "w": 202.51315480685972,
+              "h": 233.5229816366601,
+              "z": 25,
+              "opacity": 1,
+              "blend": "normal",
+              "aspectRatio": 1.7777777777777777,
+              "effects": {
+                "enabled": false,
+                "bright": 100,
+                "contrast": 100,
+                "saturation": 100,
+                "hue": 0,
+                "sepia": 0,
+                "gray": 0,
+                "blur": 0,
+                "vig": 0,
+                "vigSize": 30,
+                "vigColor": "#000000",
+                "grain": 0,
+                "grainSize": 1
+              },
+              "userSized": true,
+              "hidden": false,
+              "assetPath": "assets/image_004.webp"
+            },
+            {
+              "id": "banner-layer-21-bvon",
+              "type": "image",
+              "name": "kawpfRAMcOWOfr8GXITUVQ.png",
+              "x": 10.184545867531671,
+              "y": -24.665104805378068,
+              "w": 216.22131998764763,
+              "h": 249.33020961075616,
+              "z": 24,
+              "opacity": 1,
+              "blend": "normal",
+              "aspectRatio": 1.7777777777777777,
+              "effects": {
+                "enabled": false,
+                "bright": 100,
+                "contrast": 100,
+                "saturation": 100,
+                "hue": 0,
+                "sepia": 0,
+                "gray": 0,
+                "blur": 0,
+                "vig": 0,
+                "vigSize": 30,
+                "vigColor": "#000000",
+                "grain": 0,
+                "grainSize": 1
+              },
+              "userSized": true,
+              "assetPath": "assets/image_005.png"
+            },
+            {
+              "id": "banner-layer-24-v1k0",
+              "type": "image",
+              "name": "vvv.png",
+              "x": -32.53039780864866,
+              "y": -67.90562118817024,
+              "w": 198.39412895063063,
+              "h": 228.77322994619593,
+              "z": 26,
+              "opacity": 1,
+              "blend": "normal",
+              "aspectRatio": 1.7777777777777777,
+              "effects": {
+                "enabled": false,
+                "bright": 100,
+                "contrast": 100,
+                "saturation": 100,
+                "hue": 0,
+                "sepia": 0,
+                "gray": 0,
+                "blur": 0,
+                "vig": 0,
+                "vigSize": 30,
+                "vigColor": "#000000",
+                "grain": 0,
+                "grainSize": 1
+              },
+              "userSized": true,
+              "assetPath": "assets/image_006.png"
+            }
+          ],
+          "title": {
+            "text": "A11.STORE",
+            "size": 48,
+            "color": "#ffffff",
+            "weight": "800",
+            "deleted": true,
+            "x": 30.600961538461537,
+            "y": 34.63123885918004,
+            "visible": false,
+            "effects": {
+              "enabled": false,
+              "bright": 100,
+              "contrast": 100,
+              "saturation": 100,
+              "hue": 0,
+              "sepia": 0,
+              "gray": 0,
+              "blur": 0,
+              "vig": 0,
+              "vigSize": 30,
+              "vigColor": "#000000",
+              "grain": 0,
+              "grainSize": 1
+            }
+          },
+          "gradient": {
+            "type": "segment",
+            "start": "#000000",
+            "startAlpha": 0,
+            "end": "#ffffff",
+            "endAlpha": 1,
+            "endStop": 100,
+            "smoothness": 100,
+            "angle": 103.3245312618908,
+            "vector": {
+              "x1": -15.245643028846153,
+              "y1": -12.29110962566845,
+              "x2": 112.63897235576923,
+              "y2": 122.4682486631016
+            },
+            "opacity": 1,
+            "blend": "normal",
+            "segmentEditingPaused": true,
+            "projectLayerId": "banner-layer-17-l24i",
+            "stops": [
+              {
+                "id": "gradient-stop-mvm5jyif-2",
+                "label": "C",
+                "pos": 0.6990666150619705,
+                "color": "#ffffff",
+                "alpha": 1,
+                "transparent": false
+              },
+              {
+                "id": "gradient-stop-mvm5kcq2-3",
+                "label": "D",
+                "pos": 0.0032084309133489463,
+                "color": "#ffffff",
+                "alpha": 1,
+                "transparent": false
+              },
+              {
+                "id": "gradient-stop-mvm5wfx0-6",
+                "label": "G",
+                "pos": 0.5545614650933235,
+                "color": "#ffffff",
+                "alpha": 1,
+                "transparent": false
+              }
+            ],
+            "stopSequence": 7,
+            "selectedStop": "gradient-stop-mvm5kcq2-3",
+            "startTransparent": true,
+            "endTransparent": false
+          },
+          "order": [
+            "banner-layer-24-v1k0",
+            "banner-layer-20-0uhs",
+            "banner-layer-21-bvon",
+            "banner-layer-17-l24i",
+            "banner-layer-19-isan",
+            "banner-layer-18-t9zr",
+            "banner-layer-16-ou32"
+          ],
+          "workspace": {
+            "zoom": 54.88116360940265,
+            "width": 100,
+            "height": 649,
+            "panX": 200.40100814827105,
+            "panY": 72.92316536587867
+          },
+          "effects": {
+            "enabled": false,
+            "bright": 100,
+            "contrast": 100,
+            "saturation": 100,
+            "hue": 0,
+            "sepia": 0,
+            "gray": 0,
+            "blur": 0,
+            "vig": 0,
+            "vigSize": 30,
+            "vigColor": "#000000",
+            "grain": 0,
+            "grainSize": 1
+          }
+        }
+      },
+      "activeRatio": "mobile",
+      "projectStack": true,
+      "environmentsV4": {
+        "primaryExists": true,
+        "activeEnvironment": "mobile",
+        "sequence": 0
+      }
+    },
+    "editorProject": {
+      "version": 3,
+      "modes": {
+        "1": {
+          "vars": {
+            "--hex-bg": "",
+            "--hex-outline": "",
+            "--hex-filter": "",
+            "--hex-filter-op": "",
+            "--t2-frame": "",
+            "--t2-frame-size": "",
+            "--t2-frame-opacity": "",
+            "--t2-frame-blend": "",
+            "--t2-filter": "",
+            "--t2-filter-opacity": "",
+            "--vignette-op": "",
+            "--vignette-color": "",
+            "--vignette-size": "",
+            "--grain-op": "",
+            "--grain-size": "",
+            "--overlay-blur": "",
+            "--font-family": "'Arial',sans-serif",
+            "--font-size": "",
+            "--text-stroke-width": "",
+            "--text-stroke-color": "",
+            "--text-shadow-x": "",
+            "--text-shadow-y": "",
+            "--text-shadow-blur": "",
+            "--text-shadow-color": "",
+            "--plate-color": "",
+            "--plate-opacity": "",
+            "--text-color": "",
+            "--white-bar-color": "",
+            "--plate-tex-blend": ""
+          },
+          "inputs": {
+            "banner-product-query": "",
+            "hex-bg": "#111111",
+            "hex-outline": "#000000",
+            "stroke": "5",
+            "shadow-op": "79",
+            "hex-filter-col": "#ffffff",
+            "hex-filter-op": "10",
+            "extra-cover-op": "100",
+            "sat": "0",
+            "blur": "2",
+            "scale": "100",
+            "t2-frame-col": "#000000",
+            "t2-frame-size": "0",
+            "t2-frame-op": "100",
+            "t2-filter-col": "#c81414",
+            "t2-filter-op": "75",
+            "t2-sat": "100",
+            "banner-fx-scope": "selected",
+            "banner-fx-enabled": false,
+            "banner-fx-vig": "0",
+            "banner-fx-vigSize": "30",
+            "banner-fx-grain": "0",
+            "banner-fx-grainSize": "1",
+            "banner-fx-blur": "0",
+            "banner-fx-vigColor": "#000000",
+            "banner-fx-bright": "100",
+            "banner-fx-contrast": "100",
+            "banner-fx-saturation": "100",
+            "banner-fx-hue": "0",
+            "banner-fx-sepia": "0",
+            "banner-fx-gray": "0",
+            "banner-gradient-start": "#000000",
+            "banner-gradient-start-alpha": "100",
+            "banner-gradient-end": "#ffffff",
+            "banner-gradient-end-alpha": "0",
+            "banner-gradient-stop-select": "",
+            "banner-gradient-stop-position": "50",
+            "banner-gradient-stop-color": "#ffffff",
+            "banner-gradient-stop-alpha": "100",
+            "banner-gradient-type": "segment",
+            "banner-gradient-opacity": "100",
+            "banner-gradient-smoothness": "100",
+            "banner-gradient-angle": "90",
+            "banner-gradient-blend": "normal",
+            "banner-gradient-end-stop": "100",
+            "banner-title-size": "48",
+            "banner-title-color": "#ffffff",
+            "banner-title-weight": "800",
+            "banner-text-family": "",
+            "banner-text-strokeColor": "#000000",
+            "banner-text-strokeWidth": "0",
+            "banner-text-shadowColor": "#000000",
+            "banner-text-shadowX": "0",
+            "banner-text-shadowY": "0",
+            "banner-text-shadowBlur": "0",
+            "vig-color": "#000000",
+            "vig-size": "30",
+            "vig": "0",
+            "grain": "0",
+            "grain-size": "1",
+            "ov-blur": "0",
+            "plate-col": "#000000",
+            "plate-op": "100",
+            "bar-col": "#ffffff",
+            "ptex-op": "100",
+            "ptex-filter-col": "#000000",
+            "text-col": "#ffffff",
+            "font-fam": "'Arial',sans-serif",
+            "font-size": "56",
+            "stroke-col": "#000000",
+            "stroke-w": "0",
+            "tshadow-col": "#000000",
+            "tshadow-x": "0",
+            "tshadow-y": "0",
+            "tshadow-blur": "0",
+            "bright": "100",
+            "contrast": "100",
+            "hue": "0",
+            "sepia": "0",
+            "grayscale": "0"
+          },
+          "toggles": {
+            "block-colors": true,
+            "block-hexfilter": true,
+            "block-photo": true,
+            "block-frame": false,
+            "block-t2filter": false,
+            "block-effects": false,
+            "block-plate": true,
+            "block-text": true,
+            "block-cc": true
+          },
+          "title": "A11.STORE",
+          "plateTex": "",
+          "cc": {
+            "bright": 100,
+            "contrast": 100,
+            "hue": 0,
+            "sepia": 0,
+            "gray": 0
+          },
+          "fontData": "",
+          "fontName": "",
+          "fontMime": "",
+          "hexImgs": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "2": {
+          "vars": {
+            "--hex-bg": "",
+            "--hex-outline": "",
+            "--hex-filter": "",
+            "--hex-filter-op": "",
+            "--t2-frame": "",
+            "--t2-frame-size": "",
+            "--t2-frame-opacity": "",
+            "--t2-frame-blend": "",
+            "--t2-filter": "",
+            "--t2-filter-opacity": "",
+            "--vignette-op": "",
+            "--vignette-color": "",
+            "--vignette-size": "",
+            "--grain-op": "",
+            "--grain-size": "",
+            "--overlay-blur": "",
+            "--font-family": "",
+            "--font-size": "",
+            "--text-stroke-width": "",
+            "--text-stroke-color": "",
+            "--text-shadow-x": "",
+            "--text-shadow-y": "",
+            "--text-shadow-blur": "",
+            "--text-shadow-color": "",
+            "--plate-color": "",
+            "--plate-opacity": "",
+            "--text-color": "",
+            "--white-bar-color": "",
+            "--plate-tex-blend": ""
+          },
+          "inputs": {
+            "banner-product-query": "",
+            "hex-bg": "#111111",
+            "hex-outline": "#000000",
+            "stroke": "5",
+            "shadow-op": "79",
+            "hex-filter-col": "#ffffff",
+            "hex-filter-op": "10",
+            "extra-cover-op": "100",
+            "sat": "0",
+            "blur": "2",
+            "scale": "100",
+            "t2-frame-col": "#000000",
+            "t2-frame-size": "0",
+            "t2-frame-op": "100",
+            "t2-filter-col": "#c81414",
+            "t2-filter-op": "75",
+            "t2-sat": "100",
+            "banner-fx-scope": "selected",
+            "banner-fx-enabled": false,
+            "banner-fx-vig": "0",
+            "banner-fx-vigSize": "30",
+            "banner-fx-grain": "0",
+            "banner-fx-grainSize": "1",
+            "banner-fx-blur": "0",
+            "banner-fx-vigColor": "#000000",
+            "banner-fx-bright": "100",
+            "banner-fx-contrast": "100",
+            "banner-fx-saturation": "100",
+            "banner-fx-hue": "0",
+            "banner-fx-sepia": "0",
+            "banner-fx-gray": "0",
+            "banner-gradient-type": "segment",
+            "banner-gradient-start": "#000000",
+            "banner-gradient-start-alpha": "100",
+            "banner-gradient-end": "#ffffff",
+            "banner-gradient-end-alpha": "0",
+            "banner-gradient-smoothness": "100",
+            "banner-gradient-end-stop": "100",
+            "banner-gradient-angle": "90",
+            "banner-gradient-opacity": "100",
+            "banner-gradient-blend": "normal",
+            "banner-gradient-stop-select": "",
+            "banner-gradient-stop-position": "50",
+            "banner-gradient-stop-color": "#ffffff",
+            "banner-gradient-stop-alpha": "100",
+            "banner-title-text": "A11.STORE",
+            "banner-title-size": "48",
+            "banner-title-color": "#ffffff",
+            "banner-title-weight": "800",
+            "banner-text-family": "",
+            "banner-text-strokeColor": "#000000",
+            "banner-text-strokeWidth": "0",
+            "banner-text-shadowColor": "#000000",
+            "banner-text-shadowX": "0",
+            "banner-text-shadowY": "0",
+            "banner-text-shadowBlur": "0",
+            "vig-color": "#000000",
+            "vig-size": "30",
+            "vig": "0",
+            "grain": "0",
+            "grain-size": "1",
+            "ov-blur": "0",
+            "plate-col": "#000000",
+            "plate-op": "100",
+            "bar-col": "#ffffff",
+            "ptex-op": "100",
+            "ptex-filter-col": "#000000",
+            "text-col": "#ffffff",
+            "font-fam": "'Arial Black',sans-serif",
+            "font-size": "56",
+            "stroke-col": "#000000",
+            "stroke-w": "0",
+            "tshadow-col": "#000000",
+            "tshadow-x": "0",
+            "tshadow-y": "0",
+            "tshadow-blur": "0",
+            "bright": "100",
+            "contrast": "100",
+            "hue": "0",
+            "sepia": "0",
+            "grayscale": "0"
+          },
+          "toggles": {
+            "block-colors": true,
+            "block-hexfilter": true,
+            "block-photo": true,
+            "block-frame": false,
+            "block-t2filter": false,
+            "block-effects": false,
+            "block-plate": true,
+            "block-text": true,
+            "block-cc": true
+          },
+          "title": "A11.STORE",
+          "plateTex": "",
+          "cc": {
+            "bright": 100,
+            "contrast": 100,
+            "hue": 0,
+            "sepia": 0,
+            "gray": 0
+          },
+          "fontData": "",
+          "fontName": "",
+          "fontMime": "",
+          "t2Img": null,
+          "t2Transform": {
+            "x": 0,
+            "y": 0,
+            "s": 1
+          }
+        },
+        "3": {
+          "vars": {
+            "--hex-bg": "#111111",
+            "--hex-outline": "#000000",
+            "--hex-filter": "",
+            "--hex-filter-op": "",
+            "--t2-frame": "",
+            "--t2-frame-size": "",
+            "--t2-frame-opacity": "",
+            "--t2-frame-blend": "normal",
+            "--t2-filter": "",
+            "--t2-filter-opacity": "",
+            "--vignette-op": "",
+            "--vignette-color": "",
+            "--vignette-size": "",
+            "--grain-op": "",
+            "--grain-size": "",
+            "--overlay-blur": "",
+            "--font-family": "",
+            "--font-size": "",
+            "--text-stroke-width": "",
+            "--text-stroke-color": "",
+            "--text-shadow-x": "",
+            "--text-shadow-y": "",
+            "--text-shadow-blur": "",
+            "--text-shadow-color": "",
+            "--plate-color": "",
+            "--plate-opacity": "1",
+            "--text-color": "",
+            "--white-bar-color": "",
+            "--plate-tex-blend": "normal"
+          },
+          "inputs": {
+            "banner-product-query": "dawnw",
+            "hex-bg": "#111111",
+            "hex-outline": "#000000",
+            "stroke": "5",
+            "shadow-op": "79",
+            "hex-filter-col": "#ffffff",
+            "hex-filter-op": "10",
+            "extra-cover-op": "100",
+            "sat": "0",
+            "blur": "2",
+            "scale": "100",
+            "t2-frame-col": "#000000",
+            "t2-frame-size": "0",
+            "t2-frame-op": "100",
+            "t2-filter-col": "#c81414",
+            "t2-filter-op": "75",
+            "t2-sat": "100",
+            "banner-fx-scope": "selected",
+            "banner-fx-enabled": false,
+            "banner-fx-vig": "0",
+            "banner-fx-vigSize": "30",
+            "banner-fx-grain": "0",
+            "banner-fx-grainSize": "1",
+            "banner-fx-blur": "0",
+            "banner-fx-vigColor": "#000000",
+            "banner-fx-bright": "100",
+            "banner-fx-contrast": "100",
+            "banner-fx-saturation": "100",
+            "banner-fx-hue": "0",
+            "banner-fx-sepia": "0",
+            "banner-fx-gray": "0",
+            "banner-gradient-start": "#000000",
+            "banner-gradient-start-alpha": "0",
+            "inline-position-gradient-stop-mvm5kcq2-3": "0.3",
+            "inline-alpha-gradient-stop-mvm5kcq2-3": "100",
+            "inline-position-gradient-stop-mvm5wfx0-6": "55.5",
+            "inline-alpha-gradient-stop-mvm5wfx0-6": "100",
+            "inline-position-gradient-stop-mvm5jyif-2": "69.9",
+            "inline-alpha-gradient-stop-mvm5jyif-2": "100",
+            "banner-gradient-end": "#ffffff",
+            "banner-gradient-end-alpha": "100",
+            "banner-gradient-stop-select": "gradient-stop-mvm5kcq2-3",
+            "banner-gradient-stop-position": "0.3",
+            "banner-gradient-stop-color": "#ffffff",
+            "banner-gradient-stop-alpha": "100",
+            "banner-gradient-type": "segment",
+            "banner-gradient-opacity": "100",
+            "banner-gradient-smoothness": "100",
+            "banner-gradient-angle": "103",
+            "banner-gradient-blend": "normal",
+            "banner-gradient-end-stop": "100",
+            "banner-title-size": "48",
+            "banner-title-color": "#ffffff",
+            "banner-title-weight": "800",
+            "banner-text-family": "",
+            "banner-text-strokeColor": "#000000",
+            "banner-text-strokeWidth": "0",
+            "banner-text-shadowColor": "#000000",
+            "banner-text-shadowX": "0",
+            "banner-text-shadowY": "0",
+            "banner-text-shadowBlur": "0",
+            "vig-color": "#000000",
+            "vig-size": "30",
+            "vig": "0",
+            "grain": "0",
+            "grain-size": "1",
+            "ov-blur": "0",
+            "plate-col": "#000000",
+            "plate-op": "100",
+            "bar-col": "#ffffff",
+            "ptex-op": "100",
+            "ptex-filter-col": "#000000",
+            "text-col": "#ffffff",
+            "font-fam": "'Arial Black',sans-serif",
+            "font-size": "56",
+            "stroke-col": "#000000",
+            "stroke-w": "0",
+            "tshadow-col": "#000000",
+            "tshadow-x": "0",
+            "tshadow-y": "0",
+            "tshadow-blur": "0",
+            "bright": "100",
+            "contrast": "100",
+            "hue": "0",
+            "sepia": "0",
+            "grayscale": "0"
+          },
+          "toggles": {
+            "block-colors": true,
+            "block-hexfilter": true,
+            "block-photo": true,
+            "block-frame": false,
+            "block-t2filter": false,
+            "block-effects": false,
+            "block-plate": true,
+            "block-text": true,
+            "block-cc": true
+          },
+          "title": "A11.STORE",
+          "plateTex": "",
+          "cc": {
+            "bright": 100,
+            "contrast": 100,
+            "hue": 0,
+            "sepia": 0,
+            "gray": 0
+          },
+          "fontData": "",
+          "fontName": "",
+          "fontMime": "",
+          "banner": {
+            "target": "mobile",
+            "layers": {
+              "desktop": [
+                {
+                  "id": "banner-layer-1-1m4n",
+                  "type": "image",
+                  "name": "Медиа · the_last_of_us_part_ii_remastered_cover.jpg",
+                  "x": -7.013875188483546,
+                  "y": -6.60359482196439,
+                  "w": 49.44814502021429,
+                  "h": 123.62036255053575,
+                  "z": 20,
+                  "opacity": 1,
+                  "blend": "normal",
+                  "aspectRatio": 1.7777777777777777,
+                  "effects": {
+                    "enabled": false,
+                    "bright": 100,
+                    "contrast": 100,
+                    "saturation": 100,
+                    "hue": 0,
+                    "sepia": 0,
+                    "gray": 0,
+                    "blur": 0,
+                    "vig": 0,
+                    "vigSize": 30,
+                    "vigColor": "#000000",
+                    "grain": 0,
+                    "grainSize": 1
+                  },
+                  "userSized": true,
+                  "hidden": true,
+                  "assetPath": "assets/image_001.jpg"
+                },
+                {
+                  "id": "banner-layer-3-xrku",
+                  "type": "gradient",
+                  "name": "Градиент",
+                  "settings": {
+                    "type": "segment",
+                    "start": "#000000",
+                    "startAlpha": 0,
+                    "end": "#ffffff",
+                    "endAlpha": 1,
+                    "endStop": 100,
+                    "smoothness": 100,
+                    "angle": 103.3245312618908,
+                    "vector": {
+                      "x1": -15.245643028846153,
+                      "y1": -12.29110962566845,
+                      "x2": 112.63897235576923,
+                      "y2": 122.4682486631016
+                    },
+                    "opacity": 1,
+                    "blend": "normal",
+                    "segmentEditingPaused": true,
+                    "projectLayerId": "banner-layer-3-xrku",
+                    "stops": [
+                      {
+                        "id": "gradient-stop-mvm5jyif-2",
+                        "label": "C",
+                        "pos": 0.6990666150619705,
+                        "color": "#ffffff",
+                        "alpha": 1,
+                        "transparent": false
+                      },
+                      {
+                        "id": "gradient-stop-mvm5kcq2-3",
+                        "label": "D",
+                        "pos": 0.0032084309133489463,
+                        "color": "#ffffff",
+                        "alpha": 1,
+                        "transparent": false
+                      },
+                      {
+                        "id": "gradient-stop-mvm5wfx0-6",
+                        "label": "G",
+                        "pos": 0.5545614650933235,
+                        "color": "#ffffff",
+                        "alpha": 1,
+                        "transparent": false
+                      }
+                    ],
+                    "stopSequence": 7,
+                    "selectedStop": "gradient-stop-mvm5kcq2-3",
+                    "startTransparent": true,
+                    "endTransparent": false
+                  },
+                  "opacity": 1,
+                  "hidden": false,
+                  "effects": {
+                    "enabled": false,
+                    "bright": 100,
+                    "contrast": 100,
+                    "saturation": 100,
+                    "hue": 0,
+                    "sepia": 0,
+                    "gray": 0,
+                    "blur": 0,
+                    "vig": 0,
+                    "vigSize": 30,
+                    "vigColor": "#000000",
+                    "grain": 0,
+                    "grainSize": 1
+                  },
+                  "z": 23
+                },
+                {
+                  "id": "banner-layer-8-8gyo",
+                  "type": "image",
+                  "name": "kawpfRAMcOWOfr8GXITUVQ.jpeg",
+                  "x": 26.115120639907808,
+                  "y": -3.1311630821816907,
+                  "w": 43.02409267608404,
+                  "h": 107.5602316902101,
+                  "z": 21,
+                  "opacity": 1,
+                  "blend": "normal",
+                  "aspectRatio": 1.7777777777777777,
+                  "effects": {
+                    "enabled": false,
+                    "bright": 100,
+                    "contrast": 100,
+                    "saturation": 100,
+                    "hue": 0,
+                    "sepia": 0,
+                    "gray": 0,
+                    "blur": 0,
+                    "vig": 0,
+                    "vigSize": 30,
+                    "vigColor": "#000000",
+                    "grain": 0,
+                    "grainSize": 1
+                  },
+                  "userSized": true,
+                  "hidden": true,
+                  "assetPath": "assets/image_002.jpg"
+                },
+                {
+                  "id": "banner-layer-9-hl1l",
+                  "type": "image",
+                  "name": "Медиа · the_last_of_us_part_i_cover.jpg",
+                  "x": 61.95656131472571,
+                  "y": -5.711845687087959,
+                  "w": 48.73474571231315,
+                  "h": 121.83686428078288,
+                  "z": 22,
+                  "opacity": 1,
+                  "blend": "normal",
+                  "aspectRatio": 1.7777777777777777,
+                  "effects": {
+                    "enabled": false,
+                    "bright": 100,
+                    "contrast": 100,
+                    "saturation": 100,
+                    "hue": 0,
+                    "sepia": 0,
+                    "gray": 0,
+                    "blur": 0,
+                    "vig": 0,
+                    "vigSize": 30,
+                    "vigColor": "#000000",
+                    "grain": 0,
+                    "grainSize": 1
+                  },
+                  "userSized": true,
+                  "hidden": true,
+                  "assetPath": "assets/image_003.jpg"
+                },
+                {
+                  "id": "banner-layer-10-e84r",
+                  "type": "image",
+                  "name": "orig.webp",
+                  "x": -75.49153840004804,
+                  "y": -31.602021058698337,
+                  "w": 108.82487173338137,
+                  "h": 272.06217933345346,
+                  "z": 24,
+                  "opacity": 1,
+                  "blend": "normal",
+                  "aspectRatio": 1.7777777777777777,
+                  "effects": {
+                    "enabled": false,
+                    "bright": 100,
+                    "contrast": 100,
+                    "saturation": 100,
+                    "hue": 0,
+                    "sepia": 0,
+                    "gray": 0,
+                    "blur": 0,
+                    "vig": 0,
+                    "vigSize": 30,
+                    "vigColor": "#000000",
+                    "grain": 0,
+                    "grainSize": 1
+                  },
+                  "userSized": true,
+                  "hidden": false,
+                  "assetPath": "assets/image_004.webp"
+                },
+                {
+                  "id": "banner-layer-12-wf4i",
+                  "type": "image",
+                  "name": "kawpfRAMcOWOfr8GXITUVQ.png",
+                  "x": 47.62716697794983,
+                  "y": -31.083300706634336,
+                  "w": 118.48005474816456,
+                  "h": 296.2001368704114,
+                  "z": 25,
+                  "opacity": 1,
+                  "blend": "normal",
+                  "aspectRatio": 1.7777777777777777,
+                  "effects": {
+                    "enabled": false,
+                    "bright": 100,
+                    "contrast": 100,
+                    "saturation": 100,
+                    "hue": 0,
+                    "sepia": 0,
+                    "gray": 0,
+                    "blur": 0,
+                    "vig": 0,
+                    "vigSize": 30,
+                    "vigColor": "#000000",
+                    "grain": 0,
+                    "grainSize": 1
+                  },
+                  "userSized": true,
+                  "assetPath": "assets/image_005.png"
+                },
+                {
+                  "id": "banner-layer-13-wqny",
+                  "type": "image",
+                  "name": "vvv.png",
+                  "x": -23.663269606955343,
+                  "y": -192.49150735072172,
+                  "w": 180.659872547244,
+                  "h": 451.64968136811,
+                  "z": 26,
+                  "opacity": 1,
+                  "blend": "normal",
+                  "aspectRatio": 1.7777777777777777,
+                  "effects": {
+                    "enabled": false,
+                    "bright": 100,
+                    "contrast": 100,
+                    "saturation": 100,
+                    "hue": 0,
+                    "sepia": 0,
+                    "gray": 0,
+                    "blur": 0,
+                    "vig": 0,
+                    "vigSize": 30,
+                    "vigColor": "#000000",
+                    "grain": 0,
+                    "grainSize": 1
+                  },
+                  "userSized": true,
+                  "assetPath": "assets/image_006.png"
+                }
+              ],
+              "mobile": [
+                {
+                  "id": "banner-layer-16-ou32",
+                  "type": "image",
+                  "name": "Медиа · the_last_of_us_part_ii_remastered_cover.jpg",
+                  "x": -7.013875188483546,
+                  "y": -6.60359482196439,
+                  "w": 49.44814502021429,
+                  "h": 57.01989222643461,
+                  "z": 20,
+                  "opacity": 1,
+                  "blend": "normal",
+                  "aspectRatio": 1.7777777777777777,
+                  "effects": {
+                    "enabled": false,
+                    "bright": 100,
+                    "contrast": 100,
+                    "saturation": 100,
+                    "hue": 0,
+                    "sepia": 0,
+                    "gray": 0,
+                    "blur": 0,
+                    "vig": 0,
+                    "vigSize": 30,
+                    "vigColor": "#000000",
+                    "grain": 0,
+                    "grainSize": 1
+                  },
+                  "userSized": true,
+                  "hidden": true,
+                  "assetPath": "assets/image_001.jpg"
+                },
+                {
+                  "id": "banner-layer-17-l24i",
+                  "type": "gradient",
+                  "name": "Градиент",
+                  "settings": {
+                    "type": "segment",
+                    "start": "#000000",
+                    "startAlpha": 0,
+                    "end": "#ffffff",
+                    "endAlpha": 1,
+                    "endStop": 100,
+                    "smoothness": 100,
+                    "angle": 103.3245312618908,
+                    "vector": {
+                      "x1": -15.245643028846153,
+                      "y1": -12.29110962566845,
+                      "x2": 112.63897235576923,
+                      "y2": 122.4682486631016
+                    },
+                    "opacity": 1,
+                    "blend": "normal",
+                    "segmentEditingPaused": true,
+                    "projectLayerId": "banner-layer-17-l24i",
+                    "stops": [
+                      {
+                        "id": "gradient-stop-mvm5jyif-2",
+                        "label": "C",
+                        "pos": 0.6990666150619705,
+                        "color": "#ffffff",
+                        "alpha": 1,
+                        "transparent": false
+                      },
+                      {
+                        "id": "gradient-stop-mvm5kcq2-3",
+                        "label": "D",
+                        "pos": 0.0032084309133489463,
+                        "color": "#ffffff",
+                        "alpha": 1,
+                        "transparent": false
+                      },
+                      {
+                        "id": "gradient-stop-mvm5wfx0-6",
+                        "label": "G",
+                        "pos": 0.5545614650933235,
+                        "color": "#ffffff",
+                        "alpha": 1,
+                        "transparent": false
+                      }
+                    ],
+                    "stopSequence": 7,
+                    "selectedStop": "gradient-stop-mvm5kcq2-3",
+                    "startTransparent": true,
+                    "endTransparent": false
+                  },
+                  "opacity": 1,
+                  "hidden": false,
+                  "effects": {
+                    "enabled": false,
+                    "bright": 100,
+                    "contrast": 100,
+                    "saturation": 100,
+                    "hue": 0,
+                    "sepia": 0,
+                    "gray": 0,
+                    "blur": 0,
+                    "vig": 0,
+                    "vigSize": 30,
+                    "vigColor": "#000000",
+                    "grain": 0,
+                    "grainSize": 1
+                  },
+                  "z": 23
+                },
+                {
+                  "id": "banner-layer-18-t9zr",
+                  "type": "image",
+                  "name": "kawpfRAMcOWOfr8GXITUVQ.jpeg",
+                  "x": 26.115120639907808,
+                  "y": -3.1311630821816907,
+                  "w": 43.02409267608404,
+                  "h": 49.612156867109405,
+                  "z": 21,
+                  "opacity": 1,
+                  "blend": "normal",
+                  "aspectRatio": 1.7777777777777777,
+                  "effects": {
+                    "enabled": false,
+                    "bright": 100,
+                    "contrast": 100,
+                    "saturation": 100,
+                    "hue": 0,
+                    "sepia": 0,
+                    "gray": 0,
+                    "blur": 0,
+                    "vig": 0,
+                    "vigSize": 30,
+                    "vigColor": "#000000",
+                    "grain": 0,
+                    "grainSize": 1
+                  },
+                  "userSized": true,
+                  "hidden": true,
+                  "assetPath": "assets/image_002.jpg"
+                },
+                {
+                  "id": "banner-layer-19-isan",
+                  "type": "image",
+                  "name": "Медиа · the_last_of_us_part_i_cover.jpg",
+                  "x": 61.95656131472571,
+                  "y": -5.711845687087959,
+                  "w": 48.73474571231315,
+                  "h": 56.1972536495111,
+                  "z": 22,
+                  "opacity": 1,
+                  "blend": "normal",
+                  "aspectRatio": 1.7777777777777777,
+                  "effects": {
+                    "enabled": false,
+                    "bright": 100,
+                    "contrast": 100,
+                    "saturation": 100,
+                    "hue": 0,
+                    "sepia": 0,
+                    "gray": 0,
+                    "blur": 0,
+                    "vig": 0,
+                    "vigSize": 30,
+                    "vigColor": "#000000",
+                    "grain": 0,
+                    "grainSize": 1
+                  },
+                  "userSized": true,
+                  "hidden": true,
+                  "assetPath": "assets/image_003.jpg"
+                },
+                {
+                  "id": "banner-layer-20-0uhs",
+                  "type": "image",
+                  "name": "orig.webp",
+                  "x": -141.34992831275412,
+                  "y": -23.39213294158319,
+                  "w": 202.51315480685972,
+                  "h": 233.5229816366601,
+                  "z": 25,
+                  "opacity": 1,
+                  "blend": "normal",
+                  "aspectRatio": 1.7777777777777777,
+                  "effects": {
+                    "enabled": false,
+                    "bright": 100,
+                    "contrast": 100,
+                    "saturation": 100,
+                    "hue": 0,
+                    "sepia": 0,
+                    "gray": 0,
+                    "blur": 0,
+                    "vig": 0,
+                    "vigSize": 30,
+                    "vigColor": "#000000",
+                    "grain": 0,
+                    "grainSize": 1
+                  },
+                  "userSized": true,
+                  "hidden": false,
+                  "assetPath": "assets/image_004.webp"
+                },
+                {
+                  "id": "banner-layer-21-bvon",
+                  "type": "image",
+                  "name": "kawpfRAMcOWOfr8GXITUVQ.png",
+                  "x": 10.184545867531671,
+                  "y": -24.665104805378068,
+                  "w": 216.22131998764763,
+                  "h": 249.33020961075616,
+                  "z": 24,
+                  "opacity": 1,
+                  "blend": "normal",
+                  "aspectRatio": 1.7777777777777777,
+                  "effects": {
+                    "enabled": false,
+                    "bright": 100,
+                    "contrast": 100,
+                    "saturation": 100,
+                    "hue": 0,
+                    "sepia": 0,
+                    "gray": 0,
+                    "blur": 0,
+                    "vig": 0,
+                    "vigSize": 30,
+                    "vigColor": "#000000",
+                    "grain": 0,
+                    "grainSize": 1
+                  },
+                  "userSized": true,
+                  "assetPath": "assets/image_005.png"
+                },
+                {
+                  "id": "banner-layer-24-v1k0",
+                  "type": "image",
+                  "name": "vvv.png",
+                  "x": -32.53039780864866,
+                  "y": -67.90562118817024,
+                  "w": 198.39412895063063,
+                  "h": 228.77322994619593,
+                  "z": 26,
+                  "opacity": 1,
+                  "blend": "normal",
+                  "aspectRatio": 1.7777777777777777,
+                  "effects": {
+                    "enabled": false,
+                    "bright": 100,
+                    "contrast": 100,
+                    "saturation": 100,
+                    "hue": 0,
+                    "sepia": 0,
+                    "gray": 0,
+                    "blur": 0,
+                    "vig": 0,
+                    "vigSize": 30,
+                    "vigColor": "#000000",
+                    "grain": 0,
+                    "grainSize": 1
+                  },
+                  "userSized": true,
+                  "assetPath": "assets/image_006.png"
+                }
+              ]
+            },
+            "selected": {
+              "desktop": null,
+              "mobile": "banner-layer-24-v1k0"
+            },
+            "selectedItems": {
+              "desktop": [],
+              "mobile": [
+                "banner-layer-24-v1k0"
+              ]
+            },
+            "gradients": {
+              "desktop": {
+                "type": "segment",
+                "start": "#000000",
+                "startAlpha": 0,
+                "end": "#ffffff",
+                "endAlpha": 1,
+                "endStop": 100,
+                "smoothness": 100,
+                "angle": 103.3245312618908,
+                "vector": {
+                  "x1": -15.245643028846153,
+                  "y1": -12.29110962566845,
+                  "x2": 112.63897235576923,
+                  "y2": 122.4682486631016
+                },
+                "opacity": 1,
+                "blend": "normal",
+                "segmentEditingPaused": true,
+                "projectLayerId": "banner-layer-3-xrku",
+                "stops": [
+                  {
+                    "id": "gradient-stop-mvm5jyif-2",
+                    "label": "C",
+                    "pos": 0.6990666150619705,
+                    "color": "#ffffff",
+                    "alpha": 1,
+                    "transparent": false
+                  },
+                  {
+                    "id": "gradient-stop-mvm5kcq2-3",
+                    "label": "D",
+                    "pos": 0.0032084309133489463,
+                    "color": "#ffffff",
+                    "alpha": 1,
+                    "transparent": false
+                  },
+                  {
+                    "id": "gradient-stop-mvm5wfx0-6",
+                    "label": "G",
+                    "pos": 0.5545614650933235,
+                    "color": "#ffffff",
+                    "alpha": 1,
+                    "transparent": false
+                  }
+                ],
+                "stopSequence": 7,
+                "selectedStop": "gradient-stop-mvm5kcq2-3",
+                "startTransparent": true,
+                "endTransparent": false
+              },
+              "mobile": {
+                "type": "segment",
+                "start": "#000000",
+                "startAlpha": 0,
+                "end": "#ffffff",
+                "endAlpha": 1,
+                "endStop": 100,
+                "smoothness": 100,
+                "angle": 103.3245312618908,
+                "vector": {
+                  "x1": -15.245643028846153,
+                  "y1": -12.29110962566845,
+                  "x2": 112.63897235576923,
+                  "y2": 122.4682486631016
+                },
+                "opacity": 1,
+                "blend": "normal",
+                "segmentEditingPaused": true,
+                "projectLayerId": "banner-layer-17-l24i",
+                "stops": [
+                  {
+                    "id": "gradient-stop-mvm5jyif-2",
+                    "label": "C",
+                    "pos": 0.6990666150619705,
+                    "color": "#ffffff",
+                    "alpha": 1,
+                    "transparent": false
+                  },
+                  {
+                    "id": "gradient-stop-mvm5kcq2-3",
+                    "label": "D",
+                    "pos": 0.0032084309133489463,
+                    "color": "#ffffff",
+                    "alpha": 1,
+                    "transparent": false
+                  },
+                  {
+                    "id": "gradient-stop-mvm5wfx0-6",
+                    "label": "G",
+                    "pos": 0.5545614650933235,
+                    "color": "#ffffff",
+                    "alpha": 1,
+                    "transparent": false
+                  }
+                ],
+                "stopSequence": 7,
+                "selectedStop": "gradient-stop-mvm5kcq2-3",
+                "startTransparent": true,
+                "endTransparent": false
+              }
+            },
+            "selectedProduct": {
+              "name": "The Last of Us Part II",
+              "gameId": "PPSA15508",
+              "id": 48,
+              "platforms": "PS5",
+              "url": "https://store.playstation.com/en-tr/concept/230079"
+            },
+            "titleText": {
+              "desktop": "A11.STORE",
+              "mobile": "A11.STORE"
+            },
+            "titleStyles": {
+              "desktop": {
+                "text": "A11.STORE",
+                "size": 48,
+                "color": "#ffffff",
+                "weight": "800",
+                "deleted": true,
+                "x": 30.600961538461537,
+                "y": 34.63123885918004,
+                "visible": false,
+                "effects": {
+                  "enabled": false,
+                  "bright": 100,
+                  "contrast": 100,
+                  "saturation": 100,
+                  "hue": 0,
+                  "sepia": 0,
+                  "gray": 0,
+                  "blur": 0,
+                  "vig": 0,
+                  "vigSize": 30,
+                  "vigColor": "#000000",
+                  "grain": 0,
+                  "grainSize": 1
+                }
+              },
+              "mobile": {
+                "text": "A11.STORE",
+                "size": 48,
+                "color": "#ffffff",
+                "weight": "800",
+                "deleted": true,
+                "x": 30.600961538461537,
+                "y": 34.63123885918004,
+                "visible": false,
+                "effects": {
+                  "enabled": false,
+                  "bright": 100,
+                  "contrast": 100,
+                  "saturation": 100,
+                  "hue": 0,
+                  "sepia": 0,
+                  "gray": 0,
+                  "blur": 0,
+                  "vig": 0,
+                  "vigSize": 30,
+                  "vigColor": "#000000",
+                  "grain": 0,
+                  "grainSize": 1
+                }
+              }
+            },
+            "mobileInitialized": true,
+            "workspaceViews": {
+              "desktop": {
+                "zoom": 100,
+                "width": 100,
+                "height": 417,
+                "panX": 86,
+                "panY": 11
+              },
+              "mobile": {
+                "zoom": 54.88116360940265,
+                "width": 100,
+                "height": 649,
+                "panX": 200.40100814827105,
+                "panY": 72.92316536587867
+              }
+            },
+            "titleSize": "48",
+            "titleColor": "#ffffff",
+            "titleWeight": "800",
+            "fontData": "",
+            "fontName": "",
+            "fontMime": "",
+            "wholeEffects": {
+              "desktop": {
+                "enabled": false,
+                "bright": 100,
+                "contrast": 100,
+                "saturation": 100,
+                "hue": 0,
+                "sepia": 0,
+                "gray": 0,
+                "blur": 0,
+                "vig": 0,
+                "vigSize": 30,
+                "vigColor": "#000000",
+                "grain": 0,
+                "grainSize": 1
+              },
+              "mobile": {
+                "enabled": false,
+                "bright": 100,
+                "contrast": 100,
+                "saturation": 100,
+                "hue": 0,
+                "sepia": 0,
+                "gray": 0,
+                "blur": 0,
+                "vig": 0,
+                "vigSize": 30,
+                "vigColor": "#000000",
+                "grain": 0,
+                "grainSize": 1
+              }
+            },
+            "workspaceColor": "#d9d9d9",
+            "layerOrder": {
+              "desktop": [
+                "banner-layer-13-wqny",
+                "banner-layer-12-wf4i",
+                "banner-layer-10-e84r",
+                "banner-layer-3-xrku",
+                "banner-layer-9-hl1l",
+                "banner-layer-8-8gyo",
+                "banner-layer-1-1m4n"
+              ],
+              "mobile": [
+                "banner-layer-24-v1k0",
+                "banner-layer-20-0uhs",
+                "banner-layer-21-bvon",
+                "banner-layer-17-l24i",
+                "banner-layer-19-isan",
+                "banner-layer-18-t9zr",
+                "banner-layer-16-ou32"
+              ]
+            },
+            "ratios": [
+              {
+                "id": "mobile",
+                "name": "Среда 41:20",
+                "width": 41,
+                "height": 20
+              }
+            ],
+            "layouts": {
+              "mobile": {
+                "layers": [
+                  {
+                    "id": "banner-layer-16-ou32",
+                    "type": "image",
+                    "name": "Медиа · the_last_of_us_part_ii_remastered_cover.jpg",
+                    "x": -7.013875188483546,
+                    "y": -6.60359482196439,
+                    "w": 49.44814502021429,
+                    "h": 57.01989222643461,
+                    "z": 20,
+                    "opacity": 1,
+                    "blend": "normal",
+                    "aspectRatio": 1.7777777777777777,
+                    "effects": {
+                      "enabled": false,
+                      "bright": 100,
+                      "contrast": 100,
+                      "saturation": 100,
+                      "hue": 0,
+                      "sepia": 0,
+                      "gray": 0,
+                      "blur": 0,
+                      "vig": 0,
+                      "vigSize": 30,
+                      "vigColor": "#000000",
+                      "grain": 0,
+                      "grainSize": 1
+                    },
+                    "userSized": true,
+                    "hidden": true,
+                    "assetPath": "assets/image_001.jpg"
+                  },
+                  {
+                    "id": "banner-layer-17-l24i",
+                    "type": "gradient",
+                    "name": "Градиент",
+                    "settings": {
+                      "type": "segment",
+                      "start": "#000000",
+                      "startAlpha": 0,
+                      "end": "#ffffff",
+                      "endAlpha": 1,
+                      "endStop": 100,
+                      "smoothness": 100,
+                      "angle": 103.3245312618908,
+                      "vector": {
+                        "x1": -15.245643028846153,
+                        "y1": -12.29110962566845,
+                        "x2": 112.63897235576923,
+                        "y2": 122.4682486631016
+                      },
+                      "opacity": 1,
+                      "blend": "normal",
+                      "segmentEditingPaused": true,
+                      "projectLayerId": "banner-layer-17-l24i",
+                      "stops": [
+                        {
+                          "id": "gradient-stop-mvm5jyif-2",
+                          "label": "C",
+                          "pos": 0.6990666150619705,
+                          "color": "#ffffff",
+                          "alpha": 1,
+                          "transparent": false
+                        },
+                        {
+                          "id": "gradient-stop-mvm5kcq2-3",
+                          "label": "D",
+                          "pos": 0.0032084309133489463,
+                          "color": "#ffffff",
+                          "alpha": 1,
+                          "transparent": false
+                        },
+                        {
+                          "id": "gradient-stop-mvm5wfx0-6",
+                          "label": "G",
+                          "pos": 0.5545614650933235,
+                          "color": "#ffffff",
+                          "alpha": 1,
+                          "transparent": false
+                        }
+                      ],
+                      "stopSequence": 7,
+                      "selectedStop": "gradient-stop-mvm5kcq2-3",
+                      "startTransparent": true,
+                      "endTransparent": false
+                    },
+                    "opacity": 1,
+                    "hidden": false,
+                    "effects": {
+                      "enabled": false,
+                      "bright": 100,
+                      "contrast": 100,
+                      "saturation": 100,
+                      "hue": 0,
+                      "sepia": 0,
+                      "gray": 0,
+                      "blur": 0,
+                      "vig": 0,
+                      "vigSize": 30,
+                      "vigColor": "#000000",
+                      "grain": 0,
+                      "grainSize": 1
+                    },
+                    "z": 23
+                  },
+                  {
+                    "id": "banner-layer-18-t9zr",
+                    "type": "image",
+                    "name": "kawpfRAMcOWOfr8GXITUVQ.jpeg",
+                    "x": 26.115120639907808,
+                    "y": -3.1311630821816907,
+                    "w": 43.02409267608404,
+                    "h": 49.612156867109405,
+                    "z": 21,
+                    "opacity": 1,
+                    "blend": "normal",
+                    "aspectRatio": 1.7777777777777777,
+                    "effects": {
+                      "enabled": false,
+                      "bright": 100,
+                      "contrast": 100,
+                      "saturation": 100,
+                      "hue": 0,
+                      "sepia": 0,
+                      "gray": 0,
+                      "blur": 0,
+                      "vig": 0,
+                      "vigSize": 30,
+                      "vigColor": "#000000",
+                      "grain": 0,
+                      "grainSize": 1
+                    },
+                    "userSized": true,
+                    "hidden": true,
+                    "assetPath": "assets/image_002.jpg"
+                  },
+                  {
+                    "id": "banner-layer-19-isan",
+                    "type": "image",
+                    "name": "Медиа · the_last_of_us_part_i_cover.jpg",
+                    "x": 61.95656131472571,
+                    "y": -5.711845687087959,
+                    "w": 48.73474571231315,
+                    "h": 56.1972536495111,
+                    "z": 22,
+                    "opacity": 1,
+                    "blend": "normal",
+                    "aspectRatio": 1.7777777777777777,
+                    "effects": {
+                      "enabled": false,
+                      "bright": 100,
+                      "contrast": 100,
+                      "saturation": 100,
+                      "hue": 0,
+                      "sepia": 0,
+                      "gray": 0,
+                      "blur": 0,
+                      "vig": 0,
+                      "vigSize": 30,
+                      "vigColor": "#000000",
+                      "grain": 0,
+                      "grainSize": 1
+                    },
+                    "userSized": true,
+                    "hidden": true,
+                    "assetPath": "assets/image_003.jpg"
+                  },
+                  {
+                    "id": "banner-layer-20-0uhs",
+                    "type": "image",
+                    "name": "orig.webp",
+                    "x": -141.34992831275412,
+                    "y": -23.39213294158319,
+                    "w": 202.51315480685972,
+                    "h": 233.5229816366601,
+                    "z": 25,
+                    "opacity": 1,
+                    "blend": "normal",
+                    "aspectRatio": 1.7777777777777777,
+                    "effects": {
+                      "enabled": false,
+                      "bright": 100,
+                      "contrast": 100,
+                      "saturation": 100,
+                      "hue": 0,
+                      "sepia": 0,
+                      "gray": 0,
+                      "blur": 0,
+                      "vig": 0,
+                      "vigSize": 30,
+                      "vigColor": "#000000",
+                      "grain": 0,
+                      "grainSize": 1
+                    },
+                    "userSized": true,
+                    "hidden": false,
+                    "assetPath": "assets/image_004.webp"
+                  },
+                  {
+                    "id": "banner-layer-21-bvon",
+                    "type": "image",
+                    "name": "kawpfRAMcOWOfr8GXITUVQ.png",
+                    "x": 10.184545867531671,
+                    "y": -24.665104805378068,
+                    "w": 216.22131998764763,
+                    "h": 249.33020961075616,
+                    "z": 24,
+                    "opacity": 1,
+                    "blend": "normal",
+                    "aspectRatio": 1.7777777777777777,
+                    "effects": {
+                      "enabled": false,
+                      "bright": 100,
+                      "contrast": 100,
+                      "saturation": 100,
+                      "hue": 0,
+                      "sepia": 0,
+                      "gray": 0,
+                      "blur": 0,
+                      "vig": 0,
+                      "vigSize": 30,
+                      "vigColor": "#000000",
+                      "grain": 0,
+                      "grainSize": 1
+                    },
+                    "userSized": true,
+                    "assetPath": "assets/image_005.png"
+                  },
+                  {
+                    "id": "banner-layer-24-v1k0",
+                    "type": "image",
+                    "name": "vvv.png",
+                    "x": -32.53039780864866,
+                    "y": -67.90562118817024,
+                    "w": 198.39412895063063,
+                    "h": 228.77322994619593,
+                    "z": 26,
+                    "opacity": 1,
+                    "blend": "normal",
+                    "aspectRatio": 1.7777777777777777,
+                    "effects": {
+                      "enabled": false,
+                      "bright": 100,
+                      "contrast": 100,
+                      "saturation": 100,
+                      "hue": 0,
+                      "sepia": 0,
+                      "gray": 0,
+                      "blur": 0,
+                      "vig": 0,
+                      "vigSize": 30,
+                      "vigColor": "#000000",
+                      "grain": 0,
+                      "grainSize": 1
+                    },
+                    "userSized": true,
+                    "assetPath": "assets/image_006.png"
+                  }
+                ],
+                "title": {
+                  "text": "A11.STORE",
+                  "size": 48,
+                  "color": "#ffffff",
+                  "weight": "800",
+                  "deleted": true,
+                  "x": 30.600961538461537,
+                  "y": 34.63123885918004,
+                  "visible": false,
+                  "effects": {
+                    "enabled": false,
+                    "bright": 100,
+                    "contrast": 100,
+                    "saturation": 100,
+                    "hue": 0,
+                    "sepia": 0,
+                    "gray": 0,
+                    "blur": 0,
+                    "vig": 0,
+                    "vigSize": 30,
+                    "vigColor": "#000000",
+                    "grain": 0,
+                    "grainSize": 1
+                  }
+                },
+                "gradient": {
+                  "type": "segment",
+                  "start": "#000000",
+                  "startAlpha": 0,
+                  "end": "#ffffff",
+                  "endAlpha": 1,
+                  "endStop": 100,
+                  "smoothness": 100,
+                  "angle": 103.3245312618908,
+                  "vector": {
+                    "x1": -15.245643028846153,
+                    "y1": -12.29110962566845,
+                    "x2": 112.63897235576923,
+                    "y2": 122.4682486631016
+                  },
+                  "opacity": 1,
+                  "blend": "normal",
+                  "segmentEditingPaused": true,
+                  "projectLayerId": "banner-layer-17-l24i",
+                  "stops": [
+                    {
+                      "id": "gradient-stop-mvm5jyif-2",
+                      "label": "C",
+                      "pos": 0.6990666150619705,
+                      "color": "#ffffff",
+                      "alpha": 1,
+                      "transparent": false
+                    },
+                    {
+                      "id": "gradient-stop-mvm5kcq2-3",
+                      "label": "D",
+                      "pos": 0.0032084309133489463,
+                      "color": "#ffffff",
+                      "alpha": 1,
+                      "transparent": false
+                    },
+                    {
+                      "id": "gradient-stop-mvm5wfx0-6",
+                      "label": "G",
+                      "pos": 0.5545614650933235,
+                      "color": "#ffffff",
+                      "alpha": 1,
+                      "transparent": false
+                    }
+                  ],
+                  "stopSequence": 7,
+                  "selectedStop": "gradient-stop-mvm5kcq2-3",
+                  "startTransparent": true,
+                  "endTransparent": false
+                },
+                "order": [
+                  "banner-layer-24-v1k0",
+                  "banner-layer-20-0uhs",
+                  "banner-layer-21-bvon",
+                  "banner-layer-17-l24i",
+                  "banner-layer-19-isan",
+                  "banner-layer-18-t9zr",
+                  "banner-layer-16-ou32"
+                ],
+                "workspace": {
+                  "zoom": 54.88116360940265,
+                  "width": 100,
+                  "height": 649,
+                  "panX": 200.40100814827105,
+                  "panY": 72.92316536587867
+                },
+                "effects": {
+                  "enabled": false,
+                  "bright": 100,
+                  "contrast": 100,
+                  "saturation": 100,
+                  "hue": 0,
+                  "sepia": 0,
+                  "gray": 0,
+                  "blur": 0,
+                  "vig": 0,
+                  "vigSize": 30,
+                  "vigColor": "#000000",
+                  "grain": 0,
+                  "grainSize": 1
+                }
+              }
+            },
+            "activeRatio": "mobile",
+            "projectStack": true,
+            "environmentsV4": {
+              "primaryExists": true,
+              "activeEnvironment": "mobile",
+              "sequence": 0
+            }
+          },
+          "galleryV4": {
+            "version": 1,
+            "products": [
+              {
+                "key": "ppsa15508",
+                "game": {
+                  "name": "The Last of Us Part II",
+                  "gameId": "PPSA15508",
+                  "id": 48,
+                  "platforms": "PS5",
+                  "url": "https://store.playstation.com/en-tr/concept/230079"
+                },
+                "items": [
+                  {
+                    "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/t2/The_Last_of_Us_Part_II_-_01.jpg?v=53c835a0a1d0392392a40e0a4375e68adec7de96",
+                    "name": "The Last of Us Part II — основная обложка"
+                  },
+                  {
+                    "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/l1/Lord_of_the_Click_II_-_01.jpg?v=893da3c0151c8abf209356c191f898a3e4f52b1e",
+                    "name": "Lord_of_the_Click_II_-_01.jpg · l1"
+                  },
+                  {
+                    "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/t2/The_Last_of_Us_Part_I_-_01.jpg",
+                    "name": "Медиа · The_Last_of_Us_Part_I_-_01.jpg"
+                  },
+                  {
+                    "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_i_screen_01.jpg",
+                    "name": "Кадр · the_last_of_us_part_i_screen_01.jpg"
+                  },
+                  {
+                    "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_i_screen_02.jpg",
+                    "name": "Кадр · the_last_of_us_part_i_screen_02.jpg"
+                  },
+                  {
+                    "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_i_screen_03.jpg",
+                    "name": "Кадр · the_last_of_us_part_i_screen_03.jpg"
+                  },
+                  {
+                    "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_ii_remastered_screen_01.jpg",
+                    "name": "Кадр · the_last_of_us_part_ii_remastered_screen_01.jpg"
+                  },
+                  {
+                    "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_ii_remastered_screen_02.jpg",
+                    "name": "Кадр · the_last_of_us_part_ii_remastered_screen_02.jpg"
+                  },
+                  {
+                    "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_ii_remastered_screen_03.jpg",
+                    "name": "Кадр · the_last_of_us_part_ii_remastered_screen_03.jpg"
+                  },
+                  {
+                    "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Wallapers/the_last_of_us_part_i_cover.jpg",
+                    "name": "Медиа · the_last_of_us_part_i_cover.jpg"
+                  },
+                  {
+                    "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Wallapers/the_last_of_us_part_ii_remastered_cover.jpg",
+                    "name": "Медиа · the_last_of_us_part_ii_remastered_cover.jpg"
+                  }
+                ]
+              }
+            ],
+            "activeKey": "ppsa15508",
+            "gallery": [
+              {
+                "name": "vvv.png",
+                "assetPath": "assets/image_006.png"
+              },
+              {
+                "name": "kawpfRAMcOWOfr8GXITUVQ.png",
+                "assetPath": "assets/image_005.png"
+              },
+              {
+                "name": "vvv.png",
+                "assetPath": "assets/image_006.png"
+              },
+              {
+                "name": "kawpfRAMcOWOfr8GXITUVQ.png",
+                "assetPath": "assets/image_005.png"
+              },
+              {
+                "name": "orig.webp",
+                "assetPath": "assets/image_004.webp"
+              },
+              {
+                "name": "orig.webp",
+                "assetPath": "assets/image_004.webp"
+              },
+              {
+                "name": "kawpfRAMcOWOfr8GXITUVQ.jpeg",
+                "assetPath": "assets/image_002.jpg"
+              },
+              {
+                "name": "The_Last_of_Us_logo.svg.webp",
+                "assetPath": "assets/image_007.webp"
+              },
+              {
+                "name": "i.png",
+                "assetPath": "assets/image_008.png"
+              },
+              {
+                "name": "i.webp",
+                "assetPath": "assets/image_009.webp"
+              },
+              {
+                "name": "GTAOnline-BoxArt.png",
+                "assetPath": "assets/image_010.png"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Wallapers/the_last_of_us_part_ii_remastered_cover.jpg",
+                "name": "Медиа · the_last_of_us_part_ii_remastered_cover.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Wallapers/the_last_of_us_part_i_cover.jpg",
+                "name": "Медиа · the_last_of_us_part_i_cover.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_ii_remastered_screen_03.jpg",
+                "name": "Кадр · the_last_of_us_part_ii_remastered_screen_03.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_ii_remastered_screen_02.jpg",
+                "name": "Кадр · the_last_of_us_part_ii_remastered_screen_02.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_ii_remastered_screen_01.jpg",
+                "name": "Кадр · the_last_of_us_part_ii_remastered_screen_01.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_i_screen_03.jpg",
+                "name": "Кадр · the_last_of_us_part_i_screen_03.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_i_screen_02.jpg",
+                "name": "Кадр · the_last_of_us_part_i_screen_02.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_i_screen_01.jpg",
+                "name": "Кадр · the_last_of_us_part_i_screen_01.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/t2/The_Last_of_Us_Part_I_-_01.jpg",
+                "name": "Медиа · The_Last_of_Us_Part_I_-_01.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/l1/Lord_of_the_Click_II_-_01.jpg?v=893da3c0151c8abf209356c191f898a3e4f52b1e",
+                "name": "Lord_of_the_Click_II_-_01.jpg · l1"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/t2/The_Last_of_Us_Part_II_-_01.jpg?v=53c835a0a1d0392392a40e0a4375e68adec7de96",
+                "name": "The Last of Us Part II — основная обложка"
+              }
+            ]
+          }
+        }
+      },
+      "gallery": [
+        {
+          "name": "vvv.png",
+          "assetPath": "assets/image_006.png"
+        },
+        {
+          "name": "kawpfRAMcOWOfr8GXITUVQ.png",
+          "assetPath": "assets/image_005.png"
+        },
+        {
+          "name": "vvv.png",
+          "assetPath": "assets/image_006.png"
+        },
+        {
+          "name": "kawpfRAMcOWOfr8GXITUVQ.png",
+          "assetPath": "assets/image_005.png"
+        },
+        {
+          "name": "orig.webp",
+          "assetPath": "assets/image_004.webp"
+        },
+        {
+          "name": "orig.webp",
+          "assetPath": "assets/image_004.webp"
+        },
+        {
+          "name": "kawpfRAMcOWOfr8GXITUVQ.jpeg",
+          "assetPath": "assets/image_002.jpg"
+        },
+        {
+          "name": "The_Last_of_Us_logo.svg.webp",
+          "assetPath": "assets/image_007.webp"
+        },
+        {
+          "name": "i.png",
+          "assetPath": "assets/image_008.png"
+        },
+        {
+          "name": "i.webp",
+          "assetPath": "assets/image_009.webp"
+        },
+        {
+          "name": "GTAOnline-BoxArt.png",
+          "assetPath": "assets/image_010.png"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Wallapers/the_last_of_us_part_ii_remastered_cover.jpg",
+          "name": "Медиа · the_last_of_us_part_ii_remastered_cover.jpg"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Wallapers/the_last_of_us_part_i_cover.jpg",
+          "name": "Медиа · the_last_of_us_part_i_cover.jpg"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_ii_remastered_screen_03.jpg",
+          "name": "Кадр · the_last_of_us_part_ii_remastered_screen_03.jpg"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_ii_remastered_screen_02.jpg",
+          "name": "Кадр · the_last_of_us_part_ii_remastered_screen_02.jpg"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_ii_remastered_screen_01.jpg",
+          "name": "Кадр · the_last_of_us_part_ii_remastered_screen_01.jpg"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_i_screen_03.jpg",
+          "name": "Кадр · the_last_of_us_part_i_screen_03.jpg"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_i_screen_02.jpg",
+          "name": "Кадр · the_last_of_us_part_i_screen_02.jpg"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_i_screen_01.jpg",
+          "name": "Кадр · the_last_of_us_part_i_screen_01.jpg"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/t2/The_Last_of_Us_Part_I_-_01.jpg",
+          "name": "Медиа · The_Last_of_Us_Part_I_-_01.jpg"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/l1/Lord_of_the_Click_II_-_01.jpg?v=893da3c0151c8abf209356c191f898a3e4f52b1e",
+          "name": "Lord_of_the_Click_II_-_01.jpg · l1"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/t2/The_Last_of_Us_Part_II_-_01.jpg?v=53c835a0a1d0392392a40e0a4375e68adec7de96",
+          "name": "The Last of Us Part II — основная обложка"
+        }
+      ],
+      "productGallery": {
+        "version": 1,
+        "products": [
+          {
+            "key": "ppsa15508",
+            "game": {
+              "name": "The Last of Us Part II",
+              "gameId": "PPSA15508",
+              "id": 48,
+              "platforms": "PS5",
+              "url": "https://store.playstation.com/en-tr/concept/230079"
+            },
+            "items": [
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/t2/The_Last_of_Us_Part_II_-_01.jpg?v=53c835a0a1d0392392a40e0a4375e68adec7de96",
+                "name": "The Last of Us Part II — основная обложка"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/l1/Lord_of_the_Click_II_-_01.jpg?v=893da3c0151c8abf209356c191f898a3e4f52b1e",
+                "name": "Lord_of_the_Click_II_-_01.jpg · l1"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/t2/The_Last_of_Us_Part_I_-_01.jpg",
+                "name": "Медиа · The_Last_of_Us_Part_I_-_01.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_i_screen_01.jpg",
+                "name": "Кадр · the_last_of_us_part_i_screen_01.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_i_screen_02.jpg",
+                "name": "Кадр · the_last_of_us_part_i_screen_02.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_i_screen_03.jpg",
+                "name": "Кадр · the_last_of_us_part_i_screen_03.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_ii_remastered_screen_01.jpg",
+                "name": "Кадр · the_last_of_us_part_ii_remastered_screen_01.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_ii_remastered_screen_02.jpg",
+                "name": "Кадр · the_last_of_us_part_ii_remastered_screen_02.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_ii_remastered_screen_03.jpg",
+                "name": "Кадр · the_last_of_us_part_ii_remastered_screen_03.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Wallapers/the_last_of_us_part_i_cover.jpg",
+                "name": "Медиа · the_last_of_us_part_i_cover.jpg"
+              },
+              {
+                "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Wallapers/the_last_of_us_part_ii_remastered_cover.jpg",
+                "name": "Медиа · the_last_of_us_part_ii_remastered_cover.jpg"
+              }
+            ]
+          }
+        ],
+        "activeKey": "ppsa15508",
+        "gallery": [
+          {
+            "name": "vvv.png",
+            "assetPath": "assets/image_006.png"
+          },
+          {
+            "name": "kawpfRAMcOWOfr8GXITUVQ.png",
+            "assetPath": "assets/image_005.png"
+          },
+          {
+            "name": "vvv.png",
+            "assetPath": "assets/image_006.png"
+          },
+          {
+            "name": "kawpfRAMcOWOfr8GXITUVQ.png",
+            "assetPath": "assets/image_005.png"
+          },
+          {
+            "name": "orig.webp",
+            "assetPath": "assets/image_004.webp"
+          },
+          {
+            "name": "orig.webp",
+            "assetPath": "assets/image_004.webp"
+          },
+          {
+            "name": "kawpfRAMcOWOfr8GXITUVQ.jpeg",
+            "assetPath": "assets/image_002.jpg"
+          },
+          {
+            "name": "The_Last_of_Us_logo.svg.webp",
+            "assetPath": "assets/image_007.webp"
+          },
+          {
+            "name": "i.png",
+            "assetPath": "assets/image_008.png"
+          },
+          {
+            "name": "i.webp",
+            "assetPath": "assets/image_009.webp"
+          },
+          {
+            "name": "GTAOnline-BoxArt.png",
+            "assetPath": "assets/image_010.png"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Wallapers/the_last_of_us_part_ii_remastered_cover.jpg",
+            "name": "Медиа · the_last_of_us_part_ii_remastered_cover.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Wallapers/the_last_of_us_part_i_cover.jpg",
+            "name": "Медиа · the_last_of_us_part_i_cover.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_ii_remastered_screen_03.jpg",
+            "name": "Кадр · the_last_of_us_part_ii_remastered_screen_03.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_ii_remastered_screen_02.jpg",
+            "name": "Кадр · the_last_of_us_part_ii_remastered_screen_02.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_ii_remastered_screen_01.jpg",
+            "name": "Кадр · the_last_of_us_part_ii_remastered_screen_01.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_i_screen_03.jpg",
+            "name": "Кадр · the_last_of_us_part_i_screen_03.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_i_screen_02.jpg",
+            "name": "Кадр · the_last_of_us_part_i_screen_02.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/scrin/Screenshots/the_last_of_us_part_i_screen_01.jpg",
+            "name": "Кадр · the_last_of_us_part_i_screen_01.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/t2/The_Last_of_Us_Part_I_-_01.jpg",
+            "name": "Медиа · The_Last_of_Us_Part_I_-_01.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/l1/Lord_of_the_Click_II_-_01.jpg?v=893da3c0151c8abf209356c191f898a3e4f52b1e",
+            "name": "Lord_of_the_Click_II_-_01.jpg · l1"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/MaxiKoval/a11store/main/data_psstore/image/covers/t2/The_Last_of_Us_Part_II_-_01.jpg?v=53c835a0a1d0392392a40e0a4375e68adec7de96",
+            "name": "The Last of Us Part II — основная обложка"
+          }
+        ]
+      }
+    }
+  },
+  "savedAt": "2026-10-24T09:08:56.195Z",
+  "additionalBanners": [],
+  "workspaces": [
+    {
+      "id": "desktop",
+      "name": "Основная рабочая среда",
+      "ratio": "40:9",
+      "width": 2400,
+      "height": 540,
+      "file": "banner.webp"
+    },
+    {
+      "id": "mobile",
+      "name": "Среда 41:20",
+      "ratio": "41:20",
+      "width": 1230,
+      "height": 600,
+      "file": "banner-mobile.webp"
+    }
+  ],
+  "schemaVersion": 1,
+  "game": {
+    "name": "The Last of Us Part II",
+    "gameId": "PPSA15508",
+    "id": 48,
+    "platforms": "PS5",
+    "url": "https://store.playstation.com/en-tr/concept/230079"
+  },
+  "files": {
+    "desktop": "banner.webp",
+    "mobile": "banner-mobile.webp",
+    "desktopRatio": "40:9",
+    "mobileRatio": "41:20",
+    "desktopWidth": 2400,
+    "desktopHeight": 540,
+    "mobileWidth": 1230,
+    "mobileHeight": 600
+  },
+  "assets": {
+    "image_001": "assets/image_001.jpg",
+    "image_002": "assets/image_002.jpg",
+    "image_003": "assets/image_003.jpg",
+    "image_004": "assets/image_004.webp",
+    "image_005": "assets/image_005.png",
+    "image_006": "assets/image_006.png",
+    "image_007": "assets/image_007.webp",
+    "image_008": "assets/image_008.png",
+    "image_009": "assets/image_009.webp",
+    "image_010": "assets/image_010.png"
+  }
+}
