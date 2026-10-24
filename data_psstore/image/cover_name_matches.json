@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T03:40:31.400Z",
+  "updatedAt": "2026-10-24T07:37:22.444Z",
   "mappings": {
     "nba2k26for": "data_psstore/image/covers/n1/NBA_2K26_-_01.jpg",
     "marveltokonfightingsouls": "data_psstore/image/covers/m1/MARVEL_T_kon_Fighting_Souls_-_01.jpg",
@@ -73,7 +73,10 @@
     "crysis2": "data_psstore/image/covers/c2/Crysis_2_Remastered_-_01.jpg",
     "uncharted2amongthieves": "data_psstore/image/covers/u1/Uncharted_2_Among_Thieves_Remastered_-_01.jpg",
     "uncharteddrakesfortune": "data_psstore/image/covers/u1/Uncharted_Drake_s_Fortune_Remastered_-_01.jpg",
-    "sniperelitev2": "data_psstore/image/covers/s1/Sniper_Elite_V2_Remastered_-_01.jpg"
+    "sniperelitev2": "data_psstore/image/covers/s1/Sniper_Elite_V2_Remastered_-_01.jpg",
+    "id:PPSA27597": "data_psstore/image/covers/s3/Stellaris_Console_Edition_-_01.jpg",
+    "id:PPSA16269": "data_psstore/image/covers/l1/Like_a_Dragon_Gaiden_The_Man_Who_Erased_His_Name_PS4_PS5_01.jpg",
+    "id:PPSA02745": "data_psstore/image/covers/t1/Tales_of_Arise_-_01.jpg"
   },
   "learning": {
     "version": 1,
@@ -313,6 +316,18 @@
       {
         "name": "Sniper Elite V2",
         "path": "data_psstore/image/covers/s1/Sniper_Elite_V2_Remastered_-_01.jpg"
+      },
+      {
+        "name": "Stellaris",
+        "path": "data_psstore/image/covers/s3/Stellaris_Console_Edition_-_01.jpg"
+      },
+      {
+        "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
+        "path": "data_psstore/image/covers/l1/Like_a_Dragon_Gaiden_The_Man_Who_Erased_His_Name_PS4_PS5_01.jpg"
+      },
+      {
+        "name": "Tales of Arise - Beyond the",
+        "path": "data_psstore/image/covers/t1/Tales_of_Arise_-_01.jpg"
       }
     ]
   },
@@ -330,13 +345,6 @@
       "id": 3,
       "platforms": "PS5",
       "markedAt": "2026-10-24T03:06:29.636Z"
-    },
-    {
-      "name": "Call of Duty: Modern Warfare 4",
-      "gameId": "PPSA07950",
-      "id": 11,
-      "platforms": "PS5",
-      "markedAt": "2026-10-24T03:06:33.075Z"
     },
     {
       "name": "The Lord of the Rings: War in the North",
@@ -449,6 +457,62 @@
       "id": 747,
       "platforms": "PS5",
       "markedAt": "2026-10-24T03:36:34.044Z"
+    },
+    {
+      "name": "Bootstrap Island",
+      "gameId": "PPSA32963",
+      "id": 397,
+      "platforms": "PS5",
+      "markedAt": "2026-10-24T07:36:35.406Z"
+    },
+    {
+      "name": "Just Dance Free Experience",
+      "gameId": "PPSA07251",
+      "id": 412,
+      "platforms": "PS5",
+      "markedAt": "2026-10-24T07:36:37.547Z"
+    },
+    {
+      "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
+      "gameId": "PPSA25468",
+      "id": 455,
+      "platforms": "PS4, PS5",
+      "markedAt": "2026-10-24T07:36:41.634Z"
+    },
+    {
+      "name": "Let's Sing 2026 with International Hits",
+      "gameId": "PPSA26763",
+      "id": 501,
+      "platforms": "PS5",
+      "markedAt": "2026-10-24T07:36:42.628Z"
+    },
+    {
+      "name": "Aniimo Pre-Order Pack",
+      "gameId": "PPSA35870",
+      "id": 525,
+      "platforms": "PS5",
+      "markedAt": "2026-10-24T07:36:43.039Z"
+    },
+    {
+      "name": "Neighbours back From Hell",
+      "gameId": "CUSA18967",
+      "id": 529,
+      "platforms": "PS4",
+      "markedAt": "2026-10-24T07:36:46.130Z"
+    },
+    {
+      "name": "DIVINITY ORIGINAL SIN",
+      "gameId": "CUSA02762",
+      "id": 538,
+      "platforms": "PS4",
+      "markedAt": "2026-10-24T07:36:49.793Z"
+    },
+    {
+      "name": "Serious",
+      "gameId": "CUSA05773",
+      "id": 548,
+      "platforms": "PS4",
+      "markedAt": "2026-10-24T07:36:52.423Z"
     }
   ]
 }
