@@ -709,13 +709,11 @@
       },
       "selected": {
         "desktop": null,
-        "mobile": "banner-layer-24-v1k0"
+        "mobile": null
       },
       "selectedItems": {
         "desktop": [],
-        "mobile": [
-          "banner-layer-24-v1k0"
-        ]
+        "mobile": []
       },
       "gradients": {
         "desktop": {
@@ -2318,13 +2316,11 @@
             },
             "selected": {
               "desktop": null,
-              "mobile": "banner-layer-24-v1k0"
+              "mobile": null
             },
             "selectedItems": {
               "desktop": [],
-              "mobile": [
-                "banner-layer-24-v1k0"
-              ]
+              "mobile": []
             },
             "gradients": {
               "desktop": {
@@ -3023,18 +3019,6 @@
                 "assetPath": "assets/image_005.png"
               },
               {
-                "name": "vvv.png",
-                "assetPath": "assets/image_006.png"
-              },
-              {
-                "name": "kawpfRAMcOWOfr8GXITUVQ.png",
-                "assetPath": "assets/image_005.png"
-              },
-              {
-                "name": "orig.webp",
-                "assetPath": "assets/image_004.webp"
-              },
-              {
                 "name": "orig.webp",
                 "assetPath": "assets/image_004.webp"
               },
@@ -3114,18 +3098,6 @@
         {
           "name": "kawpfRAMcOWOfr8GXITUVQ.png",
           "assetPath": "assets/image_005.png"
-        },
-        {
-          "name": "vvv.png",
-          "assetPath": "assets/image_006.png"
-        },
-        {
-          "name": "kawpfRAMcOWOfr8GXITUVQ.png",
-          "assetPath": "assets/image_005.png"
-        },
-        {
-          "name": "orig.webp",
-          "assetPath": "assets/image_004.webp"
         },
         {
           "name": "orig.webp",
@@ -3267,18 +3239,6 @@
             "assetPath": "assets/image_005.png"
           },
           {
-            "name": "vvv.png",
-            "assetPath": "assets/image_006.png"
-          },
-          {
-            "name": "kawpfRAMcOWOfr8GXITUVQ.png",
-            "assetPath": "assets/image_005.png"
-          },
-          {
-            "name": "orig.webp",
-            "assetPath": "assets/image_004.webp"
-          },
-          {
             "name": "orig.webp",
             "assetPath": "assets/image_004.webp"
           },
@@ -3350,7 +3310,7 @@
       }
     }
   },
-  "savedAt": "2026-10-24T09:08:56.195Z",
+  "savedAt": "2026-10-25T02:09:42.977Z",
   "additionalBanners": [],
   "workspaces": [
     {
