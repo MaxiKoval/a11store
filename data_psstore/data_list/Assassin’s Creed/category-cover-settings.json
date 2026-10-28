@@ -9,7 +9,7 @@
         "name": "Соты",
         "width": 1600,
         "height": 1600,
-        "background": "#111111",
+        "background": "#000000",
         "layers": [
           {
             "id": "d42c42c5f0d4",
@@ -198,14 +198,14 @@
             "id": "e83d00f466b0",
             "kind": "shape",
             "name": "Полоска",
-            "x": 45,
-            "y": 94,
-            "w": 10,
+            "x": 40.459363957597176,
+            "y": 94.94228504122496,
+            "w": 100.0,
             "h": 1.25,
             "rotation": 0,
             "opacity": 1,
             "hidden": false,
-            "blend": "normal",
+            "blend": "screen",
             "effects": {},
             "color": "#ffffff"
           }
@@ -299,11 +299,15 @@
         "name": "Assassin’s Creed Chronicles: India",
         "src": "assets/native-e9949752bbe5158e488926e8b3a296baa9ce27d5ac8aee31d388c46c45e4729d.png",
         "game_id": "CUSA01355"
+      },
+      {
+        "name": "CUSA27688_Tomb_Raider_Definitive_Survivor_Trilogy.jpg",
+        "src": "assets/native-89b844ce54d0316d1cad7c7d576feba183d16d57c29e7ee5fa394ae50468c255.png"
       }
     ],
     "workspace": "#444444"
   },
-  "savedAt": "2026-10-28T23:43:05.312703+00:00",
+  "savedAt": "2026-10-28T23:53:21.320950+00:00",
   "schemaVersion": 1,
   "workspaces": [
     {
