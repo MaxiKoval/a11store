@@ -1,0 +1,317 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 0,
+    "canvases": [
+      {
+        "id": "cover-1",
+        "name": "Соты",
+        "width": 1600,
+        "height": 1600,
+        "background": "#111111",
+        "layers": [
+          {
+            "id": "d42c42c5f0d4",
+            "kind": "hex",
+            "name": "Соты",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 65,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "layout": "database",
+            "cell_width": 307.69,
+            "cells": {
+              "6": {
+                "src": "assets/native-d57c7f496cd77effd7f261ae187da1147686d913895add2009a91afea6c7523f.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "9": {
+                "src": "assets/native-99717423107a42af679082b4ce2452d71bd882910d95eb1f20880f732c6757d9.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "14": {
+                "src": "assets/native-618e64e434e6b1e54dbbe682b795c939cb015986edbd655452170999a6e84c0f.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "0": {
+                "src": "assets/native-1992f81bdfb8cf7ef9f2f2dc7237aac6b784a98f03689d71412f455ec12d9559.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "1": {
+                "src": "assets/native-2d57f3fb3bdc2911dd3da0404d3dd8fe5bef25a71a0be6e63ba52e6eea6278e5.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "2": {
+                "src": "assets/native-31d361a8a6529202ac335f80f645ebf000bb61d9efaa82ef37b31c35d1a7ada4.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "3": {
+                "src": "assets/native-2d57f3fb3bdc2911dd3da0404d3dd8fe5bef25a71a0be6e63ba52e6eea6278e5.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "4": {
+                "src": "assets/native-9572b239a33d489940582a611597a288cdd18b1de61751e3a62a5440096d6b61.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "5": {
+                "src": "assets/native-70dfc2f12ab9698e572018f2d1e9ca78bad083f423351f43c42175bd0f70667b.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "7": {
+                "src": "assets/native-166e2297da1d2adf65287fe6d40df436b5be3de1d26ec168ef9fece1cc8f7a10.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "8": {
+                "src": "assets/native-31d361a8a6529202ac335f80f645ebf000bb61d9efaa82ef37b31c35d1a7ada4.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "10": {
+                "src": "assets/native-2d57f3fb3bdc2911dd3da0404d3dd8fe5bef25a71a0be6e63ba52e6eea6278e5.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "11": {
+                "src": "assets/native-79c3ce7a923fd8c12265c18be0d6dd83976c5337cd1e0063510fc420d0e0956e.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "12": {
+                "src": "assets/native-1757835c36b6a109fb6439d590d1f5c21bd47c0dbcd121717640c9e6ef59c5d7.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "13": {
+                "src": "assets/native-166e2297da1d2adf65287fe6d40df436b5be3de1d26ec168ef9fece1cc8f7a10.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "15": {
+                "src": "assets/native-798dd6c9bbd9e2e0ca5de1a5b57648773686d315c3fb64e2148592ed37cab5fe.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "16": {
+                "src": "assets/native-e9949752bbe5158e488926e8b3a296baa9ce27d5ac8aee31d388c46c45e4729d.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "17": {
+                "src": "assets/native-1992f81bdfb8cf7ef9f2f2dc7237aac6b784a98f03689d71412f455ec12d9559.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "18": {
+                "src": "assets/native-72424751ec2ffaa9aa6ecbfc592a2797d2215a308656204ae30227f6bc462e82.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "19": {
+                "src": "assets/native-d57c7f496cd77effd7f261ae187da1147686d913895add2009a91afea6c7523f.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              }
+            },
+            "gallery_auto": true,
+            "color": "#111111",
+            "outline": "#000000",
+            "outline_width": 5,
+            "outline_opacity": 0.79,
+            "background_saturation": 0,
+            "background_blur": 2,
+            "background_opacity": 1,
+            "background_tint": "#ffffff",
+            "background_tint_alpha": 0.1,
+            "background_blend": "multiply"
+          },
+          {
+            "id": "2aa3908edf9f",
+            "kind": "shape",
+            "name": "Плашка",
+            "x": 0,
+            "y": 65,
+            "w": 100,
+            "h": 35,
+            "rotation": 0,
+            "opacity": 1.0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#000000"
+          },
+          {
+            "id": "653fe6fb4065",
+            "kind": "text",
+            "name": "Название",
+            "x": 4,
+            "y": 75,
+            "w": 92,
+            "h": 16,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "ASSASSIN’S CREED",
+            "font_size": 112,
+            "bold": true,
+            "align": "center",
+            "color": "#ffffff"
+          },
+          {
+            "id": "e83d00f466b0",
+            "kind": "shape",
+            "name": "Полоска",
+            "x": 45,
+            "y": 94,
+            "w": 10,
+            "h": 1.25,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#ffffff"
+          }
+        ],
+        "effects": {}
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "name": "Assassin’s Creed The Ezio Collection",
+        "src": "assets/native-99717423107a42af679082b4ce2452d71bd882910d95eb1f20880f732c6757d9.png",
+        "game_id": "CUSA04893"
+      },
+      {
+        "name": "Assassin's Creed III Remastered",
+        "src": "assets/native-887c07f8433dc226a7950860a96ec71aa193bb887d83f7dad8cfb9fce860630c.png",
+        "game_id": "CUSA11560"
+      },
+      {
+        "name": "Assassin’s Creed IV: Black Flag",
+        "src": "assets/native-798dd6c9bbd9e2e0ca5de1a5b57648773686d315c3fb64e2148592ed37cab5fe.png",
+        "game_id": "CUSA00009"
+      },
+      {
+        "name": "Assassin's Creed Freedom Cry",
+        "src": "assets/native-1757835c36b6a109fb6439d590d1f5c21bd47c0dbcd121717640c9e6ef59c5d7.png",
+        "game_id": "CUSA00435"
+      },
+      {
+        "name": "Assassin's Creed Rogue Remastered",
+        "src": "assets/native-1992f81bdfb8cf7ef9f2f2dc7237aac6b784a98f03689d71412f455ec12d9559.png",
+        "game_id": "CUSA10123"
+      },
+      {
+        "name": "Assassin’s Creed: Unity",
+        "src": "assets/native-70dfc2f12ab9698e572018f2d1e9ca78bad083f423351f43c42175bd0f70667b.png",
+        "game_id": "CUSA00605"
+      },
+      {
+        "name": "Assassin's Creed Syndicate",
+        "src": "assets/native-166e2297da1d2adf65287fe6d40df436b5be3de1d26ec168ef9fece1cc8f7a10.png",
+        "game_id": "CUSA02376"
+      },
+      {
+        "name": "Assassin’s Creed: Origins",
+        "src": "assets/native-79c3ce7a923fd8c12265c18be0d6dd83976c5337cd1e0063510fc420d0e0956e.png",
+        "game_id": "CUSA05625"
+      },
+      {
+        "name": "Assassin’s Creed: Odyssey",
+        "src": "assets/native-2d57f3fb3bdc2911dd3da0404d3dd8fe5bef25a71a0be6e63ba52e6eea6278e5.png",
+        "game_id": "CUSA12042"
+      },
+      {
+        "name": "Assassin’s Creed: Valhalla",
+        "src": "assets/native-5128e2f3135a0cb583be1229adfb00be5aaf58e933d3f902fcbc64d653f7a318.png",
+        "game_id": "PPSA01532"
+      },
+      {
+        "name": "Assassin's Creed Mirage Deluxe Edition",
+        "src": "assets/native-31d361a8a6529202ac335f80f645ebf000bb61d9efaa82ef37b31c35d1a7ada4.png",
+        "game_id": "PPSA13960"
+      },
+      {
+        "name": "Assassin's Creed Shadows Premium Edition",
+        "src": "assets/native-618e64e434e6b1e54dbbe682b795c939cb015986edbd655452170999a6e84c0f.png",
+        "game_id": "PPSA22100"
+      },
+      {
+        "name": "Assassin's Creed Black Flag Resynced",
+        "src": "assets/native-d57c7f496cd77effd7f261ae187da1147686d913895add2009a91afea6c7523f.png",
+        "game_id": "PPSA28183"
+      },
+      {
+        "name": "Assassin's Creed Chronicles – Trilogy",
+        "src": "assets/native-72424751ec2ffaa9aa6ecbfc592a2797d2215a308656204ae30227f6bc462e82.png",
+        "game_id": "CUSA03440"
+      },
+      {
+        "name": "Assassin's Creed Chronicles: China",
+        "src": "assets/native-9572b239a33d489940582a611597a288cdd18b1de61751e3a62a5440096d6b61.png",
+        "game_id": "CUSA01329"
+      },
+      {
+        "name": "Assassin’s Creed Chronicles: Russia",
+        "src": "assets/native-ab51a9ac87ae275457ba4254368f28f7b0d5349079bda148ed942df168d1bccc.png",
+        "game_id": "CUSA01356"
+      },
+      {
+        "name": "Assassin’s Creed Chronicles: India",
+        "src": "assets/native-e9949752bbe5158e488926e8b3a296baa9ce27d5ac8aee31d388c46c45e4729d.png",
+        "game_id": "CUSA01355"
+      }
+    ],
+    "workspace": "#444444"
+  },
+  "savedAt": "2026-10-28T23:43:05.312703+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "cover-1",
+      "name": "Соты",
+      "file": "Assassin’s Creed.png",
+      "width": 1600,
+      "height": 1600
+    }
+  ]
+}
