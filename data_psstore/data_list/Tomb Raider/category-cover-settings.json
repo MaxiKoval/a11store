@@ -1,0 +1,272 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 0,
+    "canvases": [
+      {
+        "id": "cover-1",
+        "name": "Соты",
+        "width": 1600,
+        "height": 1600,
+        "background": "#111111",
+        "layers": [
+          {
+            "id": "4ad122383909",
+            "kind": "hex",
+            "name": "Соты",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 65,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "layout": "database",
+            "cell_width": 307.69,
+            "cells": {
+              "6": {
+                "src": "assets/native-89b844ce54d0316d1cad7c7d576feba183d16d57c29e7ee5fa394ae50468c255.png",
+                "zoom": 1.60431654676259,
+                "pan_x": 0.011243327568200075,
+                "pan_y": 0.269183708067
+              },
+              "9": {
+                "src": "assets/native-6a6e255d90f220698decc91fc2893b499bb380dc2141d65c23f57cfb1b646128.png",
+                "zoom": 1,
+                "pan_x": -0.14616325838659985,
+                "pan_y": 1
+              },
+              "14": {
+                "src": "assets/native-da70daa1f8b0fd9152cc0afb3c54c8bfd3ee9a60f70a0bcfab98dd8d98264896.png",
+                "zoom": 1.8812949640287768,
+                "pan_x": -0.19113656865939943,
+                "pan_y": -1
+              },
+              "0": {
+                "src": "assets/native-7a516b5537209b8257fa4ce8669bed665ca1c15719026e6d31e371908a8541f3.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "1": {
+                "src": "assets/native-da70daa1f8b0fd9152cc0afb3c54c8bfd3ee9a60f70a0bcfab98dd8d98264896.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "2": {
+                "src": "assets/native-a24d0a6a6bcd6e7e407928a8550d9c081c7e9249a900a02158a30903f57166ad.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "3": {
+                "src": "assets/native-8ac8fea04d43f7abf31bec06940102827221731e28b90fb38beb39e758414c3d.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "4": {
+                "src": "assets/native-5bc868d66001855f7ded9b5f0f7edaffaadd65a6d7334840ac9efa58ebecbe8f.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "5": {
+                "src": "assets/native-01a9df87e6103c1309c2f0092925899886f13698a0c676144a22271e076885f7.png",
+                "zoom": 2.4100719424460433,
+                "pan_x": 0.07870329297740014,
+                "pan_y": -1
+              },
+              "7": {
+                "src": "assets/native-8ac8fea04d43f7abf31bec06940102827221731e28b90fb38beb39e758414c3d.png",
+                "zoom": 1,
+                "pan_x": 0.0,
+                "pan_y": 1
+              },
+              "8": {
+                "src": "assets/native-8ac8fea04d43f7abf31bec06940102827221731e28b90fb38beb39e758414c3d.png",
+                "zoom": 1,
+                "pan_x": -0.005621663784100221,
+                "pan_y": -1
+              },
+              "10": {
+                "src": "assets/native-da70daa1f8b0fd9152cc0afb3c54c8bfd3ee9a60f70a0bcfab98dd8d98264896.png",
+                "zoom": 1.276978417266187,
+                "pan_x": -0.23048821514809986,
+                "pan_y": 0.9831350086477001
+              },
+              "11": {
+                "src": "assets/native-5bc868d66001855f7ded9b5f0f7edaffaadd65a6d7334840ac9efa58ebecbe8f.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "12": {
+                "src": "assets/native-7a516b5537209b8257fa4ce8669bed665ca1c15719026e6d31e371908a8541f3.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "13": {
+                "src": "assets/native-a24d0a6a6bcd6e7e407928a8550d9c081c7e9249a900a02158a30903f57166ad.png",
+                "zoom": 1,
+                "pan_x": 0.02248665513640015,
+                "pan_y": -1
+              },
+              "15": {
+                "src": "assets/native-a24d0a6a6bcd6e7e407928a8550d9c081c7e9249a900a02158a30903f57166ad.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "16": {
+                "src": "assets/native-8ac8fea04d43f7abf31bec06940102827221731e28b90fb38beb39e758414c3d.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "17": {
+                "src": "assets/native-89b844ce54d0316d1cad7c7d576feba183d16d57c29e7ee5fa394ae50468c255.png",
+                "zoom": 2.7589928057553963,
+                "pan_x": 0.6015180248987001,
+                "pan_y": -0.022486655136399965
+              },
+              "18": {
+                "src": "assets/native-7a516b5537209b8257fa4ce8669bed665ca1c15719026e6d31e371908a8541f3.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "19": {
+                "src": "assets/native-da70daa1f8b0fd9152cc0afb3c54c8bfd3ee9a60f70a0bcfab98dd8d98264896.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              }
+            },
+            "gallery_auto": true,
+            "color": "#111111",
+            "outline": "#000000",
+            "outline_width": 5,
+            "outline_opacity": 0.79,
+            "background_saturation": 0.02877697841726619,
+            "background_blur": 2.733812949640288,
+            "background_opacity": 1,
+            "background_tint": "#0a86a7",
+            "background_tint_alpha": 0.07913669064748201,
+            "background_blend": "multiply"
+          },
+          {
+            "id": "35a5dbbd1a98",
+            "kind": "shape",
+            "name": "Плашка",
+            "x": 0,
+            "y": 65,
+            "w": 100,
+            "h": 35,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#000000"
+          },
+          {
+            "id": "341111a47fa5",
+            "kind": "text",
+            "name": "Название",
+            "x": 4,
+            "y": 75,
+            "w": 92,
+            "h": 16,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "TOMB RAIDER",
+            "font_size": 112,
+            "bold": true,
+            "align": "center",
+            "color": "#ffffff"
+          },
+          {
+            "id": "611f6f0a0950",
+            "kind": "shape",
+            "name": "Полоска",
+            "x": 45,
+            "y": 94,
+            "w": 10,
+            "h": 1.25,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#ffffff"
+          }
+        ],
+        "effects": {}
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "name": "Tomb Raider: Definitive Survivor Trilogy",
+        "src": "assets/native-89b844ce54d0316d1cad7c7d576feba183d16d57c29e7ee5fa394ae50468c255.png",
+        "game_id": "CUSA27688"
+      },
+      {
+        "name": "Tomb Raider: Definitive Edition",
+        "src": "assets/native-6a6e255d90f220698decc91fc2893b499bb380dc2141d65c23f57cfb1b646128.png",
+        "game_id": "CUSA00109"
+      },
+      {
+        "name": "Rise of the Tomb Raider: 20 Year Celebration",
+        "src": "assets/native-01a9df87e6103c1309c2f0092925899886f13698a0c676144a22271e076885f7.png",
+        "game_id": "CUSA05716"
+      },
+      {
+        "name": "Shadow of the Tomb Raider Definitive Edition",
+        "src": "assets/native-a24d0a6a6bcd6e7e407928a8550d9c081c7e9249a900a02158a30903f57166ad.png",
+        "game_id": "CUSA10872"
+      },
+      {
+        "name": "Tomb Raider: Legacy of Atlantis",
+        "src": "assets/native-da70daa1f8b0fd9152cc0afb3c54c8bfd3ee9a60f70a0bcfab98dd8d98264896.png",
+        "game_id": "PPSA29000"
+      },
+      {
+        "name": "Tomb Raider I-III Remastered Starring Lara Croft",
+        "src": "assets/native-7a516b5537209b8257fa4ce8669bed665ca1c15719026e6d31e371908a8541f3.png",
+        "game_id": "PPSA16902"
+      },
+      {
+        "name": "Tomb Raider IV-VI Remastered PS4 & PS5",
+        "src": "assets/native-5bc868d66001855f7ded9b5f0f7edaffaadd65a6d7334840ac9efa58ebecbe8f.png",
+        "game_id": "PPSA18151"
+      },
+      {
+        "name": "Tomb Raider: Anniversary PS4 & PS5",
+        "src": "assets/native-8ac8fea04d43f7abf31bec06940102827221731e28b90fb38beb39e758414c3d.png",
+        "game_id": "PPSA27718"
+      }
+    ],
+    "workspace": "#444444"
+  },
+  "savedAt": "2026-10-29T09:23:07.932733+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "cover-1",
+      "name": "Соты",
+      "file": "Tomb Raider.png",
+      "width": 1600,
+      "height": 1600
+    }
+  ]
+}
