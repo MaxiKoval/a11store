@@ -1,0 +1,361 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 0,
+    "canvases": [
+      {
+        "id": "cover-1",
+        "name": "Соты",
+        "width": 1600,
+        "height": 1600,
+        "background": "#1f1915",
+        "layers": [
+          {
+            "id": "b2c9234acab3",
+            "kind": "hex",
+            "name": "Соты",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 65,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "layout": "database",
+            "cell_width": 307.69,
+            "cells": {
+              "9": {
+                "src": "assets/native-dc5a692daea00a4271e52efe5c4fddfd5114d8fa56b7b38d0c170b0585fb4e97.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "6": {
+                "src": "assets/native-38d5c87304edc47624b7395b17497ea1f0112ad490b31d2fdfc530c2a6ae0c73.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "14": {
+                "src": "assets/native-d273e5e4864367e137a7a87b87e74882a850784bb1345c77d1d4d4c6b13815ac.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "0": {
+                "src": "assets/native-035b54f71225e2807b81730f1740e940f4c615e67fbedc373d71d2bb3f1014cf.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "1": {
+                "src": "assets/native-a0f4a972a4e2c3039938d3977c63f9d870746355b3aeaf65d2b33281936a5b81.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "2": {
+                "src": "assets/native-74cd6f1a4c3e7041f4fa77b8d3d7d827b57277b6b3d70f317ba3f14e1992e7c9.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "3": {
+                "src": "assets/native-89b844ce54d0316d1cad7c7d576feba183d16d57c29e7ee5fa394ae50468c255.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "4": {
+                "src": "assets/native-537a34074511fdc9b79d2dcffbb744765fb44cbfbe9f940c6de92d6a71b5caee.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "5": {
+                "src": "assets/native-5128e2f3135a0cb583be1229adfb00be5aaf58e933d3f902fcbc64d653f7a318.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "7": {
+                "src": "assets/native-7bcdf7fb2e156f6c5a121605153871776ea982aab68a66f4a62c5a27bf2bbd74.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "8": {
+                "src": "assets/native-d051bb7805512315f99867bc09d4a6e1cc78b5b6a8582f1eb1d00f029dac6c5f.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "10": {
+                "src": "assets/native-035b54f71225e2807b81730f1740e940f4c615e67fbedc373d71d2bb3f1014cf.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "11": {
+                "src": "assets/native-a0f4a972a4e2c3039938d3977c63f9d870746355b3aeaf65d2b33281936a5b81.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "12": {
+                "src": "assets/native-74cd6f1a4c3e7041f4fa77b8d3d7d827b57277b6b3d70f317ba3f14e1992e7c9.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "13": {
+                "src": "assets/native-89b844ce54d0316d1cad7c7d576feba183d16d57c29e7ee5fa394ae50468c255.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "15": {
+                "src": "assets/native-537a34074511fdc9b79d2dcffbb744765fb44cbfbe9f940c6de92d6a71b5caee.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "16": {
+                "src": "assets/native-5128e2f3135a0cb583be1229adfb00be5aaf58e933d3f902fcbc64d653f7a318.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "17": {
+                "src": "assets/native-7bcdf7fb2e156f6c5a121605153871776ea982aab68a66f4a62c5a27bf2bbd74.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "18": {
+                "src": "assets/native-d051bb7805512315f99867bc09d4a6e1cc78b5b6a8582f1eb1d00f029dac6c5f.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "19": {
+                "src": "assets/native-035b54f71225e2807b81730f1740e940f4c615e67fbedc373d71d2bb3f1014cf.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              }
+            },
+            "gallery_auto": true,
+            "color": "#111111",
+            "outline": "#000000",
+            "outline_width": 5,
+            "outline_opacity": 0.79,
+            "background_saturation": 0,
+            "background_blur": 2,
+            "background_opacity": 1,
+            "background_tint": "#ffffff",
+            "background_tint_alpha": 0.1,
+            "background_blend": "multiply"
+          },
+          {
+            "id": "b7713ef5e461",
+            "kind": "shape",
+            "name": "Цветовой фильтр",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0.18,
+            "hidden": false,
+            "blend": "soft-light",
+            "effects": {},
+            "palette_filter": true,
+            "color": "#ccaf99"
+          },
+          {
+            "id": "a566ac6b3737",
+            "kind": "shape",
+            "name": "Плашка",
+            "x": 0,
+            "y": 65,
+            "w": 100,
+            "h": 35,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#1f1915"
+          },
+          {
+            "id": "d827a2ad4c6d",
+            "kind": "text",
+            "name": "Название",
+            "x": 4,
+            "y": 75,
+            "w": 92,
+            "h": 16,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "ЛИДЕРЫ_ПРОДАЖ",
+            "font_size": 112,
+            "bold": true,
+            "align": "center",
+            "color": "#ffffff"
+          },
+          {
+            "id": "802256e0dad2",
+            "kind": "shape",
+            "name": "Полоска",
+            "x": 45,
+            "y": 94,
+            "w": 10,
+            "h": 1.25,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#f2c6a5"
+          }
+        ],
+        "effects": {
+          "grain": 0,
+          "vignette": 0.18705035971223022,
+          "saturation": 0.5179856115107914
+        }
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "name": "EA SPORTS FC 27",
+        "src": "assets/native-dc5a692daea00a4271e52efe5c4fddfd5114d8fa56b7b38d0c170b0585fb4e97.png",
+        "game_id": "PPSA34015",
+        "popularity": -1
+      },
+      {
+        "name": "Marvel’s Wolverine",
+        "src": "assets/native-38d5c87304edc47624b7395b17497ea1f0112ad490b31d2fdfc530c2a6ae0c73.png",
+        "game_id": "PPSA03671",
+        "popularity": -1
+      },
+      {
+        "name": "Forza Horizon 5",
+        "src": "assets/native-d273e5e4864367e137a7a87b87e74882a850784bb1345c77d1d4d4c6b13815ac.png",
+        "game_id": "PPSA22327",
+        "popularity": -1
+      },
+      {
+        "name": "Metro Exodus",
+        "src": "assets/native-537a34074511fdc9b79d2dcffbb744765fb44cbfbe9f940c6de92d6a71b5caee.png",
+        "game_id": "PPSA01749",
+        "popularity": -1
+      },
+      {
+        "name": "Resident Evil 4",
+        "src": "assets/native-a0f4a972a4e2c3039938d3977c63f9d870746355b3aeaf65d2b33281936a5b81.png",
+        "game_id": "PPSA07412",
+        "popularity": -1
+      },
+      {
+        "name": "Tomb Raider: Definitive Survivor Trilogy",
+        "src": "assets/native-89b844ce54d0316d1cad7c7d576feba183d16d57c29e7ee5fa394ae50468c255.png",
+        "game_id": "CUSA27688",
+        "popularity": -1
+      },
+      {
+        "name": "Assassin's Creed Valhalla",
+        "src": "assets/native-5128e2f3135a0cb583be1229adfb00be5aaf58e933d3f902fcbc64d653f7a318.png",
+        "game_id": "PPSA01532",
+        "popularity": -1
+      },
+      {
+        "name": "Call of Duty: WWII",
+        "src": "assets/native-035b54f71225e2807b81730f1740e940f4c615e67fbedc373d71d2bb3f1014cf.png",
+        "game_id": "CUSA08630",
+        "popularity": -1
+      },
+      {
+        "name": "LEGO Marvel Super Heroes",
+        "src": "assets/native-74cd6f1a4c3e7041f4fa77b8d3d7d827b57277b6b3d70f317ba3f14e1992e7c9.png",
+        "game_id": "CUSA00044",
+        "popularity": -1
+      },
+      {
+        "name": "Mortal Kombat 11",
+        "src": "assets/native-d051bb7805512315f99867bc09d4a6e1cc78b5b6a8582f1eb1d00f029dac6c5f.png",
+        "game_id": "PPSA01619",
+        "popularity": -1
+      },
+      {
+        "name": "STAR WARS Battlefront II",
+        "src": "assets/native-7bcdf7fb2e156f6c5a121605153871776ea982aab68a66f4a62c5a27bf2bbd74.png",
+        "game_id": "CUSA05749",
+        "popularity": -1
+      }
+    ],
+    "workspace": "#444444",
+    "palette_schemes": [
+      {
+        "name": "Основной",
+        "tint": "#b3cc99",
+        "background": "#1a1f15",
+        "blend": "soft-light",
+        "strength": 0.18,
+        "accent": "#cbf2a5"
+      },
+      {
+        "name": "Второй цвет",
+        "tint": "#ccab99",
+        "background": "#1f1915",
+        "blend": "soft-light",
+        "strength": 0.18,
+        "accent": "#f2c0a5"
+      },
+      {
+        "name": "Третий цвет",
+        "tint": "#ccaf99",
+        "background": "#1f1915",
+        "blend": "soft-light",
+        "strength": 0.18,
+        "accent": "#f2c6a5"
+      },
+      {
+        "name": "Контраст",
+        "tint": "#b299cc",
+        "background": "#1a151f",
+        "blend": "soft-light",
+        "strength": 0.1,
+        "accent": "#cba5f2"
+      },
+      {
+        "name": "Мягкий",
+        "tint": "#9acc99",
+        "background": "#161f15",
+        "blend": "soft-light",
+        "strength": 0.1,
+        "accent": "#a6f2a5"
+      }
+    ],
+    "active_palette": "Третий цвет"
+  },
+  "savedAt": "2026-10-29T09:40:58.915934+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "cover-1",
+      "name": "Соты",
+      "file": "Лидеры_продаж.png",
+      "width": 1600,
+      "height": 1600
+    }
+  ]
+}
