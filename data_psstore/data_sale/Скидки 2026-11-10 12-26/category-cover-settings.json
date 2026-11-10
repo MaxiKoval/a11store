@@ -1,0 +1,596 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 0,
+    "canvases": [
+      {
+        "id": "cover-1",
+        "name": "Соты",
+        "width": 1600,
+        "height": 1600,
+        "background": "#133e4c",
+        "layers": [
+          {
+            "id": "b50db511cb72",
+            "kind": "hex",
+            "name": "Соты",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 65,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "layout": "database",
+            "cell_width": 307.69,
+            "cells": {
+              "9": {
+                "src": "assets/native-a6095a95eb073c13ccda5cf14ee958d3982efde57c1486a6b66aa681aa4bf5ee.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "6": {
+                "src": "assets/native-0139c001ccdced9afa5a190902874d1605ac5535d340cd23e30dcd4d396570e7.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "14": {
+                "src": "assets/native-c7788cbb72073c9746b87ae009d6be2266247259391bd00a6bb74c09a67e47df.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "0": {
+                "src": "assets/native-c7788cbb72073c9746b87ae009d6be2266247259391bd00a6bb74c09a67e47df.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "1": {
+                "src": "assets/native-0083066906f38398858bb9d8095deb279b9acc95e3904334b397af8cb3512de1.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "2": {
+                "src": "assets/native-d5e19553d2417ae5e4e459102d547ba2a3b92d9a2bd9bcf47737f4ad8d7beff1.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "3": {
+                "src": "assets/native-c99ab5ba2157984d5cea623bb4cce8838fa75c4ab1ecd6754caf22276286221c.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "4": {
+                "src": "assets/native-9493f830494eab2bee38c2cfc5be7c2bfc7f11027b40371736ac675e7b7f3400.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "5": {
+                "src": "assets/native-5c4b5127c0cb48b5b7c0b703a0188d57f54fd969a19f62274b00070e4b39e5cc.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "7": {
+                "src": "assets/native-20ce746403468c71f1a805ad717acff4df64eb78541f5521294105cdfabcd71b.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "8": {
+                "src": "assets/native-2ae6f162f11f5d0eca16b213d69282de58b69962d2999fb03172210fe54ae5bc.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "10": {
+                "src": "assets/native-55e149a0002cadb72deb6282c5db5767826bb56dbe0cf01ee74782aeba18b4ed.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "11": {
+                "src": "assets/native-7a2fae6f7ec5e0adea982cf492eb525a80c3ce3e9a62edf42b01380f9b98b0dc.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "12": {
+                "src": "assets/native-e93bc0910e2c2a8f9baeec041f6ba0672cbd113b93f74eb0fe4e78eee4849617.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "13": {
+                "src": "assets/native-8e24d8b528f3c2fae3a75cdab75ceba59a736281cc849efdeb0ce8a1a298a298.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "15": {
+                "src": "assets/native-6276fd9e8e2e2de69969f81740654ea154a64cb335433a4b3c702b91bfbf23b7.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "16": {
+                "src": "assets/native-ac0f01d79f8b7ada8922c486c625a7a62a514bcc854e3b4487f61aeefe985448.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "17": {
+                "src": "assets/native-ce74cd8a2a1bf85132d7b7089c4991e5227e1e54a25737f95f99d2c5f079177e.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "18": {
+                "src": "assets/native-8e24d8b528f3c2fae3a75cdab75ceba59a736281cc849efdeb0ce8a1a298a298.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "19": {
+                "src": "assets/native-0139c001ccdced9afa5a190902874d1605ac5535d340cd23e30dcd4d396570e7.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              }
+            },
+            "gallery_auto": true,
+            "color": "#111111",
+            "outline": "#a5dff2",
+            "outline_width": 5,
+            "outline_opacity": 1,
+            "background_saturation": 0,
+            "background_blur": 2,
+            "background_opacity": 1,
+            "background_tint": "#ffffff",
+            "background_tint_alpha": 0.1,
+            "background_blend": "multiply",
+            "outline_blend": "normal"
+          },
+          {
+            "id": "c2d7e02d1d83",
+            "kind": "shape",
+            "name": "Цветовой фильтр",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0.65,
+            "hidden": true,
+            "blend": "color",
+            "effects": {},
+            "palette_filter": true,
+            "color": "#82b9cc"
+          },
+          {
+            "id": "7f3372334271",
+            "kind": "shape",
+            "name": "Плашка",
+            "x": 0,
+            "y": 65,
+            "w": 100,
+            "h": 35,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#3b5478"
+          },
+          {
+            "id": "146114a199c9",
+            "kind": "text",
+            "name": "Название",
+            "x": 2.576122672508223,
+            "y": 78.28587075575027,
+            "w": 92,
+            "h": 16,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "СКИДКИ 2026-11-10 12-26",
+            "font_size": 112,
+            "bold": true,
+            "align": "center",
+            "color": "#ffffff"
+          },
+          {
+            "id": "d4105707527f",
+            "kind": "shape",
+            "name": "Полоска",
+            "x": 45,
+            "y": 94,
+            "w": 10,
+            "h": 1.25,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#a5dff2"
+          }
+        ]
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "name": "FINAL FANTASY VII REMAKE",
+        "src": "assets/native-0d40e857016608e13a0d71259970313185826eab245b94eda47dc19f4091c740.png",
+        "game_id": "CUSA07187",
+        "popularity": 860.0
+      },
+      {
+        "name": "FINAL FANTASY VII REMAKE",
+        "src": "assets/native-0d40e857016608e13a0d71259970313185826eab245b94eda47dc19f4091c740.png",
+        "game_id": "CUSA07187",
+        "popularity": 860.0
+      },
+      {
+        "name": "Stray",
+        "src": "assets/native-e53b2217683c89ea98786fe032f7409faf2d54085de57a77b84da61e152373b1.png",
+        "game_id": "PPSA02101",
+        "popularity": 816.0
+      },
+      {
+        "name": "Stray",
+        "src": "assets/native-e53b2217683c89ea98786fe032f7409faf2d54085de57a77b84da61e152373b1.png",
+        "game_id": "PPSA02101",
+        "popularity": 816.0
+      },
+      {
+        "name": "ASTRO BOT",
+        "src": "assets/native-19e37c8f055deef9c1dd418cd8e0bd178f33c988a8393d4d3cd58c25d03a4e15.png",
+        "game_id": "PPSA21567",
+        "popularity": 814.0
+      },
+      {
+        "name": "ASTRO BOT",
+        "src": "assets/native-19e37c8f055deef9c1dd418cd8e0bd178f33c988a8393d4d3cd58c25d03a4e15.png",
+        "game_id": "PPSA21567",
+        "popularity": 814.0
+      },
+      {
+        "name": "Diablo® IV - Standard Edition",
+        "src": "assets/native-9493f830494eab2bee38c2cfc5be7c2bfc7f11027b40371736ac675e7b7f3400.png",
+        "game_id": "PPSA08595",
+        "popularity": 694.0
+      },
+      {
+        "name": "Diablo® IV: Lord of Hatred™ - Standard Edition",
+        "src": "assets/native-960da7d65e46525822808643816efb8b6405422fab748110af44943da6c06320.png",
+        "game_id": "PPSA08595",
+        "popularity": 694.0
+      },
+      {
+        "name": "Diablo® IV - Standard Edition",
+        "src": "assets/native-9493f830494eab2bee38c2cfc5be7c2bfc7f11027b40371736ac675e7b7f3400.png",
+        "game_id": "PPSA08595",
+        "popularity": 694.0
+      },
+      {
+        "name": "Diablo® IV: Lord of Hatred™ — издание Standard",
+        "src": "assets/native-960da7d65e46525822808643816efb8b6405422fab748110af44943da6c06320.png",
+        "game_id": "PPSA08595",
+        "popularity": 694.0
+      },
+      {
+        "name": "Mortal Shell II",
+        "src": "assets/native-2ae6f162f11f5d0eca16b213d69282de58b69962d2999fb03172210fe54ae5bc.png",
+        "game_id": "PPSA34008",
+        "popularity": 692.0
+      },
+      {
+        "name": "Mortal Shell II: Devout Edition",
+        "src": "assets/native-291dad97dea4745b2a8806eedbbce5d947da00523d1039e439003ba7b4604e91.png",
+        "game_id": "PPSA34008",
+        "popularity": 692.0
+      },
+      {
+        "name": "Mortal Shell II",
+        "src": "assets/native-2ae6f162f11f5d0eca16b213d69282de58b69962d2999fb03172210fe54ae5bc.png",
+        "game_id": "PPSA34008",
+        "popularity": 692.0
+      },
+      {
+        "name": "Mortal Shell II: Devout Edition",
+        "src": "assets/native-291dad97dea4745b2a8806eedbbce5d947da00523d1039e439003ba7b4604e91.png",
+        "game_id": "PPSA34008",
+        "popularity": 692.0
+      },
+      {
+        "name": "Escape the Backrooms",
+        "src": "assets/native-6276fd9e8e2e2de69969f81740654ea154a64cb335433a4b3c702b91bfbf23b7.png",
+        "game_id": "PPSA23300",
+        "popularity": 676.0
+      },
+      {
+        "name": "Escape the Backrooms",
+        "src": "assets/native-6276fd9e8e2e2de69969f81740654ea154a64cb335433a4b3c702b91bfbf23b7.png",
+        "game_id": "PPSA23300",
+        "popularity": 676.0
+      },
+      {
+        "name": "SILENT HILL: Townfall",
+        "src": "assets/native-e93bc0910e2c2a8f9baeec041f6ba0672cbd113b93f74eb0fe4e78eee4849617.png",
+        "game_id": "PPSA33286",
+        "popularity": 605.0
+      },
+      {
+        "name": "SILENT HILL: Townfall",
+        "src": "assets/native-e93bc0910e2c2a8f9baeec041f6ba0672cbd113b93f74eb0fe4e78eee4849617.png",
+        "game_id": "PPSA33286",
+        "popularity": 605.0
+      },
+      {
+        "name": "Valheim",
+        "src": "assets/native-c99ab5ba2157984d5cea623bb4cce8838fa75c4ab1ecd6754caf22276286221c.png",
+        "game_id": "PPSA28824",
+        "popularity": 597.0
+      },
+      {
+        "name": "Valheim",
+        "src": "assets/native-c99ab5ba2157984d5cea623bb4cce8838fa75c4ab1ecd6754caf22276286221c.png",
+        "game_id": "PPSA28824",
+        "popularity": 597.0
+      },
+      {
+        "name": "Marvel’s Wolverine Digital Deluxe Edition",
+        "src": "assets/native-a6095a95eb073c13ccda5cf14ee958d3982efde57c1486a6b66aa681aa4bf5ee.png",
+        "game_id": "PPSA03671",
+        "popularity": -1
+      },
+      {
+        "name": "UFC® 6 Ultimate Edition",
+        "src": "assets/native-55e149a0002cadb72deb6282c5db5767826bb56dbe0cf01ee74782aeba18b4ed.png",
+        "game_id": "PPSA23566",
+        "popularity": -1
+      },
+      {
+        "name": "NBA 2K27 Deluxe Edition",
+        "src": "assets/native-7a2fae6f7ec5e0adea982cf492eb525a80c3ce3e9a62edf42b01380f9b98b0dc.png",
+        "game_id": "PPSA35889",
+        "popularity": -1
+      },
+      {
+        "name": "007 First Light - Deluxe Edition",
+        "src": "assets/native-c7788cbb72073c9746b87ae009d6be2266247259391bd00a6bb74c09a67e47df.png",
+        "game_id": "PPSA11386",
+        "popularity": -1
+      },
+      {
+        "name": "CONTROL Resonant Digital Deluxe Edition",
+        "src": "assets/native-20ce746403468c71f1a805ad717acff4df64eb78541f5521294105cdfabcd71b.png",
+        "game_id": "PPSA34547",
+        "popularity": -1
+      },
+      {
+        "name": "Dune: Awakening - Deluxe Edition",
+        "src": "assets/native-5c4b5127c0cb48b5b7c0b703a0188d57f54fd969a19f62274b00070e4b39e5cc.png",
+        "game_id": "PPSA02391",
+        "popularity": -1
+      },
+      {
+        "name": "Dune: Awakening - Deluxe Edition Upgrade",
+        "src": "assets/native-a8908b221356a69b3e4d1de3b465a9dc0b14581d7e45df943a04da7b9ee012b3.png",
+        "game_id": "PPSA02391",
+        "popularity": -1
+      },
+      {
+        "name": "Dune: Awakening - Filmic Archive DLC",
+        "src": "assets/native-ce74cd8a2a1bf85132d7b7089c4991e5227e1e54a25737f95f99d2c5f079177e.png",
+        "game_id": "PPSA02391",
+        "popularity": -1
+      },
+      {
+        "name": "Cyberpunk 2077: Ultimate Edition (PS5)",
+        "src": "assets/native-0139c001ccdced9afa5a190902874d1605ac5535d340cd23e30dcd4d396570e7.png",
+        "game_id": "PPSA04027",
+        "popularity": -1
+      },
+      {
+        "name": "SILENT HILL 2",
+        "src": "assets/native-7e0743d7eb02ea5959cd22c3cf607c6d671e3656b33097550153c5c0ed50cadb.png",
+        "game_id": "PPSA08709",
+        "popularity": -1
+      },
+      {
+        "name": "SILENT HILL f",
+        "src": "assets/native-ac0f01d79f8b7ada8922c486c625a7a62a514bcc854e3b4487f61aeefe985448.png",
+        "game_id": "PPSA21159",
+        "popularity": -1
+      },
+      {
+        "name": "The Blood of Dawnwalker - Eclipse Edition",
+        "src": "assets/native-d5e19553d2417ae5e4e459102d547ba2a3b92d9a2bd9bcf47737f4ad8d7beff1.png",
+        "game_id": "PPSA28000",
+        "popularity": -1
+      },
+      {
+        "name": "DEATH STRANDING 2: ON THE BEACH",
+        "src": "assets/native-3a99a8e4dffcb50f26057b3a79565f398a2947d7397b3ab18ef270715f01f9bd.png",
+        "game_id": "PPSA02015",
+        "popularity": -1
+      },
+      {
+        "name": "SAROS Digital Deluxe Edition",
+        "src": "assets/native-0083066906f38398858bb9d8095deb279b9acc95e3904334b397af8cb3512de1.png",
+        "game_id": "PPSA07631",
+        "popularity": -1
+      },
+      {
+        "name": "PRAGMATA Deluxe Edition",
+        "src": "assets/native-8e24d8b528f3c2fae3a75cdab75ceba59a736281cc849efdeb0ce8a1a298a298.png",
+        "game_id": "PPSA02530",
+        "popularity": -1
+      },
+      {
+        "name": "Цифровое расширенное издание «Marvel: Росомаха»",
+        "src": "assets/native-a6095a95eb073c13ccda5cf14ee958d3982efde57c1486a6b66aa681aa4bf5ee.png",
+        "game_id": "PPSA03671",
+        "popularity": -1
+      },
+      {
+        "name": "Издание Ultimate UFC™ 6",
+        "src": "assets/native-55e149a0002cadb72deb6282c5db5767826bb56dbe0cf01ee74782aeba18b4ed.png",
+        "game_id": "PPSA23566",
+        "popularity": -1
+      },
+      {
+        "name": "NBA 2K27 Deluxe Edition",
+        "src": "assets/native-7a2fae6f7ec5e0adea982cf492eb525a80c3ce3e9a62edf42b01380f9b98b0dc.png",
+        "game_id": "PPSA35889",
+        "popularity": -1
+      },
+      {
+        "name": "007 First Light - Издание Deluxe",
+        "src": "assets/native-c7788cbb72073c9746b87ae009d6be2266247259391bd00a6bb74c09a67e47df.png",
+        "game_id": "PPSA11386",
+        "popularity": -1
+      },
+      {
+        "name": "CONTROL Resonant Digital Deluxe Edition",
+        "src": "assets/native-20ce746403468c71f1a805ad717acff4df64eb78541f5521294105cdfabcd71b.png",
+        "game_id": "PPSA34547",
+        "popularity": -1
+      },
+      {
+        "name": "Dune: Awakening - Издание «Делюкс»",
+        "src": "assets/native-5c4b5127c0cb48b5b7c0b703a0188d57f54fd969a19f62274b00070e4b39e5cc.png",
+        "game_id": "PPSA02391",
+        "popularity": -1
+      },
+      {
+        "name": "Dune: Awakening - Обновление «Делюкс»",
+        "src": "assets/native-a8908b221356a69b3e4d1de3b465a9dc0b14581d7e45df943a04da7b9ee012b3.png",
+        "game_id": "PPSA02391",
+        "popularity": -1
+      },
+      {
+        "name": "Dune: Awakening — дополнение «Киноархив»",
+        "src": "assets/native-ce74cd8a2a1bf85132d7b7089c4991e5227e1e54a25737f95f99d2c5f079177e.png",
+        "game_id": "PPSA02391",
+        "popularity": -1
+      },
+      {
+        "name": "Cyberpunk 2077: Полное издание (PS5)",
+        "src": "assets/native-0139c001ccdced9afa5a190902874d1605ac5535d340cd23e30dcd4d396570e7.png",
+        "game_id": "PPSA04027",
+        "popularity": -1
+      },
+      {
+        "name": "SILENT HILL 2",
+        "src": "assets/native-7e0743d7eb02ea5959cd22c3cf607c6d671e3656b33097550153c5c0ed50cadb.png",
+        "game_id": "PPSA08709",
+        "popularity": -1
+      },
+      {
+        "name": "SILENT HILL f",
+        "src": "assets/native-ac0f01d79f8b7ada8922c486c625a7a62a514bcc854e3b4487f61aeefe985448.png",
+        "game_id": "PPSA21159",
+        "popularity": -1
+      },
+      {
+        "name": "The Blood of Dawnwalker - Eclipse Edition",
+        "src": "assets/native-d5e19553d2417ae5e4e459102d547ba2a3b92d9a2bd9bcf47737f4ad8d7beff1.png",
+        "game_id": "PPSA28000",
+        "popularity": -1
+      },
+      {
+        "name": "DEATH STRANDING 2: ON THE BEACH",
+        "src": "assets/native-3a99a8e4dffcb50f26057b3a79565f398a2947d7397b3ab18ef270715f01f9bd.png",
+        "game_id": "PPSA02015",
+        "popularity": -1
+      },
+      {
+        "name": "SAROS Digital Deluxe Edition",
+        "src": "assets/native-0083066906f38398858bb9d8095deb279b9acc95e3904334b397af8cb3512de1.png",
+        "game_id": "PPSA07631",
+        "popularity": -1
+      },
+      {
+        "name": "PRAGMATA Deluxe Edition",
+        "src": "assets/native-8e24d8b528f3c2fae3a75cdab75ceba59a736281cc849efdeb0ce8a1a298a298.png",
+        "game_id": "PPSA02530",
+        "popularity": -1
+      }
+    ],
+    "workspace": "#444444",
+    "palette_schemes": [
+      {
+        "version": 2,
+        "name": "Основной",
+        "tint": "#82b9cc",
+        "background": "#133e4c",
+        "blend": "color",
+        "strength": 0.65,
+        "accent": "#a5dff2"
+      },
+      {
+        "version": 2,
+        "name": "Второй цвет",
+        "tint": "#82b9cc",
+        "background": "#133e4c",
+        "blend": "overlay",
+        "strength": 0.6,
+        "accent": "#a5dff2"
+      },
+      {
+        "version": 2,
+        "name": "Третий цвет",
+        "tint": "#cc8289",
+        "background": "#4c1318",
+        "blend": "color",
+        "strength": 0.65,
+        "accent": "#f2a5ac"
+      },
+      {
+        "version": 2,
+        "name": "Контраст",
+        "tint": "#cc9482",
+        "background": "#4c2113",
+        "blend": "multiply",
+        "strength": 0.5,
+        "accent": "#f2b8a5"
+      },
+      {
+        "version": 2,
+        "name": "Мягкий",
+        "tint": "#8296cc",
+        "background": "#13234c",
+        "blend": "normal",
+        "strength": 0.3,
+        "accent": "#a5baf2"
+      }
+    ],
+    "active_palette": "Основной"
+  },
+  "savedAt": "2026-11-10T09:29:03.078738+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "cover-1",
+      "name": "Соты",
+      "file": "Скидки 2026-11-10 12-26.png",
+      "width": 1600,
+      "height": 1600
+    }
+  ]
+}
