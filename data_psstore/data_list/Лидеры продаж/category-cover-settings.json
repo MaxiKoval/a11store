@@ -258,7 +258,7 @@
             "w": 100,
             "h": 100,
             "rotation": 0,
-            "opacity": 0.6183206106870229,
+            "opacity": 0,
             "hidden": false,
             "blend": "color",
             "effects": {},
@@ -340,7 +340,7 @@
     ],
     "cover_alternates": []
   },
-  "savedAt": "2026-11-19T22:35:59.642436+00:00",
+  "savedAt": "2026-11-19T22:37:19.220463+00:00",
   "schemaVersion": 1,
   "workspaces": [
     {
