@@ -1,0 +1,352 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 0,
+    "canvases": [
+      {
+        "id": "cover-1",
+        "name": "Соты",
+        "width": 1600,
+        "height": 1600,
+        "background": "#312a1f",
+        "layers": [
+          {
+            "id": "e8b8bcdd81b9",
+            "kind": "hex",
+            "name": "Соты",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 65,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "layout": "database",
+            "cell_width": 307.69,
+            "cells": {
+              "9": {
+                "src": "assets/native-d78e9a9bdfd92d8723dd68b97489c43054328ec5f8dcb175887af080fefb6e31.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "6": {
+                "src": "assets/native-2bed84ce6ece50b1558f8b3bab1928d4e4f92abf51713cda5a7e2cccc242cff6.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "14": {
+                "src": "assets/native-d8dcf889fab3f003348c38e077500d659ebf9ad9a900aa9cd3d716afcb00701d.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "5": {
+                "src": "assets/native-8820239d49d746f5da8f6045388bc03dc5dec8f934512a713f13c3ac1c605136.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "13": {
+                "src": "assets/native-f9234f8ab6bf32997e1f887809447804501eaa31df95c33be7553ef5173ba57f.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "10": {
+                "src": "assets/native-3d56cc7b455b30f09dc21461e304964561620be2da9cb8d4b96ba549455a8072.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "1": {
+                "src": "assets/native-c2c6982a539c4f035a025f09aa5ff0585235b97617fd399e0c6fef49aa858cca.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "17": {
+                "src": "assets/native-7ac526333235e91286d2a2956200cb72f41026c7faaf926b345282cd3a687288.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "8": {
+                "src": "assets/native-19f9c8dc5b4f687618ef63b045feabb01655ae6fed748e58551ef4ab9d596a44.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "7": {
+                "src": "assets/native-ee0fc3ae4866a2d91586d2be5c16a32b6bc942a42170b7543a08d548183b848a.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "15": {
+                "src": "assets/native-b801c42e50ce1bb389ed218b5fc67e9a592c588bc56d9053ca7fb8698ca7d89c.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "2": {
+                "src": "assets/native-d78e9a9bdfd92d8723dd68b97489c43054328ec5f8dcb175887af080fefb6e31.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "18": {
+                "src": "assets/native-2bed84ce6ece50b1558f8b3bab1928d4e4f92abf51713cda5a7e2cccc242cff6.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "0": {
+                "src": "assets/native-d8dcf889fab3f003348c38e077500d659ebf9ad9a900aa9cd3d716afcb00701d.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "16": {
+                "src": "assets/native-8820239d49d746f5da8f6045388bc03dc5dec8f934512a713f13c3ac1c605136.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              }
+            },
+            "gallery_auto": true,
+            "color": "#201c16",
+            "outline": "#7b7060",
+            "outline_width": 5,
+            "outline_opacity": 1,
+            "background_saturation": 0,
+            "background_blur": 2,
+            "background_opacity": 1,
+            "background_tint": "#ffffff",
+            "background_tint_alpha": 0,
+            "background_blend": "multiply",
+            "collection_ranked": true,
+            "background_filter": true,
+            "outline_blend": "normal"
+          },
+          {
+            "id": "97926b9c87e1",
+            "kind": "shape",
+            "name": "Цветовой фильтр",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#8497ac",
+            "palette_filter": true
+          },
+          {
+            "id": "4f0ceacce78e",
+            "kind": "shape",
+            "name": "Фильтр основных сот",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#8497ac",
+            "main_palette_filter": true
+          },
+          {
+            "id": "907c3ebab9bb",
+            "kind": "shape",
+            "name": "Плашка",
+            "x": 0,
+            "y": 65,
+            "w": 100,
+            "h": 35,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#312a1f",
+            "cover_role": "plate"
+          },
+          {
+            "id": "edd95bdbfdc4",
+            "kind": "text",
+            "name": "Название",
+            "x": 4,
+            "y": 73.4,
+            "w": 92,
+            "h": 13.2,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "ЛИДЕРЫ ПРОДАЖ",
+            "font_size": 112,
+            "bold": true,
+            "align": "center",
+            "color": "#ffffff",
+            "valign": "center",
+            "fit_text": true
+          },
+          {
+            "id": "b6094287d292",
+            "kind": "shape",
+            "name": "Полоска",
+            "x": 46,
+            "y": 87.2,
+            "w": 8,
+            "h": 1.1,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#ddcfbb",
+            "cover_role": "line"
+          }
+        ]
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "name": "Resident Evil 4",
+        "src": "assets/native-d78e9a9bdfd92d8723dd68b97489c43054328ec5f8dcb175887af080fefb6e31.jpg",
+        "game_id": "PPSA07412",
+        "popularity": 869.0,
+        "card_id": "RADI00001"
+      },
+      {
+        "name": "STAR WARS Battlefront II",
+        "src": "assets/native-2bed84ce6ece50b1558f8b3bab1928d4e4f92abf51713cda5a7e2cccc242cff6.jpg",
+        "game_id": "CUSA05749",
+        "popularity": 869.0,
+        "card_id": "RADI15171"
+      },
+      {
+        "name": "Mortal Kombat 11",
+        "src": "assets/native-d8dcf889fab3f003348c38e077500d659ebf9ad9a900aa9cd3d716afcb00701d.jpg",
+        "game_id": "PPSA01619",
+        "popularity": 841.0,
+        "card_id": "RADI12579"
+      },
+      {
+        "name": "FARCRY 6",
+        "src": "assets/native-8820239d49d746f5da8f6045388bc03dc5dec8f934512a713f13c3ac1c605136.jpg",
+        "game_id": "PPSA01874",
+        "popularity": 825.0,
+        "card_id": "RADI12070"
+      },
+      {
+        "name": "Assassin's Creed Valhalla",
+        "src": "assets/native-f9234f8ab6bf32997e1f887809447804501eaa31df95c33be7553ef5173ba57f.jpg",
+        "game_id": "PPSA01532",
+        "popularity": 824.0,
+        "card_id": "RADI12395"
+      },
+      {
+        "name": "Forza Horizon 5",
+        "src": "assets/native-3d56cc7b455b30f09dc21461e304964561620be2da9cb8d4b96ba549455a8072.jpg",
+        "game_id": "PPSA22327",
+        "popularity": 810.0,
+        "card_id": "RADI06204"
+      },
+      {
+        "name": "EA SPORTS FC 27",
+        "src": "assets/native-c2c6982a539c4f035a025f09aa5ff0585235b97617fd399e0c6fef49aa858cca.jpg",
+        "game_id": "PPSA34015",
+        "popularity": 804.0,
+        "card_id": "RADI00954"
+      },
+      {
+        "name": "Metro Exodus",
+        "src": "assets/native-7ac526333235e91286d2a2956200cb72f41026c7faaf926b345282cd3a687288.jpg",
+        "game_id": "PPSA01749",
+        "popularity": 804.0,
+        "card_id": "RADI12204"
+      },
+      {
+        "name": "Marvel’s Wolverine",
+        "src": "assets/native-19f9c8dc5b4f687618ef63b045feabb01655ae6fed748e58551ef4ab9d596a44.jpg",
+        "game_id": "PPSA03671",
+        "popularity": 803.0,
+        "card_id": "RADI01148"
+      },
+      {
+        "name": "LEGO Marvel Super Heroes",
+        "src": "assets/native-ee0fc3ae4866a2d91586d2be5c16a32b6bc942a42170b7543a08d548183b848a.png",
+        "game_id": "CUSA00044",
+        "popularity": 789.0,
+        "card_id": "RADI00070"
+      },
+      {
+        "name": "Grand Theft Auto VI",
+        "src": "assets/native-b801c42e50ce1bb389ed218b5fc67e9a592c588bc56d9053ca7fb8698ca7d89c.jpg",
+        "game_id": "PPSA01547",
+        "popularity": 1.0,
+        "card_id": "RADI00179"
+      }
+    ],
+    "workspace": "#444444",
+    "palette_schemes": [
+      {
+        "version": 4,
+        "name": "Основной",
+        "background": "#312a1f",
+        "grid": "#7b7060",
+        "cell_background": "#201c16",
+        "accent": "#ddcfbb"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 2",
+        "background": "#3c2700",
+        "grid": "#8b6c3a",
+        "cell_background": "#261b09",
+        "accent": "#f1ca8f"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 3",
+        "background": "#1f2b42",
+        "grid": "#607293",
+        "cell_background": "#171d29",
+        "accent": "#bbd2fc"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 4",
+        "background": "#2b2b2b",
+        "grid": "#717171",
+        "cell_background": "#1d1d1d",
+        "accent": "#d1d1d1"
+      }
+    ],
+    "active_palette": "Основной"
+  },
+  "savedAt": "2026-11-19T20:52:13.969745+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "cover-1",
+      "name": "Соты",
+      "file": "Лидеры_продаж.png",
+      "width": 1600,
+      "height": 1600
+    }
+  ]
+}
