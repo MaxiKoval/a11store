@@ -1,0 +1,356 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 0,
+    "canvases": [
+      {
+        "id": "cover-1",
+        "name": "Соты",
+        "width": 1600,
+        "height": 1600,
+        "background": "#2b2b2b",
+        "layers": [
+          {
+            "id": "0dbaca1ef9bb",
+            "kind": "hex",
+            "name": "Соты",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 65,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "layout": "database",
+            "cell_width": 307.69,
+            "cells": {
+              "9": {
+                "src": "assets/native-09ea787853e55af581b04bbe4c6685cfc498a35c58070e275cc6bee9acc5b108.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "6": {
+                "src": "assets/native-c2c6982a539c4f035a025f09aa5ff0585235b97617fd399e0c6fef49aa858cca.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "14": {
+                "src": "assets/native-2e917d63c6f5b8717efa6826cbeecd6ca4d008787e80ef80bec2ce0cf1564a12.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "5": {
+                "src": "assets/native-96cd09aad351701d97b33dff8eb285300ad1af884e917abaf2384bc56784121b.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "13": {
+                "src": "assets/native-7ff5f9c19477b76e27c0cee48c961eca4944d9e9228d7eff956dcd192cd90535.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "10": {
+                "src": "assets/native-64f1e90e9262a65bce1ec54d33041691fcd68fd8f25bbdb62eeb23d875c7d115.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "1": {
+                "src": "assets/native-e93bc0910e2c2a8f9baeec041f6ba0672cbd113b93f74eb0fe4e78eee4849617.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "17": {
+                "src": "assets/native-f0d33d9195051be50e0fe7bbec6572dee93cd5db0a63b630ae3718ce4d8f350c.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "8": {
+                "src": "assets/native-8f20fe2c9af61780654b337eb2feda39779906e7b1b2b48165cdbe82dfbab591.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "7": {
+                "src": "assets/native-60b90c507e4e60419983e6e6a25333d72a53d38877f69883083b0449c334fcca.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "15": {
+                "src": "assets/native-441f1f2b39955390429d8c444dfca10ff3521220e3b5f585b0f94bdcdb1899c9.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "2": {
+                "src": "assets/native-b801c42e50ce1bb389ed218b5fc67e9a592c588bc56d9053ca7fb8698ca7d89c.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "18": {
+                "src": "assets/native-d151ac39a07ee74c8adfebf50b1976e3de1b76a63ee1b753da42af422fdec43a.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "0": {
+                "src": "assets/native-84fa15f688d5faa35fe6767ab18b0c2d01ac8c7eb18536d63a8b3c6e10f31009.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "16": {
+                "src": "assets/native-4e68fb155d04b7d3ca7b16441377c607452cd4091fc2c9e027a4f39402ec3cf3.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              }
+            },
+            "gallery_auto": true,
+            "color": "#1d1d1d",
+            "outline": "#717171",
+            "outline_width": 5,
+            "outline_opacity": 1,
+            "background_saturation": 0,
+            "background_blur": 2,
+            "background_opacity": 1,
+            "background_tint": "#ffffff",
+            "background_tint_alpha": 0,
+            "background_blend": "multiply",
+            "collection_ranked": true,
+            "background_filter": true,
+            "outline_blend": "normal"
+          },
+          {
+            "id": "146659383be2",
+            "kind": "shape",
+            "name": "Цветовой фильтр",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#8497ac",
+            "palette_filter": true
+          },
+          {
+            "id": "ce2150809fd0",
+            "kind": "shape",
+            "name": "Фильтр основных сот",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#8497ac",
+            "main_palette_filter": true
+          },
+          {
+            "id": "3d3b006a8ef1",
+            "kind": "shape",
+            "name": "Плашка",
+            "x": 0,
+            "y": 65,
+            "w": 100,
+            "h": 35,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#2b2b2b",
+            "cover_role": "plate"
+          },
+          {
+            "id": "47b901b5aacf",
+            "kind": "text",
+            "name": "Название",
+            "x": 4,
+            "y": 73.4,
+            "w": 92,
+            "h": 13.2,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "ПРЕДЗАКАЗЫ",
+            "font_size": 112,
+            "bold": true,
+            "align": "center",
+            "color": "#ffffff",
+            "valign": "center",
+            "fit_text": true
+          },
+          {
+            "id": "120a6e8f4cba",
+            "kind": "shape",
+            "name": "Полоска",
+            "x": 46,
+            "y": 87.2,
+            "w": 8,
+            "h": 1.1,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#d1d1d1",
+            "cover_role": "line"
+          }
+        ]
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "name": "Call of Duty: Modern Warfare 4",
+        "src": "assets/native-09ea787853e55af581b04bbe4c6685cfc498a35c58070e275cc6bee9acc5b108.jpg",
+        "game_id": "PPSA07950",
+        "popularity": 978.0,
+        "card_id": "RADI00573"
+      },
+      {
+        "name": "EA SPORTS FC 27",
+        "src": "assets/native-c2c6982a539c4f035a025f09aa5ff0585235b97617fd399e0c6fef49aa858cca.jpg",
+        "game_id": "PPSA34015",
+        "popularity": 804.0,
+        "card_id": "RADI00954"
+      },
+      {
+        "name": "Phantom Blade Zero",
+        "src": "assets/native-2e917d63c6f5b8717efa6826cbeecd6ca4d008787e80ef80bec2ce0cf1564a12.jpg",
+        "game_id": "PPSA34579",
+        "popularity": 724.0,
+        "card_id": "RADI00487"
+      },
+      {
+        "name": "Until Dawn",
+        "src": "assets/native-96cd09aad351701d97b33dff8eb285300ad1af884e917abaf2384bc56784121b.jpg",
+        "game_id": "PPSA15421",
+        "popularity": 701.0,
+        "card_id": "RADI07649"
+      },
+      {
+        "name": "CONTROL Resonant",
+        "src": "assets/native-7ff5f9c19477b76e27c0cee48c961eca4944d9e9228d7eff956dcd192cd90535.jpg",
+        "game_id": "PPSA34547",
+        "popularity": 677.0,
+        "card_id": "RADI00959"
+      },
+      {
+        "name": "ACE COMBAT 8: WINGS OF THEVE",
+        "src": "assets/native-64f1e90e9262a65bce1ec54d33041691fcd68fd8f25bbdb62eeb23d875c7d115.jpg",
+        "game_id": "PPSA24913",
+        "popularity": 626.0,
+        "card_id": "RADI00832"
+      },
+      {
+        "name": "SILENT HILL: Townfall",
+        "src": "assets/native-e93bc0910e2c2a8f9baeec041f6ba0672cbd113b93f74eb0fe4e78eee4849617.jpg",
+        "game_id": "PPSA33286",
+        "popularity": 609.0,
+        "card_id": "RADI01020"
+      },
+      {
+        "name": "STAR WARS: Galactic Racer",
+        "src": "assets/native-f0d33d9195051be50e0fe7bbec6572dee93cd5db0a63b630ae3718ce4d8f350c.jpg",
+        "game_id": "PPSA28416",
+        "popularity": 593.0,
+        "card_id": "RADI00819"
+      },
+      {
+        "name": "Minecraft Dungeons II",
+        "src": "assets/native-8f20fe2c9af61780654b337eb2feda39779906e7b1b2b48165cdbe82dfbab591.jpg",
+        "game_id": "PPSA16064",
+        "popularity": 571.0,
+        "card_id": "RADI00907"
+      },
+      {
+        "name": "Dune: Awakening",
+        "src": "assets/native-60b90c507e4e60419983e6e6a25333d72a53d38877f69883083b0449c334fcca.jpg",
+        "game_id": "PPSA02391",
+        "popularity": 527.0,
+        "card_id": "RADI01029"
+      },
+      {
+        "name": "Way of the Hunter 2",
+        "src": "assets/native-441f1f2b39955390429d8c444dfca10ff3521220e3b5f585b0f94bdcdb1899c9.jpg",
+        "game_id": "PPSA17911",
+        "popularity": 515.0,
+        "card_id": "RADI00906"
+      },
+      {
+        "name": "Grand Theft Auto VI",
+        "src": "assets/native-b801c42e50ce1bb389ed218b5fc67e9a592c588bc56d9053ca7fb8698ca7d89c.jpg",
+        "game_id": "PPSA01547",
+        "popularity": 1.0,
+        "card_id": "RADI00179"
+      },
+      {
+        "name": "Rayman Legends Retold",
+        "src": "assets/native-d151ac39a07ee74c8adfebf50b1976e3de1b76a63ee1b753da42af422fdec43a.jpg",
+        "game_id": "PPSA34056",
+        "popularity": 1.0,
+        "card_id": "RADI00169"
+      },
+      {
+        "name": "Tomb Raider: Legacy of Atlantis",
+        "src": "assets/native-84fa15f688d5faa35fe6767ab18b0c2d01ac8c7eb18536d63a8b3c6e10f31009.jpg",
+        "game_id": "PPSA29000",
+        "popularity": 1.0,
+        "card_id": "RADI00040"
+      },
+      {
+        "name": "Fable",
+        "src": "assets/native-4e68fb155d04b7d3ca7b16441377c607452cd4091fc2c9e027a4f39402ec3cf3.jpg",
+        "game_id": "PPSA31381",
+        "popularity": 1.0,
+        "card_id": "RADI00036"
+      }
+    ],
+    "workspace": "#444444",
+    "palette_schemes": [
+      {
+        "version": 4,
+        "name": "Основной",
+        "background": "#2b2b2b",
+        "grid": "#717171",
+        "cell_background": "#1d1d1d",
+        "accent": "#d1d1d1"
+      }
+    ],
+    "active_palette": "Основной"
+  },
+  "savedAt": "2026-11-19T20:55:01.300637+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "cover-1",
+      "name": "Соты",
+      "file": "Предзаказы.png",
+      "width": 1600,
+      "height": 1600
+    }
+  ]
+}
