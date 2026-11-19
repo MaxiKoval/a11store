@@ -1,0 +1,395 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 0,
+    "canvases": [
+      {
+        "id": "cover-1",
+        "name": "Соты",
+        "width": 1600,
+        "height": 1600,
+        "background": "#322a1f",
+        "layers": [
+          {
+            "id": "50ac47ab48cd",
+            "kind": "hex",
+            "name": "Соты",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 65,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "layout": "database",
+            "cell_width": 307.69,
+            "cells": {
+              "9": {
+                "src": "assets/native-584f74cb3003cd3a4d445b313f3dce608906f979db67b1b150107e86babde729.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "6": {
+                "src": "assets/native-07b15b54aa912b3dd9e0775e70669fcb97bcd8a3c5c3e9953b679dc73f637325.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "14": {
+                "src": "assets/native-6369e1b090a927753f82d576c0d4af68e2d3feabb10d41fbb390056349a13ad5.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "5": {
+                "src": "assets/native-636578e8705f36f1262e76fa49358017dd3621678b54b3db970d120b88a55c71.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "13": {
+                "src": "assets/native-96cc009cea7052177f8736f782525ca5d84a16c696c4dd80d3ce4ff03f5f9a56.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "10": {
+                "src": "assets/native-ad76570d91629e35deb8829a898a44e8b2a9558eefa538a9b22acf640e38c3dc.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "1": {
+                "src": "assets/native-58661cded6ffa80d046baeb129fb72803966c01b6e88851bf44427b26594f48c.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "17": {
+                "src": "assets/native-6c15d527c94bac31e2474db43a4b0d0716b567f4df2c5d9d3e70cc422fd34e01.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "8": {
+                "src": "assets/native-fe99c37062b3403a2ed09bdb0a02445cf4fb790cb192420813ac970b2b0bc7bc.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "7": {
+                "src": "assets/native-ec161f663e6d0bed8317700bb239efacce8de13160f358425c6decceaaa2cf72.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "15": {
+                "src": "assets/native-d621b5644ee0a227f5e02e842bf3daa42cdddf8a9ca658414ad7ae511cf6abba.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "2": {
+                "src": "assets/native-19c9b57b97f08d940c8b4d717dfa4a4d8e552a032b3d3314ecb92a9f10e22bfb.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "18": {
+                "src": "assets/native-b4b2981ba8883b494c91f8301eb0001e4e166ad4b84553cf12722dbed172994a.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "0": {
+                "src": "assets/native-87660c053129665c47bdfbb99f9d2c17c975673d292c8e86716881293da5328c.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "16": {
+                "src": "assets/native-a2060940160d8e98ad5ea3508d408aa4b4f27c8a44cc4db9c284a0ab2dd95613.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              }
+            },
+            "gallery_auto": true,
+            "color": "#201c17",
+            "outline": "#7b7060",
+            "outline_width": 5,
+            "outline_opacity": 1,
+            "background_saturation": 0,
+            "background_blur": 2,
+            "background_opacity": 1,
+            "background_tint": "#ffffff",
+            "background_tint_alpha": 0,
+            "background_blend": "multiply",
+            "collection_ranked": true,
+            "background_filter": true,
+            "outline_blend": "normal"
+          },
+          {
+            "id": "ecb8324bd301",
+            "kind": "shape",
+            "name": "Цветовой фильтр",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#8497ac",
+            "palette_filter": true
+          },
+          {
+            "id": "473157d597cd",
+            "kind": "shape",
+            "name": "Фильтр основных сот",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#8497ac",
+            "main_palette_filter": true
+          },
+          {
+            "id": "1e6d9036cdbb",
+            "kind": "shape",
+            "name": "Плашка",
+            "x": 0,
+            "y": 65,
+            "w": 100,
+            "h": 35,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#322a1f",
+            "cover_role": "plate"
+          },
+          {
+            "id": "66a006931699",
+            "kind": "text",
+            "name": "Название",
+            "x": 4,
+            "y": 73.4,
+            "w": 92,
+            "h": 13.2,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "НА ДВОИХ",
+            "font_size": 112,
+            "bold": true,
+            "align": "center",
+            "color": "#ffffff",
+            "valign": "center",
+            "fit_text": true
+          },
+          {
+            "id": "ad70b91c9b6b",
+            "kind": "shape",
+            "name": "Полоска",
+            "x": 46,
+            "y": 87.2,
+            "w": 8,
+            "h": 1.1,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#ddcfbb",
+            "cover_role": "line"
+          }
+        ]
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "name": "It Takes Two",
+        "src": "assets/native-584f74cb3003cd3a4d445b313f3dce608906f979db67b1b150107e86babde729.jpg",
+        "game_id": "PPSA02343",
+        "popularity": 861.0,
+        "card_id": "RADI13258"
+      },
+      {
+        "name": "Mortal Kombat X",
+        "src": "assets/native-07b15b54aa912b3dd9e0775e70669fcb97bcd8a3c5c3e9953b679dc73f637325.png",
+        "game_id": "CUSA00970",
+        "popularity": 852.0,
+        "card_id": "RADI00719"
+      },
+      {
+        "name": "Baldur's Gate 3",
+        "src": "assets/native-6369e1b090a927753f82d576c0d4af68e2d3feabb10d41fbb390056349a13ad5.jpg",
+        "game_id": "PPSA14002",
+        "popularity": 842.0,
+        "card_id": "RADI10045"
+      },
+      {
+        "name": "Gang Beasts",
+        "src": "assets/native-636578e8705f36f1262e76fa49358017dd3621678b54b3db970d120b88a55c71.jpg",
+        "game_id": "CUSA04865",
+        "popularity": 831.0,
+        "card_id": "RADI00078"
+      },
+      {
+        "name": "TEKKEN 7",
+        "src": "assets/native-96cc009cea7052177f8736f782525ca5d84a16c696c4dd80d3ce4ff03f5f9a56.jpg",
+        "game_id": "CUSA06014",
+        "popularity": 769.0,
+        "card_id": "RADI00201"
+      },
+      {
+        "name": "Sackboy: A Big Adventure",
+        "src": "assets/native-ad76570d91629e35deb8829a898a44e8b2a9558eefa538a9b22acf640e38c3dc.jpg",
+        "game_id": "PPSA01288",
+        "popularity": 747.0,
+        "card_id": "RADI12408"
+      },
+      {
+        "name": "Diablo IV",
+        "src": "assets/native-58661cded6ffa80d046baeb129fb72803966c01b6e88851bf44427b26594f48c.jpg",
+        "game_id": "PPSA08595",
+        "popularity": 694.0,
+        "card_id": "RADI10297"
+      },
+      {
+        "name": "Overcooked! 2",
+        "src": "assets/native-6c15d527c94bac31e2474db43a4b0d0716b567f4df2c5d9d3e70cc422fd34e01.jpg",
+        "game_id": "CUSA10870",
+        "popularity": 690.0,
+        "card_id": "RADI15173"
+      },
+      {
+        "name": "Gears of War: Reloaded",
+        "src": "assets/native-fe99c37062b3403a2ed09bdb0a02445cf4fb790cb192420813ac970b2b0bc7bc.jpg",
+        "game_id": "PPSA17525",
+        "popularity": 688.0,
+        "card_id": "RADI05269"
+      },
+      {
+        "name": "Castle Crashers",
+        "src": "assets/native-ec161f663e6d0bed8317700bb239efacce8de13160f358425c6decceaaa2cf72.jpg",
+        "game_id": "CUSA14537",
+        "popularity": 685.0,
+        "card_id": "RADI01049"
+      },
+      {
+        "name": "LEGO Horizon Adventures",
+        "src": "assets/native-d621b5644ee0a227f5e02e842bf3daa42cdddf8a9ca658414ad7ae511cf6abba.jpg",
+        "game_id": "PPSA14632",
+        "popularity": 669.0,
+        "card_id": "RADI07293"
+      },
+      {
+        "name": "The Dark Pictures Anthology: The Devil in Me",
+        "src": "assets/native-19c9b57b97f08d940c8b4d717dfa4a4d8e552a032b3d3314ecb92a9f10e22bfb.jpg",
+        "game_id": "PPSA05921",
+        "popularity": 665.0,
+        "card_id": "RADI04184"
+      },
+      {
+        "name": "Party Animals",
+        "src": "assets/native-b4b2981ba8883b494c91f8301eb0001e4e166ad4b84553cf12722dbed172994a.jpg",
+        "game_id": "PPSA20635",
+        "popularity": 626.0,
+        "card_id": "RADI13447"
+      },
+      {
+        "name": "Serious",
+        "src": "assets/native-87660c053129665c47bdfbb99f9d2c17c975673d292c8e86716881293da5328c.jpg",
+        "game_id": "CUSA05773",
+        "popularity": 573.0,
+        "card_id": "RADI02495"
+      },
+      {
+        "name": "Rabbids: Party of Legends",
+        "src": "assets/native-a2060940160d8e98ad5ea3508d408aa4b4f27c8a44cc4db9c284a0ab2dd95613.jpg",
+        "game_id": "CUSA27236",
+        "popularity": 564.0,
+        "card_id": "RADI00876"
+      },
+      {
+        "name": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
+        "src": "assets/native-1302084826193fd14ec6e77d4010ce0293b0ed8abec8062ce6d293c61bc42d3c.jpg",
+        "game_id": "PPSA17246",
+        "popularity": 474.0,
+        "card_id": "RADI00470"
+      }
+    ],
+    "workspace": "#444444",
+    "palette_schemes": [
+      {
+        "version": 4,
+        "name": "Основной",
+        "background": "#322a1f",
+        "grid": "#7b7060",
+        "cell_background": "#201c17",
+        "accent": "#ddcfbb"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 2",
+        "background": "#39280f",
+        "grid": "#866d4c",
+        "cell_background": "#241b0f",
+        "accent": "#ebcca2"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 3",
+        "background": "#41221b",
+        "grid": "#92645b",
+        "cell_background": "#291815",
+        "accent": "#fbc1b4"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 4",
+        "background": "#142e40",
+        "grid": "#527690",
+        "cell_background": "#111f28",
+        "accent": "#abd7f8"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 5",
+        "background": "#2b2b2b",
+        "grid": "#717171",
+        "cell_background": "#1d1d1d",
+        "accent": "#d1d1d1"
+      }
+    ],
+    "active_palette": "Основной"
+  },
+  "savedAt": "2026-11-19T20:47:29.391832+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "cover-1",
+      "name": "Соты",
+      "file": "На_двоих.png",
+      "width": 1600,
+      "height": 1600
+    }
+  ]
+}
