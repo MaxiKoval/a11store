@@ -1,0 +1,331 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 0,
+    "variants": [],
+    "gallery": [
+      {
+        "name": "Rise of the Tomb Raider: 20 Year Celebration",
+        "src": "assets/native-e4a3e2efe1192db4973fcb777843d9dea1d8c7985eb675e65db6787436f1aa5a.jpg",
+        "game_id": "CUSA05716",
+        "popularity": 832.0,
+        "card_id": "RADI00276"
+      },
+      {
+        "name": "Tomb Raider: Definitive Edition",
+        "src": "assets/native-744ece3c89464532507aef1756659e030454769e3dd4c0c1b15e9d8362b9e270.jpg",
+        "game_id": "CUSA00109",
+        "popularity": 828.0,
+        "card_id": "RADI00214"
+      },
+      {
+        "name": "Shadow of the Tomb Raider Definitive Edition",
+        "src": "assets/native-f26fb4c93b27436660bfa54b7f9734dc922fcae5c439550f5e96da4e2fd97f1f.jpg",
+        "game_id": "CUSA10872",
+        "popularity": 811.0,
+        "card_id": "RADI15515"
+      },
+      {
+        "name": "Tomb Raider I-III Remastered Starring Lara Croft",
+        "src": "assets/native-8677e4c559ea85d11e24f1befac734bf984bf51adc3ea5276e173d0ded94561f.jpg",
+        "game_id": "PPSA16902",
+        "popularity": 685.0,
+        "card_id": "RADI00734"
+      },
+      {
+        "name": "Tomb Raider I-VI Remastered",
+        "src": "assets/native-9ceb00bd5bdcb081aef5dc510618614abff3f739b744fd3f9beb95759ac2f578.jpg",
+        "game_id": "PPSA169022",
+        "popularity": 685.0,
+        "card_id": "RADI00734"
+      },
+      {
+        "name": "Tomb Raider IV-VI Remastered PS4 & PS5",
+        "src": "assets/native-0718c419d14a60ad8c580bb55df45ca4b5e8186fea9430592aadab95983f4808.jpg",
+        "game_id": "PPSA18151",
+        "popularity": 588.0,
+        "card_id": "RADI00615"
+      },
+      {
+        "name": "Tomb Raider: Anniversary PS4 & PS5",
+        "src": "assets/native-8f5c1d5be3dcb7c935907d8d67343276a0b2a7e063c6b3b85b45c933955cb276.jpg",
+        "game_id": "PPSA27718",
+        "popularity": 567.0,
+        "card_id": "RADI00619"
+      },
+      {
+        "name": "Tomb Raider: Legacy of Atlantis",
+        "src": "assets/native-c965d3dacc4032f2b0e91c8b4344364b3a7d5bfb68cbacc95bf7aac1ac617bc3.jpg",
+        "game_id": "PPSA29000",
+        "popularity": 1.0,
+        "card_id": "RADI00040"
+      }
+    ],
+    "workspace": "#444444",
+    "canvases": [
+      {
+        "id": "cover-1",
+        "name": "Соты",
+        "width": 1600,
+        "height": 1600,
+        "background": "#212d35",
+        "layers": [
+          {
+            "id": "883ec9291cd2",
+            "kind": "hex",
+            "name": "Соты",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 65,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "layout": "database",
+            "cell_width": 307.69,
+            "cells": {
+              "9": {
+                "src": "assets/native-e4a3e2efe1192db4973fcb777843d9dea1d8c7985eb675e65db6787436f1aa5a.jpg",
+                "zoom": 2.2338129496402876,
+                "pan_x": 0.017086656079822134,
+                "pan_y": -0.9943044479733926
+              },
+              "6": {
+                "src": "assets/native-744ece3c89464532507aef1756659e030454769e3dd4c0c1b15e9d8362b9e270.jpg",
+                "zoom": 1.3273381294964028,
+                "pan_x": -1,
+                "pan_y": 0.03986886418625165
+              },
+              "14": {
+                "src": "assets/native-f26fb4c93b27436660bfa54b7f9734dc922fcae5c439550f5e96da4e2fd97f1f.jpg",
+                "zoom": 1.3273381294964028,
+                "pan_x": -0.03986886418625165,
+                "pan_y": 0.38729753780929915
+              },
+              "5": {
+                "src": "assets/native-8677e4c559ea85d11e24f1befac734bf984bf51adc3ea5276e173d0ded94561f.jpg",
+                "zoom": 1.629496402877698,
+                "pan_x": 0.06834662431928798,
+                "pan_y": -1
+              },
+              "13": {
+                "src": "assets/native-0718c419d14a60ad8c580bb55df45ca4b5e8186fea9430592aadab95983f4808.jpg",
+                "zoom": 1.6532374100719427,
+                "pan_x": 0.028477760133036153,
+                "pan_y": 0.2733864972771523
+              },
+              "10": {
+                "src": "assets/native-c965d3dacc4032f2b0e91c8b4344364b3a7d5bfb68cbacc95bf7aac1ac617bc3.jpg",
+                "zoom": 1.5539568345323742,
+                "pan_x": -0.06265107229268078,
+                "pan_y": -0.968243844523248
+              },
+              "1": {
+                "src": "assets/native-c965d3dacc4032f2b0e91c8b4344364b3a7d5bfb68cbacc95bf7aac1ac617bc3.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "17": {
+                "src": "assets/native-744ece3c89464532507aef1756659e030454769e3dd4c0c1b15e9d8362b9e270.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "8": {
+                "src": "assets/native-f26fb4c93b27436660bfa54b7f9734dc922fcae5c439550f5e96da4e2fd97f1f.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "7": {
+                "src": "assets/native-8677e4c559ea85d11e24f1befac734bf984bf51adc3ea5276e173d0ded94561f.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "15": {
+                "src": "assets/native-e4a3e2efe1192db4973fcb777843d9dea1d8c7985eb675e65db6787436f1aa5a.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "2": {
+                "src": "assets/native-0718c419d14a60ad8c580bb55df45ca4b5e8186fea9430592aadab95983f4808.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "18": {
+                "src": "assets/native-8f5c1d5be3dcb7c935907d8d67343276a0b2a7e063c6b3b85b45c933955cb276.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "0": {
+                "src": "assets/native-e4a3e2efe1192db4973fcb777843d9dea1d8c7985eb675e65db6787436f1aa5a.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "16": {
+                "src": "assets/native-c965d3dacc4032f2b0e91c8b4344364b3a7d5bfb68cbacc95bf7aac1ac617bc3.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              }
+            },
+            "gallery_auto": true,
+            "color": "#171e22",
+            "outline": "#62757f",
+            "outline_width": 5,
+            "outline_opacity": 1,
+            "background_saturation": 0,
+            "background_blur": 2,
+            "background_opacity": 1,
+            "background_tint": "#ffffff",
+            "background_tint_alpha": 0,
+            "background_blend": "multiply",
+            "collection_ranked": true,
+            "background_filter": true,
+            "outline_blend": "normal"
+          },
+          {
+            "id": "ceeae91952dd",
+            "kind": "shape",
+            "name": "Цветовой фильтр",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "palette_filter": true
+          },
+          {
+            "id": "1c86e4b877d6",
+            "kind": "shape",
+            "name": "Фильтр основных сот",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "main_palette_filter": true
+          },
+          {
+            "id": "54463e4025ff",
+            "kind": "shape",
+            "name": "Плашка",
+            "x": 0,
+            "y": 65,
+            "w": 100,
+            "h": 35,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#444444",
+            "cover_role": "plate"
+          },
+          {
+            "id": "61b69e1228ef",
+            "kind": "text",
+            "name": "Название",
+            "x": 4,
+            "y": 73.4,
+            "w": 92,
+            "h": 13.2,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "TOMB RAIDER",
+            "font_size": 112,
+            "bold": true,
+            "align": "center",
+            "color": "#ffffff",
+            "valign": "center",
+            "fit_text": true
+          },
+          {
+            "id": "b251a71a0411",
+            "kind": "shape",
+            "name": "Полоска",
+            "x": 46,
+            "y": 87.2,
+            "w": 8,
+            "h": 1.1,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#bed5e3",
+            "cover_role": "line"
+          }
+        ],
+        "graphics_mode": "hex"
+      }
+    ],
+    "cover_alternates": [],
+    "palette_schemes": [
+      {
+        "version": 4,
+        "name": "Основной",
+        "background": "#212d35",
+        "grid": "#62757f",
+        "cell_background": "#171e22",
+        "accent": "#bed5e3"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 2",
+        "background": "#142f3d",
+        "grid": "#53778c",
+        "cell_background": "#121f26",
+        "accent": "#acd8f2"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 3",
+        "background": "#451f12",
+        "grid": "#99624e",
+        "cell_background": "#2b1710",
+        "accent": "#ffc0aa"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 4",
+        "background": "#2b2b2b",
+        "grid": "#717171",
+        "cell_background": "#1d1d1d",
+        "accent": "#d1d1d1"
+      }
+    ],
+    "active_palette": "Основной"
+  },
+  "savedAt": "2026-11-19T13:22:26.332725+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "cover-1",
+      "name": "Соты",
+      "file": "Tomb Raider.png",
+      "width": 1600,
+      "height": 1600
+    }
+  ]
+}
