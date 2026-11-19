@@ -1,0 +1,436 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 0,
+    "canvases": [
+      {
+        "id": "cover-1",
+        "name": "Соты",
+        "width": 1600,
+        "height": 1600,
+        "background": "#342821",
+        "layers": [
+          {
+            "id": "147e52620ec8",
+            "kind": "hex",
+            "name": "Соты",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 65,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "layout": "database",
+            "cell_width": 307.69,
+            "cells": {
+              "9": {
+                "src": "assets/native-cac8097491f590d012f0a355ee88df9b160ca97776f1b1a8d5b2913dbe8e0a8a.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "6": {
+                "src": "assets/native-6f88f64bed59be54e45768fba898a74c871ffb53dd58acf0954b46f8940c2a3a.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "14": {
+                "src": "assets/native-a29f32b8184c87a778b8ba5e82aed65221806eaa33181491598b3102c6c22718.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "5": {
+                "src": "assets/native-465af16acb4811089d41b8459a69ef2593ec01ae030dcc1be0dc970c5d1b8650.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "13": {
+                "src": "assets/native-50468a4c153787114629631bc8e1cf88b1405c7dc9d02b0e6784ed5b6b234a62.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "10": {
+                "src": "assets/native-0815904e156acb67f000af831f9b0fd60d70f5a52acd75814bc328cccaeb6bb2.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "1": {
+                "src": "assets/native-17550388192f79228496e198837f4f536542def377af6edf54cadedc59b14798.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "17": {
+                "src": "assets/native-7110fb60b88a77e9604b1f12d9d449347467088514d4f5b9534082da1fa3f91b.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "8": {
+                "src": "assets/native-4e2453db989a56355290fca4c464299a7f511701a87824dd043a8f28bf495a2f.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "7": {
+                "src": "assets/native-69ce75a94616f61d558601836a1934da08a867145d63daabdda9348c00c7f1bb.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "15": {
+                "src": "assets/native-c2f432571c9630351325f90b9fba9f8e20e5131a3928b14c4256276d0f994dbe.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "2": {
+                "src": "assets/native-ff0e076553ac7b6d1c9589dca6bd4a28da6370d9ce4ef27537a0da1bc6a4b15d.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "18": {
+                "src": "assets/native-feeaf97bcfc099a468949b963a982d92c4d3223f6cefeec93b8187c1ac5fa2be.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "0": {
+                "src": "assets/native-c9436fdfc6b010692cc3211db69994b7f3eb80c91dc458a5371c6657a8a3223b.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "16": {
+                "src": "assets/native-2f52c915759ff122efddcc7427bddfab361de3415f76f8acb18431b9a14e79ed.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              }
+            },
+            "gallery_auto": true,
+            "color": "#221b18",
+            "outline": "#7f6d63",
+            "outline_width": 5,
+            "outline_opacity": 1,
+            "background_saturation": 0,
+            "background_blur": 2,
+            "background_opacity": 1,
+            "background_tint": "#ffffff",
+            "background_tint_alpha": 0,
+            "background_blend": "multiply",
+            "collection_ranked": true,
+            "background_filter": true,
+            "outline_blend": "normal"
+          },
+          {
+            "id": "5ffe6f727ada",
+            "kind": "shape",
+            "name": "Цветовой фильтр",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#8497ac",
+            "palette_filter": true
+          },
+          {
+            "id": "5c90537a9ad3",
+            "kind": "shape",
+            "name": "Фильтр основных сот",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#8497ac",
+            "main_palette_filter": true
+          },
+          {
+            "id": "c40499f0fd73",
+            "kind": "shape",
+            "name": "Плашка",
+            "x": 0,
+            "y": 65,
+            "w": 100,
+            "h": 35,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#342821",
+            "cover_role": "plate"
+          },
+          {
+            "id": "e35cba8c3c0b",
+            "kind": "text",
+            "name": "Название",
+            "x": 4,
+            "y": 73.4,
+            "w": 92,
+            "h": 13.2,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "SPACE HORROR",
+            "font_size": 112,
+            "bold": true,
+            "align": "center",
+            "color": "#ffffff",
+            "valign": "center",
+            "fit_text": true
+          },
+          {
+            "id": "c2dbd03533ed",
+            "kind": "shape",
+            "name": "Полоска",
+            "x": 46,
+            "y": 87.2,
+            "w": 8,
+            "h": 1.1,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#e3ccbf",
+            "cover_role": "line"
+          }
+        ]
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "name": "Dead Space",
+        "src": "assets/native-cac8097491f590d012f0a355ee88df9b160ca97776f1b1a8d5b2913dbe8e0a8a.jpg",
+        "game_id": "PPSA03846",
+        "popularity": 777.0,
+        "card_id": "RADI10934"
+      },
+      {
+        "name": "DOOM Eternal",
+        "src": "assets/native-6f88f64bed59be54e45768fba898a74c871ffb53dd58acf0954b46f8940c2a3a.jpg",
+        "game_id": "PPSA01982",
+        "popularity": 773.0,
+        "card_id": "RADI12493"
+      },
+      {
+        "name": "Alien: Isolation",
+        "src": "assets/native-a29f32b8184c87a778b8ba5e82aed65221806eaa33181491598b3102c6c22718.jpg",
+        "game_id": "CUSA00362",
+        "popularity": 769.0,
+        "card_id": "RADI15242"
+      },
+      {
+        "name": "PRAGMATA",
+        "src": "assets/native-465af16acb4811089d41b8459a69ef2593ec01ae030dcc1be0dc970c5d1b8650.jpg",
+        "game_id": "PPSA02530",
+        "popularity": 753.0,
+        "card_id": "RADI02653"
+      },
+      {
+        "name": "XCOM 2",
+        "src": "assets/native-50468a4c153787114629631bc8e1cf88b1405c7dc9d02b0e6784ed5b6b234a62.jpg",
+        "game_id": "CUSA04530",
+        "popularity": 743.0,
+        "card_id": "RADI15276"
+      },
+      {
+        "name": "Returnal",
+        "src": "assets/native-0815904e156acb67f000af831f9b0fd60d70f5a52acd75814bc328cccaeb6bb2.jpg",
+        "game_id": "PPSA01285",
+        "popularity": 740.0,
+        "card_id": "RADI12261"
+      },
+      {
+        "name": "SOMA",
+        "src": "assets/native-17550388192f79228496e198837f4f536542def377af6edf54cadedc59b14798.jpg",
+        "game_id": "CUSA03200",
+        "popularity": 738.0,
+        "card_id": "RADI00589"
+      },
+      {
+        "name": "The Callisto Protocol",
+        "src": "assets/native-7110fb60b88a77e9604b1f12d9d449347467088514d4f5b9534082da1fa3f91b.jpg",
+        "game_id": "PPSA03352",
+        "popularity": 727.0,
+        "card_id": "RADI11066"
+      },
+      {
+        "name": "Remnant II",
+        "src": "assets/native-4e2453db989a56355290fca4c464299a7f511701a87824dd043a8f28bf495a2f.jpg",
+        "game_id": "PPSA06694",
+        "popularity": 722.0,
+        "card_id": "RADI10240"
+      },
+      {
+        "name": "Prey",
+        "src": "assets/native-69ce75a94616f61d558601836a1934da08a867145d63daabdda9348c00c7f1bb.jpg",
+        "game_id": "CUSA06559",
+        "popularity": 709.0,
+        "card_id": "RADI15245"
+      },
+      {
+        "name": "Risk of Rain 2",
+        "src": "assets/native-c2f432571c9630351325f90b9fba9f8e20e5131a3928b14c4256276d0f994dbe.jpg",
+        "game_id": "PPSA06517",
+        "popularity": 683.0,
+        "card_id": "RADI01055"
+      },
+      {
+        "name": "SAROS",
+        "src": "assets/native-ff0e076553ac7b6d1c9589dca6bd4a28da6370d9ce4ef27537a0da1bc6a4b15d.jpg",
+        "game_id": "PPSA07631",
+        "popularity": 676.0,
+        "card_id": "RADI02527"
+      },
+      {
+        "name": "SIGNALIS",
+        "src": "assets/native-feeaf97bcfc099a468949b963a982d92c4d3223f6cefeec93b8187c1ac5fa2be.jpg",
+        "game_id": "CUSA34423",
+        "popularity": 662.0,
+        "card_id": "RADI00987"
+      },
+      {
+        "name": "Cronos: The New Dawn",
+        "src": "assets/native-c9436fdfc6b010692cc3211db69994b7f3eb80c91dc458a5371c6657a8a3223b.jpg",
+        "game_id": "PPSA24096",
+        "popularity": 662.0,
+        "card_id": "RADI05148"
+      },
+      {
+        "name": "Deliver Us The Moon",
+        "src": "assets/native-2f52c915759ff122efddcc7427bddfab361de3415f76f8acb18431b9a14e79ed.jpg",
+        "game_id": "PPSA04138",
+        "popularity": 652.0,
+        "card_id": "RADI12486"
+      },
+      {
+        "name": "Aliens: Fireteam Elite",
+        "src": "assets/native-fb90c8eaf17936f3ae56472d4e169c61a26efddbac226700612fbd8cf937767a.jpg",
+        "game_id": "PPSA03544",
+        "popularity": 635.0,
+        "card_id": "RADI01646"
+      },
+      {
+        "name": "Directive 8020",
+        "src": "assets/native-472e07b1e5bde38cda00d210eca5ad060ee57d3567602fe3e02c437d32d5ba14.jpg",
+        "game_id": "PPSA16384",
+        "popularity": 611.0,
+        "card_id": "RADI02411"
+      },
+      {
+        "name": "CARRION",
+        "src": "assets/native-6d65979c0cc3596dd44c37693b9b0ee552d484dd7a1b151d80813ea7badf72d3.jpg",
+        "game_id": "PPSA13287",
+        "popularity": 576.0,
+        "card_id": "RADI01694"
+      },
+      {
+        "name": "Observation",
+        "src": "assets/native-60ca4fdabe6c8e6999e1c5413879ee2b4d48fe5b95a6325d2352f229bd86bd59.jpg",
+        "game_id": "CUSA09849",
+        "popularity": 565.0,
+        "card_id": "RADI02014"
+      },
+      {
+        "name": "System Shock",
+        "src": "assets/native-5bb28d2dcd368ac862edc1ecdda50731f62b804133b536c883d85aec06d66ce9.jpg",
+        "game_id": "PPSA06390",
+        "popularity": 534.0,
+        "card_id": "RADI00184"
+      },
+      {
+        "name": "Hellpoint",
+        "src": "assets/native-bc3014892e4c8202f466f9391598850aac59dbd9d9299a8ff91e5bcc19bd5b3d.jpg",
+        "game_id": "PPSA05588",
+        "popularity": 527.0,
+        "card_id": "RADI10669"
+      },
+      {
+        "name": "Moons of Madness",
+        "src": "assets/native-406ccbc05fc08c438487badd2d73e83d302f44e9aa07986653360c8ca18e5c63.jpg",
+        "game_id": "CUSA15398",
+        "popularity": 487.0,
+        "card_id": "RADI00459"
+      },
+      {
+        "name": "Stasis: Bone Totem",
+        "src": "assets/native-a6807da26ac9fe17528eb2bb461d7a13cc6f626837fd938e3bb151607a06d226.jpg",
+        "game_id": "PPSA18978",
+        "popularity": 402.0,
+        "card_id": "RADI08885"
+      }
+    ],
+    "workspace": "#444444",
+    "palette_schemes": [
+      {
+        "version": 4,
+        "name": "Основной",
+        "background": "#342821",
+        "grid": "#7f6d63",
+        "cell_background": "#221b18",
+        "accent": "#e3ccbf"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 2",
+        "background": "#402311",
+        "grid": "#91674e",
+        "cell_background": "#281910",
+        "accent": "#fac4a5"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 3",
+        "background": "#253014",
+        "grid": "#687852",
+        "cell_background": "#1a1f11",
+        "accent": "#c5daaa"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 4",
+        "background": "#2b2b2b",
+        "grid": "#717171",
+        "cell_background": "#1d1d1d",
+        "accent": "#d1d1d1"
+      }
+    ],
+    "active_palette": "Основной"
+  },
+  "savedAt": "2026-11-19T20:46:37.586605+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "cover-1",
+      "name": "Соты",
+      "file": "Space_Horror.png",
+      "width": 1600,
+      "height": 1600
+    }
+  ]
+}
