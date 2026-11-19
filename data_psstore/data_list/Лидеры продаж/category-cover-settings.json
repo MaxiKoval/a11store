@@ -240,9 +240,9 @@
             "outline_width": 5,
             "outline_opacity": 1,
             "background_saturation": 0,
-            "background_blur": 2,
-            "background_opacity": 1,
-            "background_tint": "#ffffff",
+            "background_blur": 1.870503597122302,
+            "background_opacity": 0.24820143884892087,
+            "background_tint": "#c42b1c",
             "background_tint_alpha": 0,
             "background_blend": "multiply",
             "collection_ranked": true,
@@ -258,11 +258,11 @@
             "w": 100,
             "h": 100,
             "rotation": 0,
-            "opacity": 0,
+            "opacity": 1.0,
             "hidden": false,
             "blend": "color",
             "effects": {},
-            "color": "#ebc727",
+            "color": "#e53cab",
             "palette_filter": true
           },
           {
@@ -340,7 +340,7 @@
     ],
     "cover_alternates": []
   },
-  "savedAt": "2026-11-19T22:37:19.220463+00:00",
+  "savedAt": "2026-11-19T23:34:58.839553+00:00",
   "schemaVersion": 1,
   "workspaces": [
     {
