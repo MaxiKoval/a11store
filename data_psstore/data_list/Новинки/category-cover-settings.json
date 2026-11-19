@@ -1,0 +1,330 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 0,
+    "canvases": [
+      {
+        "id": "cover-1",
+        "name": "Соты",
+        "width": 1600,
+        "height": 1600,
+        "background": "#302b1f",
+        "layers": [
+          {
+            "id": "7fa15ebbf56e",
+            "kind": "hex",
+            "name": "Соты",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 65,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "layout": "database",
+            "cell_width": 307.69,
+            "cells": {
+              "9": {
+                "src": "assets/native-c2c6982a539c4f035a025f09aa5ff0585235b97617fd399e0c6fef49aa858cca.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "6": {
+                "src": "assets/native-19f9c8dc5b4f687618ef63b045feabb01655ae6fed748e58551ef4ab9d596a44.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "14": {
+                "src": "assets/native-9012ed8cf54cc8f2d32862580624dad8318bcd151452c3ee1e52fd9e80308098.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "5": {
+                "src": "assets/native-55b03ba2f64011419488b67ed0c33418342d68c206806f1941cb3db26baca8a4.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "13": {
+                "src": "assets/native-5e01e4732c09927fe64bae5b4263d866c11d69e1b16234e06981352e04c91c51.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "10": {
+                "src": "assets/native-c24f1ec7f7f38ff28d60ca552d84f81a9a783103e9e45a42ca8b6af2db9c9c86.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "1": {
+                "src": "assets/native-2ae6f162f11f5d0eca16b213d69282de58b69962d2999fb03172210fe54ae5bc.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "17": {
+                "src": "assets/native-b1e01c989781ba8fd464fa18ebb9bbae723acf8957c40cc3f950ad073b1d09d3.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "8": {
+                "src": "assets/native-b98a76e63e6b7ea756790d7444a08b01360377d33dba12f3e354b227e1e4b7dc.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "7": {
+                "src": "assets/native-9012ed8cf54cc8f2d32862580624dad8318bcd151452c3ee1e52fd9e80308098.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "15": {
+                "src": "assets/native-c2c6982a539c4f035a025f09aa5ff0585235b97617fd399e0c6fef49aa858cca.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "2": {
+                "src": "assets/native-55b03ba2f64011419488b67ed0c33418342d68c206806f1941cb3db26baca8a4.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "18": {
+                "src": "assets/native-19f9c8dc5b4f687618ef63b045feabb01655ae6fed748e58551ef4ab9d596a44.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "0": {
+                "src": "assets/native-5e01e4732c09927fe64bae5b4263d866c11d69e1b16234e06981352e04c91c51.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "16": {
+                "src": "assets/native-c24f1ec7f7f38ff28d60ca552d84f81a9a783103e9e45a42ca8b6af2db9c9c86.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              }
+            },
+            "gallery_auto": true,
+            "color": "#1f1d16",
+            "outline": "#787160",
+            "outline_width": 5,
+            "outline_opacity": 1,
+            "background_saturation": 0,
+            "background_blur": 2,
+            "background_opacity": 1,
+            "background_tint": "#ffffff",
+            "background_tint_alpha": 0,
+            "background_blend": "multiply",
+            "collection_ranked": true,
+            "background_filter": true,
+            "outline_blend": "normal"
+          },
+          {
+            "id": "7ffe6d5a5cb4",
+            "kind": "shape",
+            "name": "Цветовой фильтр",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#8497ac",
+            "palette_filter": true
+          },
+          {
+            "id": "2ee9c6569563",
+            "kind": "shape",
+            "name": "Фильтр основных сот",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#8497ac",
+            "main_palette_filter": true
+          },
+          {
+            "id": "cfde4ed1698f",
+            "kind": "shape",
+            "name": "Плашка",
+            "x": 0,
+            "y": 65,
+            "w": 100,
+            "h": 35,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#302b1f",
+            "cover_role": "plate"
+          },
+          {
+            "id": "c01f5483e382",
+            "kind": "text",
+            "name": "Название",
+            "x": 4,
+            "y": 73.4,
+            "w": 92,
+            "h": 13.2,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "НОВИНКИ",
+            "font_size": 112,
+            "bold": true,
+            "align": "center",
+            "color": "#ffffff",
+            "valign": "center",
+            "fit_text": true
+          },
+          {
+            "id": "9196b02276b4",
+            "kind": "shape",
+            "name": "Полоска",
+            "x": 46,
+            "y": 87.2,
+            "w": 8,
+            "h": 1.1,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#d9d0ba",
+            "cover_role": "line"
+          }
+        ]
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "name": "EA SPORTS FC 27",
+        "src": "assets/native-c2c6982a539c4f035a025f09aa5ff0585235b97617fd399e0c6fef49aa858cca.jpg",
+        "game_id": "PPSA34015",
+        "popularity": 804.0,
+        "card_id": "RADI00954"
+      },
+      {
+        "name": "Marvel’s Wolverine",
+        "src": "assets/native-19f9c8dc5b4f687618ef63b045feabb01655ae6fed748e58551ef4ab9d596a44.jpg",
+        "game_id": "PPSA03671",
+        "popularity": 803.0,
+        "card_id": "RADI01148"
+      },
+      {
+        "name": "Call of Duty: Black Ops II",
+        "src": "assets/native-9012ed8cf54cc8f2d32862580624dad8318bcd151452c3ee1e52fd9e80308098.jpg",
+        "game_id": "PPSA34502",
+        "popularity": 779.0,
+        "card_id": "RADI00082"
+      },
+      {
+        "name": "Onimusha: Way of the Sword",
+        "src": "assets/native-55b03ba2f64011419488b67ed0c33418342d68c206806f1941cb3db26baca8a4.jpg",
+        "game_id": "PPSA27836",
+        "popularity": 728.0,
+        "card_id": "RADI01241"
+      },
+      {
+        "name": "Call of Duty: Black Ops",
+        "src": "assets/native-5e01e4732c09927fe64bae5b4263d866c11d69e1b16234e06981352e04c91c51.jpg",
+        "game_id": "PPSA34501",
+        "popularity": 723.0,
+        "card_id": "RADI00017"
+      },
+      {
+        "name": "The Blood of Dawnwalker",
+        "src": "assets/native-c24f1ec7f7f38ff28d60ca552d84f81a9a783103e9e45a42ca8b6af2db9c9c86.jpg",
+        "game_id": "PPSA28000",
+        "popularity": 694.0,
+        "card_id": "RADI01291"
+      },
+      {
+        "name": "Mortal Shell II",
+        "src": "assets/native-2ae6f162f11f5d0eca16b213d69282de58b69962d2999fb03172210fe54ae5bc.jpg",
+        "game_id": "PPSA34008",
+        "popularity": 694.0,
+        "card_id": "RADI01482"
+      },
+      {
+        "name": "NHL 27",
+        "src": "assets/native-b1e01c989781ba8fd464fa18ebb9bbae723acf8957c40cc3f950ad073b1d09d3.jpg",
+        "game_id": "PPSA34063",
+        "popularity": 495.0,
+        "card_id": "RADI01154"
+      },
+      {
+        "name": "NASCAR 26",
+        "src": "assets/native-b98a76e63e6b7ea756790d7444a08b01360377d33dba12f3e354b227e1e4b7dc.jpg",
+        "game_id": "PPSA37433",
+        "popularity": 454.0,
+        "card_id": "RADI01039"
+      }
+    ],
+    "workspace": "#444444",
+    "palette_schemes": [
+      {
+        "version": 4,
+        "name": "Основной",
+        "background": "#302b1f",
+        "grid": "#787160",
+        "cell_background": "#1f1d16",
+        "accent": "#d9d0ba"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 2",
+        "background": "#382900",
+        "grid": "#866f34",
+        "cell_background": "#241c06",
+        "accent": "#eace89"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 3",
+        "background": "#2b2b2b",
+        "grid": "#717171",
+        "cell_background": "#1d1d1d",
+        "accent": "#d1d1d1"
+      }
+    ],
+    "active_palette": "Основной"
+  },
+  "savedAt": "2026-11-19T20:53:01.232664+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "cover-1",
+      "name": "Соты",
+      "file": "Новинки.png",
+      "width": 1600,
+      "height": 1600
+    }
+  ]
+}
