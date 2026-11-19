@@ -1,0 +1,967 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 0,
+    "canvases": [
+      {
+        "id": "cover-1",
+        "name": "Соты",
+        "width": 1600,
+        "height": 1600,
+        "background": "#202d34",
+        "layers": [
+          {
+            "id": "2ffbca1efae9",
+            "kind": "hex",
+            "name": "Соты",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 65,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "layout": "database",
+            "cell_width": 307.69,
+            "cells": {
+              "9": {
+                "src": "assets/native-7a89ceaceea20787cc7559043670c9fea70550ec4419e7884555168ed4345875.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "6": {
+                "src": "assets/native-dd820854f8a7e1f556d247ecba8cffa1c2d6d208d012a6e1918814bdffa97f30.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "14": {
+                "src": "assets/native-bd559b04c23519ea449400f7635cb7ac637ced02f69ea7e598c4ea9a33cb45c6.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "5": {
+                "src": "assets/native-f1c0691e29a564a0c656b14cae06194ca93d65dd653af07b9dd50311f65391b6.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "13": {
+                "src": "assets/native-9fc82723dfebddeffe6cc09178884abdf55e02bc46fdb070741ad1aa83ccb877.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "10": {
+                "src": "assets/native-10ee5e9ef703ec806b038c7b1ae02b1561faab4b350dc1d4a5775775e639b5f1.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "1": {
+                "src": "assets/native-58beaf6e89643cd96a7eff659eeccf09d87797c8100a915c2bf3a4a5039cfa55.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "17": {
+                "src": "assets/native-aa5c360872d6e5a66516bff73ccf59cafd5aad24da2baf1a5782f27fd0cc0b9f.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "8": {
+                "src": "assets/native-bbd9e913d3d4cbb720e486f45ec585d4a3b5889f8b71f8ad6961a6aadc9054b7.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "7": {
+                "src": "assets/native-972fcc065f7370e5662f55911b7b8475ccdce49fe84fd8e3e85a5072571e0bf6.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "15": {
+                "src": "assets/native-131db92f3754e91b16e2a5ef4075c0e9fa12a28bae1d3105f382f1ef6f876afc.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "2": {
+                "src": "assets/native-5e2c1bd92627aff1a70999e668ef0ddcf7c49216dbf97b391cf37f4667fced0d.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "18": {
+                "src": "assets/native-d1d0e9ecc5f2c89b4dd7efea75e69587fa00100bb3648cb3c08112f6c1fe08d2.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "0": {
+                "src": "assets/native-5aea272bb46b62bb155449e0c4dc0a6ae02a0398336866ce005b643cb70de9d9.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "16": {
+                "src": "assets/native-584f74cb3003cd3a4d445b313f3dce608906f979db67b1b150107e86babde729.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              }
+            },
+            "gallery_auto": true,
+            "color": "#171e22",
+            "outline": "#62757f",
+            "outline_width": 5,
+            "outline_opacity": 1,
+            "background_saturation": 0,
+            "background_blur": 2,
+            "background_opacity": 1,
+            "background_tint": "#ffffff",
+            "background_tint_alpha": 0,
+            "background_blend": "multiply",
+            "collection_ranked": true,
+            "background_filter": true,
+            "outline_blend": "normal"
+          },
+          {
+            "id": "9a3f526e0f04",
+            "kind": "shape",
+            "name": "Цветовой фильтр",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#8497ac",
+            "palette_filter": true
+          },
+          {
+            "id": "e7ae7b228a1f",
+            "kind": "shape",
+            "name": "Фильтр основных сот",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#8497ac",
+            "main_palette_filter": true
+          },
+          {
+            "id": "0d0071c7c341",
+            "kind": "shape",
+            "name": "Плашка",
+            "x": 0,
+            "y": 65,
+            "w": 100,
+            "h": 35,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#202d34",
+            "cover_role": "plate"
+          },
+          {
+            "id": "f9eee435557c",
+            "kind": "text",
+            "name": "Название",
+            "x": 4,
+            "y": 73.4,
+            "w": 92,
+            "h": 13.2,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "РЕДАКЦИЯ ОПРОБОВАЛА",
+            "font_size": 112,
+            "bold": true,
+            "align": "center",
+            "color": "#ffffff",
+            "valign": "center",
+            "fit_text": true
+          },
+          {
+            "id": "7e0e774536df",
+            "kind": "shape",
+            "name": "Полоска",
+            "x": 46,
+            "y": 87.2,
+            "w": 8,
+            "h": 1.1,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#bdd5e2",
+            "cover_role": "line"
+          }
+        ]
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "name": "The Last of Us",
+        "src": "assets/native-7a89ceaceea20787cc7559043670c9fea70550ec4419e7884555168ed4345875.jpg",
+        "game_id": "CUSA00556",
+        "popularity": 940.0,
+        "card_id": "RADI00072"
+      },
+      {
+        "name": "Ghost of Tsushima DIRECTOR’S CUT",
+        "src": "assets/native-dd820854f8a7e1f556d247ecba8cffa1c2d6d208d012a6e1918814bdffa97f30.jpg",
+        "game_id": "PPSA03208",
+        "popularity": 920.0,
+        "card_id": "RADI12458"
+      },
+      {
+        "name": "God of War",
+        "src": "assets/native-bd559b04c23519ea449400f7635cb7ac637ced02f69ea7e598c4ea9a33cb45c6.jpg",
+        "game_id": "CUSA07410",
+        "popularity": 917.0,
+        "card_id": "RADI15273"
+      },
+      {
+        "name": "The Last of Us Part II",
+        "src": "assets/native-f1c0691e29a564a0c656b14cae06194ca93d65dd653af07b9dd50311f65391b6.jpg",
+        "game_id": "PPSA15508",
+        "popularity": 916.0,
+        "card_id": "RADI09301"
+      },
+      {
+        "name": "Marvel's Spider-Man",
+        "src": "assets/native-9fc82723dfebddeffe6cc09178884abdf55e02bc46fdb070741ad1aa83ccb877.jpg",
+        "game_id": "PPSA01468",
+        "popularity": 915.0,
+        "card_id": "RADI10540"
+      },
+      {
+        "name": "Call of Duty: Infinite Warfare",
+        "src": "assets/native-10ee5e9ef703ec806b038c7b1ae02b1561faab4b350dc1d4a5775775e639b5f1.jpg",
+        "game_id": "CUSA05282",
+        "popularity": 912.0,
+        "card_id": "RADI15384"
+      },
+      {
+        "name": "Marvel’s Spider-Man 2",
+        "src": "assets/native-58beaf6e89643cd96a7eff659eeccf09d87797c8100a915c2bf3a4a5039cfa55.jpg",
+        "game_id": "PPSA08338",
+        "popularity": 905.0,
+        "card_id": "RADI09797"
+      },
+      {
+        "name": "Cyberpunk 2077",
+        "src": "assets/native-aa5c360872d6e5a66516bff73ccf59cafd5aad24da2baf1a5782f27fd0cc0b9f.jpg",
+        "game_id": "PPSA04027",
+        "popularity": 894.0,
+        "card_id": "RADI00119"
+      },
+      {
+        "name": "Horizon Zero Dawn",
+        "src": "assets/native-bbd9e913d3d4cbb720e486f45ec585d4a3b5889f8b71f8ad6961a6aadc9054b7.jpg",
+        "game_id": "PPSA13427",
+        "popularity": 890.0,
+        "card_id": "RADI12646"
+      },
+      {
+        "name": "EA SPORTS FC 26",
+        "src": "assets/native-972fcc065f7370e5662f55911b7b8475ccdce49fe84fd8e3e85a5072571e0bf6.jpg",
+        "game_id": "PPSA27360",
+        "popularity": 885.0,
+        "card_id": "RADI13051"
+      },
+      {
+        "name": "Marvel's Spider-Man: Miles Morales",
+        "src": "assets/native-131db92f3754e91b16e2a5ef4075c0e9fa12a28bae1d3105f382f1ef6f876afc.jpg",
+        "game_id": "PPSA01417",
+        "popularity": 880.0,
+        "card_id": "RADI12407"
+      },
+      {
+        "name": "Days Gone",
+        "src": "assets/native-5e2c1bd92627aff1a70999e668ef0ddcf7c49216dbf97b391cf37f4667fced0d.jpg",
+        "game_id": "PPSA28181",
+        "popularity": 877.0,
+        "card_id": "RADI06285"
+      },
+      {
+        "name": "Injustice: Gods Among Us",
+        "src": "assets/native-d1d0e9ecc5f2c89b4dd7efea75e69587fa00100bb3648cb3c08112f6c1fe08d2.jpg",
+        "game_id": "CUSA00051",
+        "popularity": 863.0,
+        "card_id": "RADI02210"
+      },
+      {
+        "name": "The Last of Us Part I",
+        "src": "assets/native-5aea272bb46b62bb155449e0c4dc0a6ae02a0398336866ce005b643cb70de9d9.jpg",
+        "game_id": "PPSA07642",
+        "popularity": 862.0,
+        "card_id": "RADI11419"
+      },
+      {
+        "name": "It Takes Two",
+        "src": "assets/native-584f74cb3003cd3a4d445b313f3dce608906f979db67b1b150107e86babde729.jpg",
+        "game_id": "PPSA02343",
+        "popularity": 861.0,
+        "card_id": "RADI13258"
+      },
+      {
+        "name": "inFAMOUS Second Son",
+        "src": "assets/native-4520a556cfbd55baf1f845b35894859ae9e04386ac4764b82ba0a6ce0170e3c9.jpg",
+        "game_id": "CUSA00004",
+        "popularity": 856.0,
+        "card_id": "RADI15155"
+      },
+      {
+        "name": "Mortal Kombat X",
+        "src": "assets/native-07b15b54aa912b3dd9e0775e70669fcb97bcd8a3c5c3e9953b679dc73f637325.png",
+        "game_id": "CUSA00970",
+        "popularity": 852.0,
+        "card_id": "RADI00719"
+      },
+      {
+        "name": "RESIDENT EVIL 2",
+        "src": "assets/native-cc9ac51fc28f729781e0539cb28ce1f01523a34e90acb2e793efd42b6e0a1088.jpg",
+        "game_id": "PPSA04289",
+        "popularity": 849.0,
+        "card_id": "RADI00006"
+      },
+      {
+        "name": "Ratchet & Clank",
+        "src": "assets/native-8ac48141b30af37c3393427336f05c1baca3c602f86d0c18515f158a45a6ff0e.jpg",
+        "game_id": "CUSA01073",
+        "popularity": 843.0,
+        "card_id": "RADI00604"
+      },
+      {
+        "name": "Mortal Kombat 11",
+        "src": "assets/native-d8dcf889fab3f003348c38e077500d659ebf9ad9a900aa9cd3d716afcb00701d.jpg",
+        "game_id": "PPSA01619",
+        "popularity": 841.0,
+        "card_id": "RADI12579"
+      },
+      {
+        "name": "The Elder Scrolls V: Skyrim",
+        "src": "assets/native-1260b2b47a8909cd4bd39333dbc9e07509c9b640f3faff498a2c382f635c8a19.jpg",
+        "game_id": "PPSA03747",
+        "popularity": 838.0,
+        "card_id": "RADI00940"
+      },
+      {
+        "name": "God of War III",
+        "src": "assets/native-dc88efc337d72bf03b4d4a4ca0e8150499d340f08cf8440fb7b82abd6e4ce460.jpg",
+        "game_id": "CUSA01715",
+        "popularity": 838.0,
+        "card_id": "RADI00215"
+      },
+      {
+        "name": "Until Dawn 2015",
+        "src": "assets/native-ede378f445e1d178a703d47f5966831234f04a4a00937de2369133ab8eba1e15.jpg",
+        "game_id": "CUSA00194",
+        "popularity": 838.0,
+        "card_id": "RADI00023"
+      },
+      {
+        "name": "A Way Out",
+        "src": "assets/native-a2996a8f41ae7ccdb03b352da4e1e5423f673b0475b67117e365cf88ec2046f5.jpg",
+        "game_id": "CUSA08004",
+        "popularity": 836.0,
+        "card_id": "RADI00005"
+      },
+      {
+        "name": "Assassin's Creed Odyssey",
+        "src": "assets/native-f5b4f33015fb2cf4df4ecc61a827df95a3004c6ebffec940195156d69a2e8c2d.jpg",
+        "game_id": "CUSA12042",
+        "popularity": 835.0,
+        "card_id": "RADI15198"
+      },
+      {
+        "name": "Rise of the Tomb Raider: 20 Year Celebration",
+        "src": "assets/native-e4a3e2efe1192db4973fcb777843d9dea1d8c7985eb675e65db6787436f1aa5a.jpg",
+        "game_id": "CUSA05716",
+        "popularity": 832.0,
+        "card_id": "RADI00276"
+      },
+      {
+        "name": "Gang Beasts",
+        "src": "assets/native-636578e8705f36f1262e76fa49358017dd3621678b54b3db970d120b88a55c71.jpg",
+        "game_id": "CUSA04865",
+        "popularity": 831.0,
+        "card_id": "RADI00078"
+      },
+      {
+        "name": "DARK SOULS III",
+        "src": "assets/native-45b7c7780950f18e347c50b3477a8a5482cef47233f77a34095578c7532907dc.jpg",
+        "game_id": "CUSA03365",
+        "popularity": 830.0,
+        "card_id": "RADI15191"
+      },
+      {
+        "name": "DEATH STRANDING DIRECTOR’S CUT",
+        "src": "assets/native-62c00cf251ecde9fa027fd9d44b805b11be579e4d22390beda7e57109d75241c.jpg",
+        "game_id": "PPSA01968",
+        "popularity": 829.0,
+        "card_id": "RADI15411"
+      },
+      {
+        "name": "Plants vs. Zombies Garden Warfare 2",
+        "src": "assets/native-65951851cd0d6c9e09cb63bf9e5674c3773e4f2ab4a2a1a7038234aeae5bcb0b.jpg",
+        "game_id": "CUSA01934",
+        "popularity": 826.0,
+        "card_id": "RADI15269"
+      },
+      {
+        "name": "Subnautica",
+        "src": "assets/native-7ba611cddd660ccfad976fb0d86ae74b9731eeb6a961e1459a56b1242e9b9e02.jpg",
+        "game_id": "PPSA02453",
+        "popularity": 826.0,
+        "card_id": "RADI12604"
+      },
+      {
+        "name": "Assassin's Creed Valhalla",
+        "src": "assets/native-f9234f8ab6bf32997e1f887809447804501eaa31df95c33be7553ef5173ba57f.jpg",
+        "game_id": "PPSA01532",
+        "popularity": 824.0,
+        "card_id": "RADI12395"
+      },
+      {
+        "name": "Just Cause 3",
+        "src": "assets/native-8e3ac853178cbbd32ecdb6c647f22af176be861fa2b69f74308ce1dbef3dd06b.jpg",
+        "game_id": "CUSA02747",
+        "popularity": 821.0,
+        "card_id": "RADI15192"
+      },
+      {
+        "name": "Need for Speed Heat",
+        "src": "assets/native-638e34199cccf4724b494047f2e3a539021d84c53a5c42f755b3d0cfa452c120.jpg",
+        "game_id": "CUSA15090",
+        "popularity": 818.0,
+        "card_id": "RADI15156"
+      },
+      {
+        "name": "Assassin's Creed IV Black Flag",
+        "src": "assets/native-93bddb83753705d6a07ba9ad20e78fe98682ea8a0d92f6afd646f799699f3800.jpg",
+        "game_id": "CUSA00009",
+        "popularity": 817.0,
+        "card_id": "RADI00598"
+      },
+      {
+        "name": "Stray",
+        "src": "assets/native-e53b2217683c89ea98786fe032f7409faf2d54085de57a77b84da61e152373b1.jpg",
+        "game_id": "PPSA02101",
+        "popularity": 817.0,
+        "card_id": "RADI00020"
+      },
+      {
+        "name": "Goat Simulator",
+        "src": "assets/native-9b8558fd6378950bed924006821f03115fd07ad6a6c6154ebc841f555d889e9f.jpg",
+        "game_id": "CUSA02779",
+        "popularity": 815.0,
+        "card_id": "RADI15185"
+      },
+      {
+        "name": "Need for Speed Payback",
+        "src": "assets/native-5cd9d7d8117ddd179f16f2727f2cf7870602fd377276eed08e716cf9e7b76e4a.jpg",
+        "game_id": "CUSA05986",
+        "popularity": 815.0,
+        "card_id": "RADI15162"
+      },
+      {
+        "name": "DOOM",
+        "src": "assets/native-7fae7f962d81665d4d2c0c68f3b76708179e2dfb43205ce80d5b907246dcb488.jpg",
+        "game_id": "CUSA02092",
+        "popularity": 814.0,
+        "card_id": "RADI00139"
+      },
+      {
+        "name": "Assassin's Creed Unity",
+        "src": "assets/native-d877d6cf1db30f4675457ea15f8a8a711b6c3ec7c80f289d30605ebf6af8e92a.jpg",
+        "game_id": "CUSA00605",
+        "popularity": 813.0,
+        "card_id": "RADI00857"
+      },
+      {
+        "name": "Resident Evil Village",
+        "src": "assets/native-6e508b972c7d09a72d128fc488bb0ae81187e34b49fa8de92716a21e5302a1ca.jpg",
+        "game_id": "PPSA01557",
+        "popularity": 812.0,
+        "card_id": "RADI00014"
+      },
+      {
+        "name": "Shadow of the Tomb Raider",
+        "src": "assets/native-f26fb4c93b27436660bfa54b7f9734dc922fcae5c439550f5e96da4e2fd97f1f.jpg",
+        "game_id": "CUSA10872",
+        "popularity": 811.0,
+        "card_id": "RADI15515"
+      },
+      {
+        "name": "RESIDENT EVIL 7 biohazard",
+        "src": "assets/native-2f16a8e234a4624c5b7b06d5f1ae4bf486c5efb43ef94b5930a257ed414d7d69.jpg",
+        "game_id": "PPSA04401",
+        "popularity": 807.0,
+        "card_id": "RADI01538"
+      },
+      {
+        "name": "SILENT HILL 2",
+        "src": "assets/native-7e0743d7eb02ea5959cd22c3cf607c6d671e3656b33097550153c5c0ed50cadb.jpg",
+        "game_id": "PPSA08709",
+        "popularity": 806.0,
+        "card_id": "RADI13627"
+      },
+      {
+        "name": "Metro Exodus",
+        "src": "assets/native-7ac526333235e91286d2a2956200cb72f41026c7faaf926b345282cd3a687288.jpg",
+        "game_id": "PPSA01749",
+        "popularity": 804.0,
+        "card_id": "RADI12204"
+      },
+      {
+        "name": "BEYOND: Two Souls",
+        "src": "assets/native-90d0a5430c3e000d8df58608be1bd8bb69d511604bf1f0c36f44eadd87dbea3e.jpg",
+        "game_id": "CUSA00513",
+        "popularity": 804.0,
+        "card_id": "RADI15225"
+      },
+      {
+        "name": "STAR WARS Jedi: Fallen Order",
+        "src": "assets/native-ddeb511de70f3facf1a4904dedd10c65982be12ccbfcbb511b2204c9ad652a9b.jpg",
+        "game_id": "PPSA02199",
+        "popularity": 803.0,
+        "card_id": "RADI01176"
+      },
+      {
+        "name": "Assassin's Creed Origins",
+        "src": "assets/native-4eeec1a6b70c34bdbd37fb7a0e9978e3467316525b1a2fe042a0eff4d8101a1b.jpg",
+        "game_id": "CUSA05625",
+        "popularity": 802.0,
+        "card_id": "RADI01136"
+      },
+      {
+        "name": "Cuphead",
+        "src": "assets/native-67c82e0dcf0c443d43078cc61b85ff2e666a0594c2f4399cbe9d03e6eae6741e.jpg",
+        "game_id": "CUSA20469",
+        "popularity": 795.0,
+        "card_id": "RADI00019"
+      },
+      {
+        "name": "FINAL FANTASY XVI",
+        "src": "assets/native-ad5f4bfe764b3732cc60a0d0f0182fb9e378a9c7e7535e10e1209cfed2a125c5.jpg",
+        "game_id": "PPSA10665",
+        "popularity": 791.0,
+        "card_id": "RADI10353"
+      },
+      {
+        "name": "Trine 2: Complete Story",
+        "src": "assets/native-95b19342c17408e32e29050b6632044b6130425e0a6fc8497fe2591165d5e26e.jpg",
+        "game_id": "CUSA00217",
+        "popularity": 789.0,
+        "card_id": "RADI03980"
+      },
+      {
+        "name": "Kingdom Come: Deliverance II",
+        "src": "assets/native-1bd16e97e27e921a2b48089c3dfba5b7946e314b2a2be4803dc971955abb482f.jpg",
+        "game_id": "PPSA21704",
+        "popularity": 787.0,
+        "card_id": "RADI06817"
+      },
+      {
+        "name": "Lies of P",
+        "src": "assets/native-7ccdca0361b00b4efc6c1498eeb9bdd7f0e78ae6ded12e0485d6fed81a13cebf.jpg",
+        "game_id": "PPSA10621",
+        "popularity": 786.0,
+        "card_id": "RADI01316"
+      },
+      {
+        "name": "Rayman Legends",
+        "src": "assets/native-79b7b0d97b7de645b3fbe60ac671f7cacd3bd132c04f6583c5ca00cbc44cf386.jpg",
+        "game_id": "CUSA00031",
+        "popularity": 781.0,
+        "card_id": "RADI00335"
+      },
+      {
+        "name": "Call of Duty: Black Ops II",
+        "src": "assets/native-9012ed8cf54cc8f2d32862580624dad8318bcd151452c3ee1e52fd9e80308098.jpg",
+        "game_id": "PPSA34502",
+        "popularity": 779.0,
+        "card_id": "RADI00082"
+      },
+      {
+        "name": "Ratchet & Clank: Rift Apart",
+        "src": "assets/native-c86903d2fbba0d14f30091e760373414217e7b32185f16488a46d250f33ec3cc.jpg",
+        "game_id": "PPSA01474",
+        "popularity": 779.0,
+        "card_id": "RADI12208"
+      },
+      {
+        "name": "Assassin's Creed Mirage",
+        "src": "assets/native-95f194167c31ca89bdd7fab7c9c2562c1a1de2aee1876e7ecdd3422c7693b0b3.jpg",
+        "game_id": "PPSA13960",
+        "popularity": 778.0,
+        "card_id": "RADI09886"
+      },
+      {
+        "name": "Devil May Cry 5",
+        "src": "assets/native-c14e5d3094d8ec7644c9aea0cf7e580fa820523fd4d1597be17d855c94db80ac.jpg",
+        "game_id": "PPSA01443",
+        "popularity": 778.0,
+        "card_id": "RADI12588"
+      },
+      {
+        "name": "STEEP",
+        "src": "assets/native-1afd5e785e4e66c1b648e94408ba0a1e045fba7d61ac602da2da1c678eb2d364.jpg",
+        "game_id": "CUSA05526",
+        "popularity": 774.0,
+        "card_id": "RADI15268"
+      },
+      {
+        "name": "Assassin's Creed Freedom Cry",
+        "src": "assets/native-4ea0f939f5c4b7a305e833a888b8b659e70098222a9599677252575bdf971839.jpg",
+        "game_id": "CUSA00435",
+        "popularity": 771.0,
+        "card_id": "RADI01819"
+      },
+      {
+        "name": "TEKKEN 7",
+        "src": "assets/native-96cc009cea7052177f8736f782525ca5d84a16c696c4dd80d3ce4ff03f5f9a56.jpg",
+        "game_id": "CUSA06014",
+        "popularity": 769.0,
+        "card_id": "RADI00201"
+      },
+      {
+        "name": "Injustice 2",
+        "src": "assets/native-a85c910d507148ba8a788cd03b0a7b6d0215c65c39001dd5eb2cc26604af9e8f.jpg",
+        "game_id": "CUSA05459",
+        "popularity": 768.0,
+        "card_id": "RADI00394"
+      },
+      {
+        "name": "Child of Light",
+        "src": "assets/native-b0dbdff14f0be47888527a5516c7987f087867ed6758d69e462636f798ef28eb.jpg",
+        "game_id": "CUSA00074",
+        "popularity": 767.0,
+        "card_id": "RADI04308"
+      },
+      {
+        "name": "Dead Island 2",
+        "src": "assets/native-4a5d4964609252ade087a0794dc8db0af1c0fb3a41c79bf5042ab57a3568dec4.jpg",
+        "game_id": "PPSA03099",
+        "popularity": 766.0,
+        "card_id": "RADI10618"
+      },
+      {
+        "name": "DiRT Rally 2.0",
+        "src": "assets/native-5b5185183de25e35517a3e7c1daf7c91857d0d5faa68b0bae32fb11e5e81c91f.jpg",
+        "game_id": "CUSA12747",
+        "popularity": 765.0,
+        "card_id": "RADI15193"
+      },
+      {
+        "name": "Marvel's Guardians of the Galaxy",
+        "src": "assets/native-5de0e9fda2978afe00abc17069d2f71c0a95d4ef22168d881b80811584a1c239.jpg",
+        "game_id": "PPSA01750",
+        "popularity": 764.0,
+        "card_id": "RADI01655"
+      },
+      {
+        "name": "Crash Team Racing Nitro-Fueled",
+        "src": "assets/native-40687f3f56f3af5d3b5fcc32ab60fe725aaa4d1176b4175793e7fe045ba046f2.jpg",
+        "game_id": "CUSA14876",
+        "popularity": 759.0,
+        "card_id": "RADI15160"
+      },
+      {
+        "name": "Returnal",
+        "src": "assets/native-0815904e156acb67f000af831f9b0fd60d70f5a52acd75814bc328cccaeb6bb2.jpg",
+        "game_id": "PPSA01285",
+        "popularity": 740.0,
+        "card_id": "RADI12261"
+      },
+      {
+        "name": "Assassin's Creed III",
+        "src": "assets/native-5487f5ddf573499bf0d6946d99351b515a6e80b3fea7b49d5b96d0f1bc9a239f.jpg",
+        "game_id": "CUSA11560",
+        "popularity": 740.0,
+        "card_id": "RADI00731"
+      },
+      {
+        "name": "ALIENATION",
+        "src": "assets/native-9c0f95fe954d2386341e991738f6be2fb481c90c205c47d25604b8718b6452d3.jpg",
+        "game_id": "CUSA00062",
+        "popularity": 731.0,
+        "card_id": "RADI04310"
+      },
+      {
+        "name": "Erica",
+        "src": "assets/native-ab299a091438e1cf6a1fefa2c548c7c77fe9b55078628f6693fc3410a7f66c60.jpg",
+        "game_id": "CUSA11882",
+        "popularity": 727.0,
+        "card_id": "RADI02496"
+      },
+      {
+        "name": "Cult of the Lamb",
+        "src": "assets/native-6ee7a5deb028b40ace6902ed49b5e4ce41389f7ea39ce4fc6353ebe2793a4267.jpg",
+        "game_id": "PPSA06465",
+        "popularity": 724.0,
+        "card_id": "RADI11472"
+      },
+      {
+        "name": "Worms Battlegrounds",
+        "src": "assets/native-2a9c1bd63fcf2d614294016cd893afb9d89757755360ea801749f9d0232e91cc.jpg",
+        "game_id": "CUSA00824",
+        "popularity": 724.0,
+        "card_id": "RADI02269"
+      },
+      {
+        "name": "This War of Mine: The Little Ones",
+        "src": "assets/native-d83655df7fec237f9a1ef7f4563302bead7010a51c2e42645856bb69723c40ff.jpg",
+        "game_id": "CUSA02646",
+        "popularity": 720.0,
+        "card_id": "RADI14744"
+      },
+      {
+        "name": "Prince of Persia The Lost Crown",
+        "src": "assets/native-70a39a1f1b5efec5609d9dccfeb8339fc91d16acbe8c8968df52a1f770018707.jpg",
+        "game_id": "PPSA10528",
+        "popularity": 717.0,
+        "card_id": "RADI09304"
+      },
+      {
+        "name": "Concrete Genie",
+        "src": "assets/native-9dc0c9c66b6650d0911619fd39e23e9a1c156eccbba449c505e2499109d59a48.jpg",
+        "game_id": "CUSA11875",
+        "popularity": 700.0,
+        "card_id": "RADI15380"
+      },
+      {
+        "name": "The LEGO Movie Videogame",
+        "src": "assets/native-f3f613b7e755f0408780e2ed8f17d4ea714da0d27a881c9770711561dd4496f3.jpg",
+        "game_id": "CUSA00563",
+        "popularity": 695.0,
+        "card_id": "RADI01598"
+      },
+      {
+        "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+        "src": "assets/native-2b5f67b5659d05f2d027adea6f9e4c71678a0ccad72be4c7f39d6998ea7b69a2.jpg",
+        "game_id": "PPSA06731",
+        "popularity": 690.0,
+        "card_id": "RADI11599"
+      },
+      {
+        "name": "Burnout Paradise",
+        "src": "assets/native-2da6ce9a8340bcb8d478d9abe95acb1937aa3b9d8bac46551b268eb3a860eaa9.jpg",
+        "game_id": "CUSA10851",
+        "popularity": 689.0,
+        "card_id": "RADI01203"
+      },
+      {
+        "name": "Assassin's Creed Rogue",
+        "src": "assets/native-ad5941bacdbdf096ef257f20fac4148987b0f4915eacfcfa16e9ad088e1b23e3.jpg",
+        "game_id": "CUSA10123",
+        "popularity": 686.0,
+        "card_id": "RADI05936"
+      },
+      {
+        "name": "Disc Jam",
+        "src": "assets/native-381c4a290607d6235a693116f462bbd2e474bcdaf5fa905964711d48f9e68a7d.jpg",
+        "game_id": "CUSA07970",
+        "popularity": 679.0,
+        "card_id": "RADI02130"
+      },
+      {
+        "name": "I am Bread",
+        "src": "assets/native-23551bde51b3560e6f33c93af8b43ee0a070420c8e4d20ed090134a870770260.jpg",
+        "game_id": "CUSA03047",
+        "popularity": 676.0,
+        "card_id": "RADI10927"
+      },
+      {
+        "name": "Tetris Effect: Connected",
+        "src": "assets/native-de444c3c004e66c573a2fbcea55667e5cfc49b1f0ce03da785a7a37813ff645d.jpg",
+        "game_id": "PPSA07959",
+        "popularity": 654.0,
+        "card_id": "RADI01053"
+      },
+      {
+        "name": "V Rising",
+        "src": "assets/native-ee47e12917c8292b5f944c3dfeea2c2973cc6b53ec9e0269d359931186c242f9.jpg",
+        "game_id": "PPSA16262",
+        "popularity": 653.0,
+        "card_id": "RADI08438"
+      },
+      {
+        "name": "King Oddball",
+        "src": "assets/native-700b1ce05e888a4773a07b9d541c88b8d2d4c9cbcf5526714e45a827a479f6bb.jpg",
+        "game_id": "PPSA02148",
+        "popularity": 641.0,
+        "card_id": "RADI11412"
+      },
+      {
+        "name": "Lovers in a Dangerous Spacetime",
+        "src": "assets/native-dd8d5c4526fad77f680010e27f8b70e052aa59d0e64aafcbee20f8e92131940b.jpg",
+        "game_id": "CUSA04384",
+        "popularity": 641.0,
+        "card_id": "RADI03468"
+      },
+      {
+        "name": "BALL x PIT",
+        "src": "assets/native-9e957f578eebad9028ee52cff0f38e3246707032ba983e801f82aaa84b80199c.jpg",
+        "game_id": "PPSA31872",
+        "popularity": 638.0,
+        "card_id": "RADI04798"
+      },
+      {
+        "name": "Endling - Extinction is Forever",
+        "src": "assets/native-ead9930e9bfc3bcac26562988691a024d5fb17d65b3ff1c4bcf10d8e6bf15762.jpg",
+        "game_id": "PPSA08509",
+        "popularity": 634.0,
+        "card_id": "RADI02986"
+      },
+      {
+        "name": "Assassin's Creed Chronicles – Trilogy",
+        "src": "assets/native-2a1b5f59d40aca0e6bd71e0deb1cb124a8675dcc7a497c385ea2ea9727face8a.jpg",
+        "game_id": "CUSA03440",
+        "popularity": 612.0,
+        "card_id": "RADI02993"
+      },
+      {
+        "name": "The Messenger",
+        "src": "assets/native-0ef6ee7ca4a7aaf497ca5bec53f162b746cf59bc819419cb39f93abce978acb1.jpg",
+        "game_id": "PPSA24651",
+        "popularity": 607.0,
+        "card_id": "RADI12584"
+      },
+      {
+        "name": "Trine 3: The Artifacts of Power",
+        "src": "assets/native-82768a5990a667fa5915b55be644133503c76c377513c23c998538888949ec5f.jpg",
+        "game_id": "CUSA03057",
+        "popularity": 604.0,
+        "card_id": "RADI02510"
+      },
+      {
+        "name": "Hellblade: Senua’s Sacrifice",
+        "src": "assets/native-cee1c4131b4a97c64df8cb5440d1bb81f8b193743b59878baa72f0800da43ee2.jpg",
+        "game_id": "PPSA27581",
+        "popularity": 590.0,
+        "card_id": "RADI05398"
+      },
+      {
+        "name": "NINJA GAIDEN: Ragebound",
+        "src": "assets/native-0947812cde4b68b6f86a33a8c9f1bc89a5ffebbc0226be11dd7e467dc846b0fc.jpg",
+        "game_id": "PPSA28002",
+        "popularity": 575.0,
+        "card_id": "RADI05467"
+      },
+      {
+        "name": "Trine 4: The Nightmare Prince",
+        "src": "assets/native-29a15867b28b478a043253850e3f177f6c323be42d0e637515f2918ba615b65d.jpg",
+        "game_id": "CUSA09869",
+        "popularity": 565.0,
+        "card_id": "RADI15277"
+      },
+      {
+        "name": "Uncharted 3: Drake’s Deception",
+        "src": "assets/native-b7a4a4071d2f8eb3b9c5d1bbc5053ab539a493a9737698b3a18a22be2916d040.jpg",
+        "game_id": "CUSA03282",
+        "popularity": 550.0,
+        "card_id": "RADI00521"
+      },
+      {
+        "name": "Suicide Guy",
+        "src": "assets/native-b98d3359cf32917dfb22599ec462192b634741083f689047384e3ccf06d6064c.jpg",
+        "game_id": "CUSA11105",
+        "popularity": 517.0,
+        "card_id": "RADI15532"
+      },
+      {
+        "name": "Uncharted 2: Among Thieves",
+        "src": "assets/native-710405001e0713b94cd74fd73be216b151f14dfe0d9c2a5dca2ea263979f5e1d.jpg",
+        "game_id": "CUSA03281",
+        "popularity": 515.0,
+        "card_id": "RADI00398"
+      },
+      {
+        "name": "Uncharted: Drake's Fortune",
+        "src": "assets/native-7e4859432af147916c71757e8bf522a71302385413d3bbfaee76229d1ca58f9d.jpg",
+        "game_id": "CUSA03280",
+        "popularity": 511.0,
+        "card_id": "RADI01128"
+      },
+      {
+        "name": "Trine 5: A Clockwork Conspiracy",
+        "src": "assets/native-a0ba4da0d8d74bda0008c0d650efdfe7485dab339b13f9fdf437435e3ad30318.jpg",
+        "game_id": "PPSA14276",
+        "popularity": 492.0,
+        "card_id": "RADI00413"
+      },
+      {
+        "name": "Grand Theft Auto VI",
+        "src": "assets/native-b801c42e50ce1bb389ed218b5fc67e9a592c588bc56d9053ca7fb8698ca7d89c.jpg",
+        "game_id": "PPSA01547",
+        "popularity": 1.0,
+        "card_id": "RADI00179"
+      }
+    ],
+    "workspace": "#444444",
+    "palette_schemes": [
+      {
+        "version": 4,
+        "name": "Основной",
+        "background": "#202d34",
+        "grid": "#62757f",
+        "cell_background": "#171e22",
+        "accent": "#bdd5e2"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 2",
+        "background": "#1c2e37",
+        "grid": "#5c7684",
+        "cell_background": "#151e23",
+        "accent": "#b6d7e8"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 3",
+        "background": "#2b2b2b",
+        "grid": "#717171",
+        "cell_background": "#1d1d1d",
+        "accent": "#d1d1d1"
+      }
+    ],
+    "active_palette": "Основной"
+  },
+  "savedAt": "2026-11-19T20:55:44.091513+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "cover-1",
+      "name": "Соты",
+      "file": "Редакция_опробовала.png",
+      "width": 1600,
+      "height": 1600
+    }
+  ]
+}
