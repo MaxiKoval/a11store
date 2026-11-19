@@ -3,224 +3,6 @@
     "schema": "a11-native-graphics",
     "version": 1,
     "active": 0,
-    "canvases": [
-      {
-        "id": "cover-1",
-        "name": "Соты",
-        "width": 1600,
-        "height": 1600,
-        "background": "#471c18",
-        "layers": [
-          {
-            "id": "3280b1e0de13",
-            "kind": "hex",
-            "name": "Соты",
-            "x": 0,
-            "y": 0,
-            "w": 100,
-            "h": 65,
-            "rotation": 0,
-            "opacity": 1,
-            "hidden": false,
-            "blend": "normal",
-            "effects": {},
-            "layout": "database",
-            "cell_width": 307.69,
-            "cells": {
-              "9": {
-                "src": "assets/native-9fc82723dfebddeffe6cc09178884abdf55e02bc46fdb070741ad1aa83ccb877.jpg",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "6": {
-                "src": "assets/native-58beaf6e89643cd96a7eff659eeccf09d87797c8100a915c2bf3a4a5039cfa55.jpg",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "14": {
-                "src": "assets/native-131db92f3754e91b16e2a5ef4075c0e9fa12a28bae1d3105f382f1ef6f876afc.jpg",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "5": {
-                "src": "assets/native-ee0fc3ae4866a2d91586d2be5c16a32b6bc942a42170b7543a08d548183b848a.png",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "13": {
-                "src": "assets/native-5de0e9fda2978afe00abc17069d2f71c0a95d4ef22168d881b80811584a1c239.jpg",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "10": {
-                "src": "assets/native-407d799f0778d345c9581515002f190db0e4ca0008e5a8d3cfcd12de354d605a.jpg",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "1": {
-                "src": "assets/native-3b084a7794e2f56e8a0a468a575bdc3867f54bdb8efc706e2d0198c20d387039.jpg",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "17": {
-                "src": "assets/native-a50f4b30be2226cdc904cee4133edd795edf19a66374817ab7280c127da7d758.jpg",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "8": {
-                "src": "assets/native-42cd4d8f243ccc72cc3d463f90e60ee68187b3520a170a95fd463d8f2d32e2c6.jpg",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "7": {
-                "src": "assets/native-a5598d6149fcdae689e93552148d4f8c8a5826542072160075744fc085b9f246.jpg",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "15": {
-                "src": "assets/native-0c432a326e36d49935d2130d15793d21fa0fc3a88c2f659a013b2e2d0ce1e306.jpg",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "2": {
-                "src": "assets/native-9fc82723dfebddeffe6cc09178884abdf55e02bc46fdb070741ad1aa83ccb877.jpg",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "18": {
-                "src": "assets/native-58beaf6e89643cd96a7eff659eeccf09d87797c8100a915c2bf3a4a5039cfa55.jpg",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "0": {
-                "src": "assets/native-131db92f3754e91b16e2a5ef4075c0e9fa12a28bae1d3105f382f1ef6f876afc.jpg",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "16": {
-                "src": "assets/native-ee0fc3ae4866a2d91586d2be5c16a32b6bc942a42170b7543a08d548183b848a.png",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              }
-            },
-            "gallery_auto": true,
-            "color": "#2c1613",
-            "outline": "#9c5e56",
-            "outline_width": 5,
-            "outline_opacity": 1,
-            "background_saturation": 0,
-            "background_blur": 2,
-            "background_opacity": 1,
-            "background_tint": "#ffffff",
-            "background_tint_alpha": 0,
-            "background_blend": "multiply",
-            "collection_ranked": true,
-            "background_filter": true,
-            "outline_blend": "normal"
-          },
-          {
-            "id": "e8dce2f3a439",
-            "kind": "shape",
-            "name": "Цветовой фильтр",
-            "x": 0,
-            "y": 0,
-            "w": 100,
-            "h": 100,
-            "rotation": 0,
-            "opacity": 0,
-            "hidden": false,
-            "blend": "normal",
-            "effects": {},
-            "color": "#8497ac",
-            "palette_filter": true
-          },
-          {
-            "id": "a9c16f9f269a",
-            "kind": "shape",
-            "name": "Фильтр основных сот",
-            "x": 0,
-            "y": 0,
-            "w": 100,
-            "h": 100,
-            "rotation": 0,
-            "opacity": 0,
-            "hidden": false,
-            "blend": "normal",
-            "effects": {},
-            "color": "#8497ac",
-            "main_palette_filter": true
-          },
-          {
-            "id": "cc7d8d435469",
-            "kind": "shape",
-            "name": "Плашка",
-            "x": 0,
-            "y": 65,
-            "w": 100,
-            "h": 35,
-            "rotation": 0,
-            "opacity": 1,
-            "hidden": false,
-            "blend": "normal",
-            "effects": {},
-            "color": "#471c18",
-            "cover_role": "plate"
-          },
-          {
-            "id": "bacdc1684990",
-            "kind": "text",
-            "name": "Название",
-            "x": 4,
-            "y": 73.4,
-            "w": 92,
-            "h": 13.2,
-            "rotation": 0,
-            "opacity": 1,
-            "hidden": false,
-            "blend": "normal",
-            "effects": {},
-            "text": "MARVEL GAMES",
-            "font_size": 112,
-            "bold": true,
-            "align": "center",
-            "color": "#ffffff",
-            "valign": "center",
-            "fit_text": true
-          },
-          {
-            "id": "d888d7c8f34c",
-            "kind": "shape",
-            "name": "Полоска",
-            "x": 46,
-            "y": 87.2,
-            "w": 8,
-            "h": 1.1,
-            "rotation": 0,
-            "opacity": 1,
-            "hidden": false,
-            "blend": "normal",
-            "effects": {},
-            "color": "#ffbfb6",
-            "cover_role": "line"
-          }
-        ]
-      }
-    ],
     "variants": [],
     "gallery": [
       {
@@ -328,15 +110,235 @@
         "accent": "#d1d1d1"
       }
     ],
-    "active_palette": "Основной"
+    "active_palette": "Основной",
+    "canvases": [
+      {
+        "id": "cover-1",
+        "name": "Соты",
+        "width": 1600,
+        "height": 1600,
+        "background": "#471c18",
+        "layers": [
+          {
+            "id": "3280b1e0de13",
+            "kind": "hex",
+            "name": "Соты",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 65,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "layout": "database",
+            "cell_width": 307.69,
+            "cells": {
+              "9": {
+                "src": "assets/native-58beaf6e89643cd96a7eff659eeccf09d87797c8100a915c2bf3a4a5039cfa55.jpg",
+                "zoom": 1.579136690647482,
+                "pan_x": 0.0,
+                "pan_y": 0.460431654676259
+              },
+              "6": {
+                "src": "assets/native-42cd4d8f243ccc72cc3d463f90e60ee68187b3520a170a95fd463d8f2d32e2c6.jpg",
+                "zoom": 1.9568345323741008,
+                "pan_x": 0,
+                "pan_y": 0.7841726618705036
+              },
+              "14": {
+                "src": "assets/native-5de0e9fda2978afe00abc17069d2f71c0a95d4ef22168d881b80811584a1c239.jpg",
+                "zoom": 1.2517985611510791,
+                "pan_x": 0,
+                "pan_y": 1
+              },
+              "5": {
+                "src": "assets/native-ee0fc3ae4866a2d91586d2be5c16a32b6bc942a42170b7543a08d548183b848a.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "13": {
+                "src": "assets/native-5de0e9fda2978afe00abc17069d2f71c0a95d4ef22168d881b80811584a1c239.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "10": {
+                "src": "assets/native-407d799f0778d345c9581515002f190db0e4ca0008e5a8d3cfcd12de354d605a.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "1": {
+                "src": "assets/native-3b084a7794e2f56e8a0a468a575bdc3867f54bdb8efc706e2d0198c20d387039.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "17": {
+                "src": "assets/native-a50f4b30be2226cdc904cee4133edd795edf19a66374817ab7280c127da7d758.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "8": {
+                "src": "assets/native-42cd4d8f243ccc72cc3d463f90e60ee68187b3520a170a95fd463d8f2d32e2c6.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "7": {
+                "src": "assets/native-a5598d6149fcdae689e93552148d4f8c8a5826542072160075744fc085b9f246.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "15": {
+                "src": "assets/native-0c432a326e36d49935d2130d15793d21fa0fc3a88c2f659a013b2e2d0ce1e306.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "2": {
+                "src": "assets/native-9fc82723dfebddeffe6cc09178884abdf55e02bc46fdb070741ad1aa83ccb877.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "18": {
+                "src": "assets/native-58beaf6e89643cd96a7eff659eeccf09d87797c8100a915c2bf3a4a5039cfa55.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "0": {
+                "src": "assets/native-131db92f3754e91b16e2a5ef4075c0e9fa12a28bae1d3105f382f1ef6f876afc.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "16": {
+                "src": "assets/native-ee0fc3ae4866a2d91586d2be5c16a32b6bc942a42170b7543a08d548183b848a.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              }
+            },
+            "gallery_auto": true,
+            "color": "#2c1613",
+            "outline": "#c80606",
+            "outline_width": 5,
+            "outline_opacity": 1,
+            "background_saturation": 0,
+            "background_blur": 2,
+            "background_opacity": 1,
+            "background_tint": "#ffffff",
+            "background_tint_alpha": 0,
+            "background_blend": "multiply",
+            "collection_ranked": true,
+            "background_filter": true,
+            "outline_blend": "normal"
+          },
+          {
+            "id": "e8dce2f3a439",
+            "kind": "shape",
+            "name": "Цветовой фильтр",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0.8664122137404581,
+            "hidden": false,
+            "blend": "darken",
+            "effects": {},
+            "color": "#c80606",
+            "palette_filter": true
+          },
+          {
+            "id": "a9c16f9f269a",
+            "kind": "shape",
+            "name": "Фильтр основных сот",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#8497ac",
+            "main_palette_filter": true
+          },
+          {
+            "id": "cc7d8d435469",
+            "kind": "shape",
+            "name": "Плашка",
+            "x": 0,
+            "y": 65,
+            "w": 100,
+            "h": 35,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#c80606",
+            "cover_role": "plate"
+          },
+          {
+            "id": "bacdc1684990",
+            "kind": "text",
+            "name": "Название",
+            "x": 4,
+            "y": 73.4,
+            "w": 92,
+            "h": 13.2,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "MARVEL GAMES",
+            "font_size": 112,
+            "bold": true,
+            "align": "center",
+            "color": "#ffffff",
+            "valign": "center",
+            "fit_text": true
+          },
+          {
+            "id": "d888d7c8f34c",
+            "kind": "shape",
+            "name": "Полоска",
+            "x": 46,
+            "y": 87.2,
+            "w": 8,
+            "h": 1.1,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#ffbfb6",
+            "cover_role": "line"
+          }
+        ],
+        "graphics_mode": "hex"
+      }
+    ],
+    "cover_alternates": []
   },
-  "savedAt": "2026-11-19T20:51:30.613792+00:00",
+  "savedAt": "2026-11-19T23:20:16.850032+00:00",
   "schemaVersion": 1,
   "workspaces": [
     {
       "id": "cover-1",
       "name": "Соты",
-      "file": "Marvel_Games.png",
+      "file": "Marvel Games.png",
       "width": 1600,
       "height": 1600
     }
