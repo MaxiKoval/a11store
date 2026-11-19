@@ -1,0 +1,611 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 0,
+    "variants": [],
+    "gallery": [
+      {
+        "name": "Marvel's Spider-Man",
+        "src": "assets/native-9fc82723dfebddeffe6cc09178884abdf55e02bc46fdb070741ad1aa83ccb877.jpg",
+        "game_id": "PPSA01468",
+        "popularity": 915.0,
+        "card_id": "RADI10540"
+      },
+      {
+        "name": "Marvel’s Spider-Man 2",
+        "src": "assets/native-58beaf6e89643cd96a7eff659eeccf09d87797c8100a915c2bf3a4a5039cfa55.jpg",
+        "game_id": "PPSA08338",
+        "popularity": 905.0,
+        "card_id": "RADI09797"
+      },
+      {
+        "name": "Marvel's Spider-Man: Miles Morales",
+        "src": "assets/native-131db92f3754e91b16e2a5ef4075c0e9fa12a28bae1d3105f382f1ef6f876afc.jpg",
+        "game_id": "PPSA01417",
+        "popularity": 880.0,
+        "card_id": "RADI12407"
+      },
+      {
+        "name": "Injustice: Gods Among Us",
+        "src": "assets/native-d1d0e9ecc5f2c89b4dd7efea75e69587fa00100bb3648cb3c08112f6c1fe08d2.jpg",
+        "game_id": "CUSA00051",
+        "popularity": 863.0,
+        "card_id": "RADI02210"
+      },
+      {
+        "name": "inFAMOUS Second Son",
+        "src": "assets/native-4520a556cfbd55baf1f845b35894859ae9e04386ac4764b82ba0a6ce0170e3c9.jpg",
+        "game_id": "CUSA00004",
+        "popularity": 856.0,
+        "card_id": "RADI15155"
+      },
+      {
+        "name": "Metal Gear Solid V: Ground Zeroes",
+        "src": "assets/native-0afca438e59fae6ae2d103cf1fff4c8e2c6f7c451e90870f2f9e19dd5eba5e67.jpg",
+        "game_id": "CUSA00211",
+        "popularity": 852.0,
+        "card_id": "RADI02435"
+      },
+      {
+        "name": "Metal Gear Solid V: The Phantom Pain",
+        "src": "assets/native-bf92347463120d21b2c10d75f9edbc62e0aeb09a93d3604a40131f6bc71c61e7.jpg",
+        "game_id": "CUSA01154",
+        "popularity": 829.0,
+        "card_id": "RADI00931"
+      },
+      {
+        "name": "DRAGON BALL Z: KAKAROT",
+        "src": "assets/native-8c567a5764197ae2b1bd89b98998bc7207f071fb321822332edbdf852f326f9d.jpg",
+        "game_id": "PPSA08083",
+        "popularity": 825.0,
+        "card_id": "RADI12508"
+      },
+      {
+        "name": "DRAGON BALL: Sparking! ZERO",
+        "src": "assets/native-feb2eff7df3a9f91ce7f00899d53018bac602428ec5ad5937f8723d6a1b85c67.jpg",
+        "game_id": "PPSA15210",
+        "popularity": 807.0,
+        "card_id": "RADI07569"
+      },
+      {
+        "name": "Dispatch",
+        "src": "assets/native-f65338a317a0e6ec55102b23814cec9f689881aeea89226f574aaf8be64e4555.jpg",
+        "game_id": "PPSA27158",
+        "popularity": 793.0,
+        "card_id": "RADI04679"
+      },
+      {
+        "name": "LEGO Marvel Super Heroes",
+        "src": "assets/native-ee0fc3ae4866a2d91586d2be5c16a32b6bc942a42170b7543a08d548183b848a.png",
+        "game_id": "CUSA00044",
+        "popularity": 789.0,
+        "card_id": "RADI00070"
+      },
+      {
+        "name": "CONTROL",
+        "src": "assets/native-6e6af44d5d9bbd320e1171cbdb4a3345315637dc23e22ac17a490053df2ce511.jpg",
+        "game_id": "PPSA01951",
+        "popularity": 783.0,
+        "card_id": "RADI00415"
+      },
+      {
+        "name": "Injustice 2",
+        "src": "assets/native-a85c910d507148ba8a788cd03b0a7b6d0215c65c39001dd5eb2cc26604af9e8f.jpg",
+        "game_id": "CUSA05459",
+        "popularity": 768.0,
+        "card_id": "RADI00394"
+      },
+      {
+        "name": "Marvel's Guardians of the Galaxy",
+        "src": "assets/native-5de0e9fda2978afe00abc17069d2f71c0a95d4ef22168d881b80811584a1c239.jpg",
+        "game_id": "PPSA01750",
+        "popularity": 764.0,
+        "card_id": "RADI01655"
+      },
+      {
+        "name": "Suicide Squad: Kill the Justice League",
+        "src": "assets/native-641cc96d25143bcdb632bba977812d3d58c5a608ee740dad7293edda81ddb439.jpg",
+        "game_id": "PPSA03913",
+        "popularity": 763.0,
+        "card_id": "RADI09237"
+      },
+      {
+        "name": "KINGDOM HEARTS III",
+        "src": "assets/native-0e1b2e1fbe2413958cb40c424110873ddb482fdda7009debc65d0867a7a07fe6.jpg",
+        "game_id": "CUSA12025",
+        "popularity": 757.0,
+        "card_id": "RADI11403"
+      },
+      {
+        "name": "LEGO Marvel's Avengers",
+        "src": "assets/native-407d799f0778d345c9581515002f190db0e4ca0008e5a8d3cfcd12de354d605a.jpg",
+        "game_id": "CUSA02122",
+        "popularity": 749.0,
+        "card_id": "RADI15209"
+      },
+      {
+        "name": "Minecraft Dungeons",
+        "src": "assets/native-e6d871ae1369284eb0990f1523e91dc7cdf6ada620207fda933aa805dd4bc0c7.jpg",
+        "game_id": "CUSA18797",
+        "popularity": 747.0,
+        "card_id": "RADI00269"
+      },
+      {
+        "name": "South Park: The Fractured but Whole",
+        "src": "assets/native-3c6a09cef4ba2492b201fa5a1c90843e4d4e08d14f40d1d509c4e12d825718d7.jpg",
+        "game_id": "CUSA04323",
+        "popularity": 743.0,
+        "card_id": "RADI15224"
+      },
+      {
+        "name": "Saints Row IV: Re-Elected",
+        "src": "assets/native-aa9b249cc219a4e026d36029a1954f985dc64df493f5bf0aa90b4c6963759daa.jpg",
+        "game_id": "CUSA01106",
+        "popularity": 731.0,
+        "card_id": "RADI00913"
+      },
+      {
+        "name": "Gotham Knights",
+        "src": "assets/native-705862c8dbb38ab4eb3c82d3eb5b268617c95c67a476fe068cda9bfdca4537e5.jpg",
+        "game_id": "PPSA07257",
+        "popularity": 727.0,
+        "card_id": "RADI11243"
+      },
+      {
+        "name": "Persona 5 Royal",
+        "src": "assets/native-1bcc5dc9749be301faf9335c920e87a8abcedd3bdaec2d95157771d24e193dd3.jpg",
+        "game_id": "CUSA17419",
+        "popularity": 723.0,
+        "card_id": "RADI11245"
+      },
+      {
+        "name": "Gravity Rush 2",
+        "src": "assets/native-b4357cf71569f8324b25c860a7366a1bee9a4d5d9bf01d94678f4129eb94c0b8.jpg",
+        "game_id": "CUSA04943",
+        "popularity": 715.0,
+        "card_id": "RADI10340"
+      },
+      {
+        "name": "LEGO Marvel Super Heroes 2",
+        "src": "assets/native-3b084a7794e2f56e8a0a468a575bdc3867f54bdb8efc706e2d0198c20d387039.jpg",
+        "game_id": "CUSA08476",
+        "popularity": 713.0,
+        "card_id": "RADI15168"
+      },
+      {
+        "name": "DRAGON QUEST HEROES",
+        "src": "assets/native-f4535cb2c4e1bf13024891827aecfc2248310817687bfab6f80d853fb13e9a9e.jpg",
+        "game_id": "CUSA02694",
+        "popularity": 701.0,
+        "card_id": "RADI15410"
+      },
+      {
+        "name": "LEGO Batman: Legacy of the Dark Knight",
+        "src": "assets/native-2bb7663eb61d98946a584d8caf45bd2b83804a6d8f9b02b745bbaf94f3b65970.jpg",
+        "game_id": "PPSA16833",
+        "popularity": 697.0,
+        "card_id": "RADI02298"
+      },
+      {
+        "name": "ONE PIECE: PIRATE WARRIORS 4",
+        "src": "assets/native-e5422203422bf0a8c8ce12226bdcdc83eea41c240572936d7eecaa8083b7b3a2.jpg",
+        "game_id": "PPSA27502",
+        "popularity": 694.0,
+        "card_id": "RADI12492"
+      },
+      {
+        "name": "Marvel's Midnight Suns",
+        "src": "assets/native-a50f4b30be2226cdc904cee4133edd795edf19a66374817ab7280c127da7d758.jpg",
+        "game_id": "PPSA03603",
+        "popularity": 688.0,
+        "card_id": "RADI13337"
+      },
+      {
+        "name": "Immortals Fenyx Rising",
+        "src": "assets/native-54021e0db179218489d4faa2552a72aea5571ef4d2a2595555466da1b4c2518e.jpg",
+        "game_id": "PPSA01509",
+        "popularity": 682.0,
+        "card_id": "RADI12385"
+      },
+      {
+        "name": "MY HERO ONE'S JUSTICE 2",
+        "src": "assets/native-f5eaa9d8c4e8c36626bc70c4b9a07683364fdd3e95e65136f707a9a101b77004.jpg",
+        "game_id": "CUSA16171",
+        "popularity": 679.0,
+        "card_id": "RADI15468"
+      },
+      {
+        "name": "ULTIMATE MARVEL VS. CAPCOM 3",
+        "src": "assets/native-6d43b43b270bc65f07149c5047550272d65d45115929893786891580382f3f39.jpg",
+        "game_id": "CUSA04543",
+        "popularity": 666.0,
+        "card_id": "RADI01070"
+      },
+      {
+        "name": "Minecraft Legends",
+        "src": "assets/native-b80ec18b42df873c20a397f88797be5f2ea53f0b645d606e974fb548352c12dd.jpg",
+        "game_id": "PPSA05510",
+        "popularity": 657.0,
+        "card_id": "RADI10648"
+      },
+      {
+        "name": "Prototype2",
+        "src": "assets/native-c708e772c4303431801a212e6e5adc04443811c8008da8df481178bf621fab48.jpg",
+        "game_id": "CUSA01765",
+        "popularity": 656.0,
+        "card_id": "RADI00200"
+      },
+      {
+        "name": "Marvel's Iron Man VR",
+        "src": "assets/native-0fae7f95c4eeb5438f032e3f5ffa87a85347a5e96c7139325c77b0b424bece2b.jpg",
+        "game_id": "CUSA16206",
+        "popularity": 648.0,
+        "card_id": "RADI00679"
+      },
+      {
+        "name": "MARVEL Tōkon: Fighting Souls",
+        "src": "assets/native-42cd4d8f243ccc72cc3d463f90e60ee68187b3520a170a95fd463d8f2d32e2c6.jpg",
+        "game_id": "PPSA15595",
+        "popularity": 645.0,
+        "card_id": "RADI01553"
+      },
+      {
+        "name": "Terminator: Resistance Enhanced",
+        "src": "assets/native-02dfb44c25219210fb2441720b95c9569f57031005d7b5a31417f98547450932.jpg",
+        "game_id": "PPSA01763",
+        "popularity": 644.0,
+        "card_id": "RADI13763"
+      },
+      {
+        "name": "Batman: Arkham VR",
+        "src": "assets/native-cb7d43d676d0d71bf240191e73dd5df18b16a61f65b19b57383766f107ed8395.jpg",
+        "game_id": "CUSA05340",
+        "popularity": 637.0,
+        "card_id": "RADI03387"
+      },
+      {
+        "name": "Invincible VS",
+        "src": "assets/native-4f997e45e47cfe145924c7390834be0ec87b0ac24a559412f5436eeff41e1ec3.jpg",
+        "game_id": "PPSA30568",
+        "popularity": 635.0,
+        "card_id": "RADI02472"
+      },
+      {
+        "name": "MARVEL Cosmic Invasion",
+        "src": "assets/native-a5598d6149fcdae689e93552148d4f8c8a5826542072160075744fc085b9f246.jpg",
+        "game_id": "PPSA29629",
+        "popularity": 610.0,
+        "card_id": "RADI01004"
+      },
+      {
+        "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
+        "src": "assets/native-b4e1da8ced09babe85bc5615f2eae76a1057c69f89c606097ec31fb0e9453b27.jpg",
+        "game_id": "CUSA16264",
+        "popularity": 561.0,
+        "card_id": "RADI15207"
+      },
+      {
+        "name": "No More Heroes 3",
+        "src": "assets/native-cc9101f79275a45c1fb65e748fe51ae0eb35cc91cdecb56c65213696b7622a3f.jpg",
+        "game_id": "PPSA07577",
+        "popularity": 536.0,
+        "card_id": "RADI13412"
+      },
+      {
+        "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai",
+        "src": "assets/native-1285335e0c81a84ad6465706f7286a09514c1546759318294d97770ba7f97005.jpg",
+        "game_id": "PPSA09452",
+        "popularity": 526.0,
+        "card_id": "RADI09926"
+      },
+      {
+        "name": "Miraculous: Rise of the Sphinx",
+        "src": "assets/native-84e8ac4b63e911e26e700255975dfec47c7fd38f7608cd2f9ba49bd6ab9f2929.jpg",
+        "game_id": "PPSA04790",
+        "popularity": 489.0,
+        "card_id": "RADI01459"
+      },
+      {
+        "name": "Fuga: Melodies of Steel",
+        "src": "assets/native-779290ed252993c716588d212f8b8b46079f714769e973cac2a91b638886a388.jpg",
+        "game_id": "PPSA03703",
+        "popularity": 466.0,
+        "card_id": "RADI13144"
+      },
+      {
+        "name": "Fuga : Melodies of Steel 2",
+        "src": "assets/native-dc98c43f1ca90e4cd7fdbe46aff8a68cb8944a3db7ab8d5498f8bfd4b54f9788.jpg",
+        "game_id": "PPSA09339",
+        "popularity": 448.0,
+        "card_id": "RADI10526"
+      },
+      {
+        "name": "Chroma Squad",
+        "src": "assets/native-d51cbbdcf73d7ac1d7dcca7bfcfa6d91987557e1e6bc43a050e8bfad206df2f2.jpg",
+        "game_id": "CUSA07623",
+        "popularity": 435.0,
+        "card_id": "RADI07484"
+      },
+      {
+        "name": "Capes",
+        "src": "assets/native-28b752d6aaa8e5db7db3c1b7c1f3cc04e6a6a0fa07832eab26f4287aa748533c.jpg",
+        "game_id": "PPSA16244",
+        "popularity": 405.0,
+        "card_id": "RADI08515"
+      },
+      {
+        "name": "88 Heroes",
+        "src": "assets/native-e7076394ec3bda8549e572ef3f4df7467e08b91de0aca8ab63225c0bf46c43ee.jpg",
+        "game_id": "CUSA05717",
+        "popularity": 348.0,
+        "card_id": "RADI03847"
+      },
+      {
+        "name": "The Boys",
+        "src": "assets/native-7058dceb791f35002c8b9f13841d9c62e67849c0a82a41fbb4aca4405d55945f.jpg",
+        "game_id": "PPSA34904",
+        "popularity": 347.0,
+        "card_id": "RADI12890"
+      }
+    ],
+    "workspace": "#444444",
+    "canvases": [
+      {
+        "id": "cover-1",
+        "name": "Соты",
+        "width": 1600,
+        "height": 1600,
+        "background": "#471c18",
+        "layers": [
+          {
+            "id": "dc22fd3156ca",
+            "kind": "hex",
+            "name": "Соты",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 65,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "layout": "database",
+            "cell_width": 307.69,
+            "cells": {
+              "9": {
+                "src": "assets/native-58beaf6e89643cd96a7eff659eeccf09d87797c8100a915c2bf3a4a5039cfa55.jpg",
+                "zoom": 1.3776978417266186,
+                "pan_x": -0.028477760133036517,
+                "pan_y": 0.7404217634589545
+              },
+              "6": {
+                "src": "assets/native-2bb7663eb61d98946a584d8caf45bd2b83804a6d8f9b02b745bbaf94f3b65970.jpg",
+                "zoom": 1.276978417266187,
+                "pan_x": 0.0,
+                "pan_y": 0.7859861796718132
+              },
+              "14": {
+                "src": "assets/native-5de0e9fda2978afe00abc17069d2f71c0a95d4ef22168d881b80811584a1c239.jpg",
+                "zoom": 1.4028776978417268,
+                "pan_x": 0.03417331215964427,
+                "pan_y": 0.3360375695698331
+              },
+              "5": {
+                "src": "assets/native-d1d0e9ecc5f2c89b4dd7efea75e69587fa00100bb3648cb3c08112f6c1fe08d2.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "13": {
+                "src": "assets/native-4520a556cfbd55baf1f845b35894859ae9e04386ac4764b82ba0a6ce0170e3c9.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "10": {
+                "src": "assets/native-0afca438e59fae6ae2d103cf1fff4c8e2c6f7c451e90870f2f9e19dd5eba5e67.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "1": {
+                "src": "assets/native-bf92347463120d21b2c10d75f9edbc62e0aeb09a93d3604a40131f6bc71c61e7.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "17": {
+                "src": "assets/native-8c567a5764197ae2b1bd89b98998bc7207f071fb321822332edbdf852f326f9d.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "8": {
+                "src": "assets/native-feb2eff7df3a9f91ce7f00899d53018bac602428ec5ad5937f8723d6a1b85c67.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "7": {
+                "src": "assets/native-f65338a317a0e6ec55102b23814cec9f689881aeea89226f574aaf8be64e4555.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "15": {
+                "src": "assets/native-ee0fc3ae4866a2d91586d2be5c16a32b6bc942a42170b7543a08d548183b848a.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "2": {
+                "src": "assets/native-6e6af44d5d9bbd320e1171cbdb4a3345315637dc23e22ac17a490053df2ce511.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "18": {
+                "src": "assets/native-a85c910d507148ba8a788cd03b0a7b6d0215c65c39001dd5eb2cc26604af9e8f.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "0": {
+                "src": "assets/native-5de0e9fda2978afe00abc17069d2f71c0a95d4ef22168d881b80811584a1c239.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "16": {
+                "src": "assets/native-641cc96d25143bcdb632bba977812d3d58c5a608ee740dad7293edda81ddb439.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              }
+            },
+            "gallery_auto": true,
+            "color": "#2c1613",
+            "outline": "#bd0706",
+            "outline_width": 5,
+            "outline_opacity": 1,
+            "background_saturation": 0,
+            "background_blur": 2,
+            "background_opacity": 1,
+            "background_tint": "#ffffff",
+            "background_tint_alpha": 0,
+            "background_blend": "multiply",
+            "collection_ranked": true,
+            "background_filter": true,
+            "outline_blend": "normal"
+          },
+          {
+            "id": "c3008977105d",
+            "kind": "shape",
+            "name": "Цветовой фильтр",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0.6717557251908397,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "palette_filter": true,
+            "color": "#c20605"
+          },
+          {
+            "id": "a352fb0cf87a",
+            "kind": "shape",
+            "name": "Фильтр основных сот",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "main_palette_filter": true
+          },
+          {
+            "id": "e57a2c13119b",
+            "kind": "shape",
+            "name": "Плашка",
+            "x": 0,
+            "y": 65,
+            "w": 100,
+            "h": 35,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#c20605",
+            "cover_role": "plate"
+          },
+          {
+            "id": "476b6dc116bb",
+            "kind": "text",
+            "name": "Название",
+            "x": 4,
+            "y": 73.4,
+            "w": 92,
+            "h": 13.2,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "СУПЕРГЕРОИ",
+            "font_size": 112,
+            "bold": true,
+            "align": "center",
+            "color": "#ffffff",
+            "valign": "center",
+            "fit_text": true
+          },
+          {
+            "id": "d7e6bfb23502",
+            "kind": "shape",
+            "name": "Полоска",
+            "x": 46,
+            "y": 87.2,
+            "w": 8,
+            "h": 1.1,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "color": "#ffbfb6",
+            "cover_role": "line"
+          }
+        ],
+        "graphics_mode": "hex"
+      }
+    ],
+    "cover_alternates": [],
+    "palette_schemes": [
+      {
+        "version": 4,
+        "name": "Основной",
+        "background": "#471c18",
+        "grid": "#9c5e56",
+        "cell_background": "#2c1613",
+        "accent": "#ffbfb6"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 2",
+        "background": "#272b36",
+        "grid": "#6b7182",
+        "cell_background": "#1a1d23",
+        "accent": "#c9d1e5"
+      },
+      {
+        "version": 4,
+        "name": "Вариант 3",
+        "background": "#2b2b2b",
+        "grid": "#717171",
+        "cell_background": "#1d1d1d",
+        "accent": "#d1d1d1"
+      }
+    ],
+    "active_palette": "Основной"
+  },
+  "savedAt": "2026-11-19T13:28:12.941962+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "cover-1",
+      "name": "Соты",
+      "file": "Супергерои.png",
+      "width": 1600,
+      "height": 1600
+    }
+  ]
+}
