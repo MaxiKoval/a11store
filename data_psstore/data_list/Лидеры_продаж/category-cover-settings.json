@@ -3,16 +3,97 @@
     "schema": "a11-native-graphics",
     "version": 1,
     "active": 0,
+    "variants": [],
+    "gallery": [
+      {
+        "name": "Resident Evil 4",
+        "src": "assets/native-d78e9a9bdfd92d8723dd68b97489c43054328ec5f8dcb175887af080fefb6e31.jpg",
+        "game_id": "PPSA07412",
+        "popularity": 869.0,
+        "card_id": "RADI00001"
+      },
+      {
+        "name": "STAR WARS Battlefront II",
+        "src": "assets/native-2bed84ce6ece50b1558f8b3bab1928d4e4f92abf51713cda5a7e2cccc242cff6.jpg",
+        "game_id": "CUSA05749",
+        "popularity": 869.0,
+        "card_id": "RADI15171"
+      },
+      {
+        "name": "Mortal Kombat 11",
+        "src": "assets/native-d8dcf889fab3f003348c38e077500d659ebf9ad9a900aa9cd3d716afcb00701d.jpg",
+        "game_id": "PPSA01619",
+        "popularity": 841.0,
+        "card_id": "RADI12579"
+      },
+      {
+        "name": "FARCRY 6",
+        "src": "assets/native-8820239d49d746f5da8f6045388bc03dc5dec8f934512a713f13c3ac1c605136.jpg",
+        "game_id": "PPSA01874",
+        "popularity": 825.0,
+        "card_id": "RADI12070"
+      },
+      {
+        "name": "Assassin's Creed Valhalla",
+        "src": "assets/native-f9234f8ab6bf32997e1f887809447804501eaa31df95c33be7553ef5173ba57f.jpg",
+        "game_id": "PPSA01532",
+        "popularity": 824.0,
+        "card_id": "RADI12395"
+      },
+      {
+        "name": "Forza Horizon 5",
+        "src": "assets/native-3d56cc7b455b30f09dc21461e304964561620be2da9cb8d4b96ba549455a8072.jpg",
+        "game_id": "PPSA22327",
+        "popularity": 810.0,
+        "card_id": "RADI06204"
+      },
+      {
+        "name": "EA SPORTS FC 27",
+        "src": "assets/native-c2c6982a539c4f035a025f09aa5ff0585235b97617fd399e0c6fef49aa858cca.jpg",
+        "game_id": "PPSA34015",
+        "popularity": 804.0,
+        "card_id": "RADI00954"
+      },
+      {
+        "name": "Metro Exodus",
+        "src": "assets/native-7ac526333235e91286d2a2956200cb72f41026c7faaf926b345282cd3a687288.jpg",
+        "game_id": "PPSA01749",
+        "popularity": 804.0,
+        "card_id": "RADI12204"
+      },
+      {
+        "name": "Marvel’s Wolverine",
+        "src": "assets/native-19f9c8dc5b4f687618ef63b045feabb01655ae6fed748e58551ef4ab9d596a44.jpg",
+        "game_id": "PPSA03671",
+        "popularity": 803.0,
+        "card_id": "RADI01148"
+      },
+      {
+        "name": "LEGO Marvel Super Heroes",
+        "src": "assets/native-ee0fc3ae4866a2d91586d2be5c16a32b6bc942a42170b7543a08d548183b848a.png",
+        "game_id": "CUSA00044",
+        "popularity": 789.0,
+        "card_id": "RADI00070"
+      },
+      {
+        "name": "Grand Theft Auto VI",
+        "src": "assets/native-b801c42e50ce1bb389ed218b5fc67e9a592c588bc56d9053ca7fb8698ca7d89c.jpg",
+        "game_id": "PPSA01547",
+        "popularity": 1.0,
+        "card_id": "RADI00179"
+      }
+    ],
+    "workspace": "#444444",
     "canvases": [
       {
         "id": "cover-1",
         "name": "Соты",
         "width": 1600,
         "height": 1600,
-        "background": "#1f1915",
+        "background": "#4a3f24",
         "layers": [
           {
-            "id": "b2c9234acab3",
+            "id": "7636a3a879e1",
             "kind": "hex",
             "name": "Соты",
             "x": 0,
@@ -28,140 +109,113 @@
             "cell_width": 307.69,
             "cells": {
               "9": {
-                "src": "assets/native-dc5a692daea00a4271e52efe5c4fddfd5114d8fa56b7b38d0c170b0585fb4e97.png",
+                "src": "assets/native-d8dcf889fab3f003348c38e077500d659ebf9ad9a900aa9cd3d716afcb00701d.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "6": {
-                "src": "assets/native-38d5c87304edc47624b7395b17497ea1f0112ad490b31d2fdfc530c2a6ae0c73.png",
+                "src": "assets/native-2bed84ce6ece50b1558f8b3bab1928d4e4f92abf51713cda5a7e2cccc242cff6.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "14": {
-                "src": "assets/native-d273e5e4864367e137a7a87b87e74882a850784bb1345c77d1d4d4c6b13815ac.png",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "0": {
-                "src": "assets/native-035b54f71225e2807b81730f1740e940f4c615e67fbedc373d71d2bb3f1014cf.png",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "1": {
-                "src": "assets/native-a0f4a972a4e2c3039938d3977c63f9d870746355b3aeaf65d2b33281936a5b81.png",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "2": {
-                "src": "assets/native-74cd6f1a4c3e7041f4fa77b8d3d7d827b57277b6b3d70f317ba3f14e1992e7c9.png",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "3": {
-                "src": "assets/native-89b844ce54d0316d1cad7c7d576feba183d16d57c29e7ee5fa394ae50468c255.png",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "4": {
-                "src": "assets/native-537a34074511fdc9b79d2dcffbb744765fb44cbfbe9f940c6de92d6a71b5caee.png",
+                "src": "assets/native-d78e9a9bdfd92d8723dd68b97489c43054328ec5f8dcb175887af080fefb6e31.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "5": {
-                "src": "assets/native-5128e2f3135a0cb583be1229adfb00be5aaf58e933d3f902fcbc64d653f7a318.png",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "7": {
-                "src": "assets/native-7bcdf7fb2e156f6c5a121605153871776ea982aab68a66f4a62c5a27bf2bbd74.png",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "8": {
-                "src": "assets/native-d051bb7805512315f99867bc09d4a6e1cc78b5b6a8582f1eb1d00f029dac6c5f.png",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "10": {
-                "src": "assets/native-035b54f71225e2807b81730f1740e940f4c615e67fbedc373d71d2bb3f1014cf.png",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "11": {
-                "src": "assets/native-a0f4a972a4e2c3039938d3977c63f9d870746355b3aeaf65d2b33281936a5b81.png",
-                "zoom": 1,
-                "pan_x": 0,
-                "pan_y": 0
-              },
-              "12": {
-                "src": "assets/native-74cd6f1a4c3e7041f4fa77b8d3d7d827b57277b6b3d70f317ba3f14e1992e7c9.png",
+                "src": "assets/native-8820239d49d746f5da8f6045388bc03dc5dec8f934512a713f13c3ac1c605136.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "13": {
-                "src": "assets/native-89b844ce54d0316d1cad7c7d576feba183d16d57c29e7ee5fa394ae50468c255.png",
+                "src": "assets/native-f9234f8ab6bf32997e1f887809447804501eaa31df95c33be7553ef5173ba57f.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
-              "15": {
-                "src": "assets/native-537a34074511fdc9b79d2dcffbb744765fb44cbfbe9f940c6de92d6a71b5caee.png",
+              "10": {
+                "src": "assets/native-3d56cc7b455b30f09dc21461e304964561620be2da9cb8d4b96ba549455a8072.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
-              "16": {
-                "src": "assets/native-5128e2f3135a0cb583be1229adfb00be5aaf58e933d3f902fcbc64d653f7a318.png",
+              "1": {
+                "src": "assets/native-b801c42e50ce1bb389ed218b5fc67e9a592c588bc56d9053ca7fb8698ca7d89c.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "17": {
-                "src": "assets/native-7bcdf7fb2e156f6c5a121605153871776ea982aab68a66f4a62c5a27bf2bbd74.png",
+                "src": "assets/native-7ac526333235e91286d2a2956200cb72f41026c7faaf926b345282cd3a687288.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "8": {
+                "src": "assets/native-19f9c8dc5b4f687618ef63b045feabb01655ae6fed748e58551ef4ab9d596a44.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "7": {
+                "src": "assets/native-ee0fc3ae4866a2d91586d2be5c16a32b6bc942a42170b7543a08d548183b848a.png",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "15": {
+                "src": "assets/native-b801c42e50ce1bb389ed218b5fc67e9a592c588bc56d9053ca7fb8698ca7d89c.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "2": {
+                "src": "assets/native-b801c42e50ce1bb389ed218b5fc67e9a592c588bc56d9053ca7fb8698ca7d89c.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "18": {
-                "src": "assets/native-d051bb7805512315f99867bc09d4a6e1cc78b5b6a8582f1eb1d00f029dac6c5f.png",
+                "src": "assets/native-b801c42e50ce1bb389ed218b5fc67e9a592c588bc56d9053ca7fb8698ca7d89c.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
-              "19": {
-                "src": "assets/native-035b54f71225e2807b81730f1740e940f4c615e67fbedc373d71d2bb3f1014cf.png",
+              "0": {
+                "src": "assets/native-b801c42e50ce1bb389ed218b5fc67e9a592c588bc56d9053ca7fb8698ca7d89c.jpg",
+                "zoom": 1,
+                "pan_x": 0,
+                "pan_y": 0
+              },
+              "16": {
+                "src": "assets/native-b801c42e50ce1bb389ed218b5fc67e9a592c588bc56d9053ca7fb8698ca7d89c.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               }
             },
             "gallery_auto": true,
-            "color": "#111111",
-            "outline": "#000000",
+            "color": "#302c22",
+            "outline": "#f0cf77",
             "outline_width": 5,
-            "outline_opacity": 0.79,
+            "outline_opacity": 1,
             "background_saturation": 0,
             "background_blur": 2,
             "background_opacity": 1,
             "background_tint": "#ffffff",
-            "background_tint_alpha": 0.1,
-            "background_blend": "multiply"
+            "background_tint_alpha": 0,
+            "background_blend": "multiply",
+            "collection_ranked": true,
+            "background_filter": true,
+            "outline_blend": "normal"
           },
           {
-            "id": "b7713ef5e461",
+            "id": "c56f9e6ebaa3",
             "kind": "shape",
             "name": "Цветовой фильтр",
             "x": 0,
@@ -169,15 +223,30 @@
             "w": 100,
             "h": 100,
             "rotation": 0,
-            "opacity": 0.18,
+            "opacity": 0.20229007633587787,
             "hidden": false,
-            "blend": "soft-light",
+            "blend": "normal",
             "effects": {},
             "palette_filter": true,
-            "color": "#ccaf99"
+            "color": "#838de4"
           },
           {
-            "id": "a566ac6b3737",
+            "id": "6325955a0da2",
+            "kind": "shape",
+            "name": "Фильтр основных сот",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 0,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "main_palette_filter": true
+          },
+          {
+            "id": "459d93113ced",
             "kind": "shape",
             "name": "Плашка",
             "x": 0,
@@ -189,165 +258,96 @@
             "hidden": false,
             "blend": "normal",
             "effects": {},
-            "color": "#1f1915"
+            "color": "#f3a46b",
+            "cover_role": "plate"
           },
           {
-            "id": "d827a2ad4c6d",
+            "id": "68ddbecc7252",
             "kind": "text",
             "name": "Название",
             "x": 4,
-            "y": 75,
+            "y": 73.4,
             "w": 92,
-            "h": 16,
+            "h": 13.2,
             "rotation": 0,
             "opacity": 1,
             "hidden": false,
             "blend": "normal",
             "effects": {},
-            "text": "ЛИДЕРЫ_ПРОДАЖ",
+            "text": "ЛИДЕРЫ ПРОДАЖ",
             "font_size": 112,
             "bold": true,
             "align": "center",
-            "color": "#ffffff"
+            "color": "#ffffff",
+            "valign": "center",
+            "fit_text": true
           },
           {
-            "id": "802256e0dad2",
+            "id": "ec05f8595d6e",
             "kind": "shape",
             "name": "Полоска",
-            "x": 45,
-            "y": 94,
-            "w": 10,
-            "h": 1.25,
+            "x": 46,
+            "y": 87.2,
+            "w": 8,
+            "h": 1.1,
             "rotation": 0,
             "opacity": 1,
             "hidden": false,
             "blend": "normal",
             "effects": {},
-            "color": "#f2c6a5"
+            "color": "#838de4",
+            "cover_role": "line"
           }
         ],
-        "effects": {
-          "grain": 0,
-          "vignette": 0.18705035971223022,
-          "saturation": 0.5179856115107914
-        }
+        "graphics_mode": "hex"
       }
     ],
-    "variants": [],
-    "gallery": [
-      {
-        "name": "EA SPORTS FC 27",
-        "src": "assets/native-dc5a692daea00a4271e52efe5c4fddfd5114d8fa56b7b38d0c170b0585fb4e97.png",
-        "game_id": "PPSA34015",
-        "popularity": -1
-      },
-      {
-        "name": "Marvel’s Wolverine",
-        "src": "assets/native-38d5c87304edc47624b7395b17497ea1f0112ad490b31d2fdfc530c2a6ae0c73.png",
-        "game_id": "PPSA03671",
-        "popularity": -1
-      },
-      {
-        "name": "Forza Horizon 5",
-        "src": "assets/native-d273e5e4864367e137a7a87b87e74882a850784bb1345c77d1d4d4c6b13815ac.png",
-        "game_id": "PPSA22327",
-        "popularity": -1
-      },
-      {
-        "name": "Metro Exodus",
-        "src": "assets/native-537a34074511fdc9b79d2dcffbb744765fb44cbfbe9f940c6de92d6a71b5caee.png",
-        "game_id": "PPSA01749",
-        "popularity": -1
-      },
-      {
-        "name": "Resident Evil 4",
-        "src": "assets/native-a0f4a972a4e2c3039938d3977c63f9d870746355b3aeaf65d2b33281936a5b81.png",
-        "game_id": "PPSA07412",
-        "popularity": -1
-      },
-      {
-        "name": "Tomb Raider: Definitive Survivor Trilogy",
-        "src": "assets/native-89b844ce54d0316d1cad7c7d576feba183d16d57c29e7ee5fa394ae50468c255.png",
-        "game_id": "CUSA27688",
-        "popularity": -1
-      },
-      {
-        "name": "Assassin's Creed Valhalla",
-        "src": "assets/native-5128e2f3135a0cb583be1229adfb00be5aaf58e933d3f902fcbc64d653f7a318.png",
-        "game_id": "PPSA01532",
-        "popularity": -1
-      },
-      {
-        "name": "Call of Duty: WWII",
-        "src": "assets/native-035b54f71225e2807b81730f1740e940f4c615e67fbedc373d71d2bb3f1014cf.png",
-        "game_id": "CUSA08630",
-        "popularity": -1
-      },
-      {
-        "name": "LEGO Marvel Super Heroes",
-        "src": "assets/native-74cd6f1a4c3e7041f4fa77b8d3d7d827b57277b6b3d70f317ba3f14e1992e7c9.png",
-        "game_id": "CUSA00044",
-        "popularity": -1
-      },
-      {
-        "name": "Mortal Kombat 11",
-        "src": "assets/native-d051bb7805512315f99867bc09d4a6e1cc78b5b6a8582f1eb1d00f029dac6c5f.png",
-        "game_id": "PPSA01619",
-        "popularity": -1
-      },
-      {
-        "name": "STAR WARS Battlefront II",
-        "src": "assets/native-7bcdf7fb2e156f6c5a121605153871776ea982aab68a66f4a62c5a27bf2bbd74.png",
-        "game_id": "CUSA05749",
-        "popularity": -1
-      }
-    ],
-    "workspace": "#444444",
+    "cover_alternates": [],
     "palette_schemes": [
       {
-        "name": "Основной",
-        "tint": "#b3cc99",
-        "background": "#1a1f15",
-        "blend": "soft-light",
-        "strength": 0.18,
-        "accent": "#cbf2a5"
+        "background": "#4a3f24",
+        "grid": "#99885d",
+        "cell_background": "#302c22",
+        "accent": "#a5bce6",
+        "version": 3,
+        "name": "Основной"
       },
       {
-        "name": "Второй цвет",
-        "tint": "#ccab99",
-        "background": "#1f1915",
-        "blend": "soft-light",
-        "strength": 0.18,
-        "accent": "#f2c0a5"
+        "background": "#323b4a",
+        "grid": "#748199",
+        "cell_background": "#272b30",
+        "accent": "#e6cc8c",
+        "version": 3,
+        "name": "Вариант 2"
       },
       {
-        "name": "Третий цвет",
-        "tint": "#ccaf99",
-        "background": "#1f1915",
-        "blend": "soft-light",
-        "strength": 0.18,
-        "accent": "#f2c6a5"
+        "background": "#4a4632",
+        "grid": "#998f74",
+        "cell_background": "#302f27",
+        "accent": "#e6a666",
+        "version": 3,
+        "name": "Вариант 3"
       },
       {
-        "name": "Контраст",
-        "tint": "#b299cc",
-        "background": "#1a151f",
-        "blend": "soft-light",
-        "strength": 0.1,
-        "accent": "#cba5f2"
+        "background": "#282e4a",
+        "grid": "#647099",
+        "cell_background": "#242630",
+        "accent": "#a5bce6",
+        "version": 3,
+        "name": "Вариант 4"
       },
       {
-        "name": "Мягкий",
-        "tint": "#9acc99",
-        "background": "#161f15",
-        "blend": "soft-light",
-        "strength": 0.1,
-        "accent": "#a6f2a5"
+        "background": "#4a351b",
+        "grid": "#997e4f",
+        "cell_background": "#30281e",
+        "accent": "#e6dba5",
+        "version": 3,
+        "name": "Вариант 5"
       }
     ],
-    "active_palette": "Третий цвет"
+    "active_palette": "Основной"
   },
-  "savedAt": "2026-10-29T09:40:58.915934+00:00",
+  "savedAt": "2026-11-19T01:00:46.352747+00:00",
   "schemaVersion": 1,
   "workspaces": [
     {
