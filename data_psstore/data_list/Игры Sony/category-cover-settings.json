@@ -9,10 +9,10 @@
         "name": "Соты",
         "width": 1600,
         "height": 1600,
-        "background": "#202d35",
+        "background": "#362727",
         "layers": [
           {
-            "id": "a67480ec1c24",
+            "id": "d156e353672b",
             "kind": "hex",
             "name": "Соты",
             "x": 0,
@@ -28,99 +28,99 @@
             "cell_width": 307.69,
             "cells": {
               "9": {
-                "src": "assets/native-7a89ceaceea20787cc7559043670c9fea70550ec4419e7884555168ed4345875.jpg",
+                "src": "assets/native-6849e7af11ce563fc1fd04e20a386293e0439199265cd7b63f48ccfa9d848af6.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "6": {
-                "src": "assets/native-bd559b04c23519ea449400f7635cb7ac637ced02f69ea7e598c4ea9a33cb45c6.jpg",
+                "src": "assets/native-d78e9a9bdfd92d8723dd68b97489c43054328ec5f8dcb175887af080fefb6e31.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "14": {
-                "src": "assets/native-c46fd16fcc42b6cc70eebe80faeb625b11424b0c51cd901dbcce0683da497f63.jpg",
+                "src": "assets/native-cc9ac51fc28f729781e0539cb28ce1f01523a34e90acb2e793efd42b6e0a1088.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "5": {
-                "src": "assets/native-58beaf6e89643cd96a7eff659eeccf09d87797c8100a915c2bf3a4a5039cfa55.jpg",
+                "src": "assets/native-47ddc027612714ecef2e0f431d3db259ba912411eb4ffc2ce2b1491b99eda6d8.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "13": {
-                "src": "assets/native-bbd9e913d3d4cbb720e486f45ec585d4a3b5889f8b71f8ad6961a6aadc9054b7.jpg",
+                "src": "assets/native-d1105ee671b205bf41ac5873871373922b3f6832e6f6cccf25ff6c9033751137.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "10": {
-                "src": "assets/native-06dbc88985ddecd11b7b1c6e365ef3390fa5d60b6649ec5815b8a17a98013110.jpg",
+                "src": "assets/native-6e508b972c7d09a72d128fc488bb0ae81187e34b49fa8de92716a21e5302a1ca.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "1": {
-                "src": "assets/native-131db92f3754e91b16e2a5ef4075c0e9fa12a28bae1d3105f382f1ef6f876afc.jpg",
+                "src": "assets/native-2f16a8e234a4624c5b7b06d5f1ae4bf486c5efb43ef94b5930a257ed414d7d69.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "17": {
-                "src": "assets/native-bc2d31a8182e7454f4b9f282a85209cc10d58bce4b32bbc6543b51b0ab31bd0b.jpg",
+                "src": "assets/native-7e97ea7106f75b347262ac1bdb9ea81e91c8ac43ffd700bf9cdaa23137e336eb.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "8": {
-                "src": "assets/native-5aea272bb46b62bb155449e0c4dc0a6ae02a0398336866ce005b643cb70de9d9.jpg",
+                "src": "assets/native-447c4be6e55be7df15e78ec7c2fb99fe265563e3baab6fe4739219b8ac479342.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "7": {
-                "src": "assets/native-8ac48141b30af37c3393427336f05c1baca3c602f86d0c18515f158a45a6ff0e.jpg",
+                "src": "assets/native-15f2725a82a47d634c326f2a86155afdb3e8fbf3893ad6099286412bfb4ae409.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "15": {
-                "src": "assets/native-17a83fedc341480c7ed3b97c55909946102302b2a7690f091fac318f01d1a385.jpg",
+                "src": "assets/native-fe206c9d4a2f29a82a8cbb15a40e3979c38ae074a5026044d397edd0f4ce9d05.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "2": {
-                "src": "assets/native-2f4ff1346b9015aaedecd7cb584e197007908d25649dadfc67d79b0d5d46303c.jpg",
+                "src": "assets/native-c9901a640186a3f9817e4aeee94d6bfc8387a8a1e5524b6b27e952329a5ed382.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "18": {
-                "src": "assets/native-19e37c8f055deef9c1dd418cd8e0bd178f33c988a8393d4d3cd58c25d03a4e15.jpg",
+                "src": "assets/native-6849e7af11ce563fc1fd04e20a386293e0439199265cd7b63f48ccfa9d848af6.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "0": {
-                "src": "assets/native-07bdeae4c908d2312f4b33733d52d5eb224559ca0e67c4519f3d1c542416b022.jpg",
+                "src": "assets/native-cc9ac51fc28f729781e0539cb28ce1f01523a34e90acb2e793efd42b6e0a1088.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               },
               "16": {
-                "src": "assets/native-19f9c8dc5b4f687618ef63b045feabb01655ae6fed748e58551ef4ab9d596a44.jpg",
+                "src": "assets/native-d78e9a9bdfd92d8723dd68b97489c43054328ec5f8dcb175887af080fefb6e31.jpg",
                 "zoom": 1,
                 "pan_x": 0,
                 "pan_y": 0
               }
             },
             "gallery_auto": true,
-            "color": "#171e22",
-            "outline": "#62757f",
+            "color": "#221b1b",
+            "outline": "#816b6c",
             "outline_width": 5,
             "outline_opacity": 1,
             "background_saturation": 0,
@@ -134,7 +134,7 @@
             "outline_blend": "normal"
           },
           {
-            "id": "4dec87d22081",
+            "id": "0f9e54a4b868",
             "kind": "shape",
             "name": "Цветовой фильтр",
             "x": 0,
@@ -150,7 +150,7 @@
             "palette_filter": true
           },
           {
-            "id": "49ef54b756d7",
+            "id": "a18a1d384397",
             "kind": "shape",
             "name": "Фильтр основных сот",
             "x": 0,
@@ -166,7 +166,7 @@
             "main_palette_filter": true
           },
           {
-            "id": "98b8c22479e4",
+            "id": "a941b5b9f5aa",
             "kind": "shape",
             "name": "Плашка",
             "x": 0,
@@ -178,11 +178,11 @@
             "hidden": false,
             "blend": "normal",
             "effects": {},
-            "color": "#202d35",
+            "color": "#362727",
             "cover_role": "plate"
           },
           {
-            "id": "7a37c25db598",
+            "id": "dfe158ddf2be",
             "kind": "text",
             "name": "Название",
             "x": 4,
@@ -203,7 +203,7 @@
             "fit_text": true
           },
           {
-            "id": "ef01b6b58b96",
+            "id": "e9cb9166ad98",
             "kind": "shape",
             "name": "Полоска",
             "x": 46,
@@ -215,7 +215,7 @@
             "hidden": false,
             "blend": "normal",
             "effects": {},
-            "color": "#bed5e2",
+            "color": "#e5c9ca",
             "cover_role": "line"
           }
         ]
@@ -224,109 +224,88 @@
     "variants": [],
     "gallery": [
       {
-        "name": "The Last of Us Remastered",
-        "src": "assets/native-7a89ceaceea20787cc7559043670c9fea70550ec4419e7884555168ed4345875.jpg",
-        "game_id": "CUSA00556",
-        "popularity": 940.0,
-        "card_id": "RADI00072"
+        "name": "Resident Evil Revelations 2 Deluxe Edition",
+        "src": "assets/native-6849e7af11ce563fc1fd04e20a386293e0439199265cd7b63f48ccfa9d848af6.jpg",
+        "game_id": "CUSA00804",
+        "popularity": 871.0,
+        "card_id": "RADI15506"
       },
       {
-        "name": "God of War",
-        "src": "assets/native-bd559b04c23519ea449400f7635cb7ac637ced02f69ea7e598c4ea9a33cb45c6.jpg",
-        "game_id": "CUSA07410",
-        "popularity": 917.0,
-        "card_id": "RADI15273"
+        "name": "Resident Evil 4",
+        "src": "assets/native-d78e9a9bdfd92d8723dd68b97489c43054328ec5f8dcb175887af080fefb6e31.jpg",
+        "game_id": "PPSA07412",
+        "popularity": 869.0,
+        "card_id": "RADI00001"
       },
       {
-        "name": "The Last of Us Part II",
-        "src": "assets/native-c46fd16fcc42b6cc70eebe80faeb625b11424b0c51cd901dbcce0683da497f63.jpg",
-        "game_id": "CUSA10249",
-        "popularity": 916.0,
-        "card_id": "RADI09301"
+        "name": "RESIDENT EVIL 2",
+        "src": "assets/native-cc9ac51fc28f729781e0539cb28ce1f01523a34e90acb2e793efd42b6e0a1088.jpg",
+        "game_id": "PPSA04289",
+        "popularity": 849.0,
+        "card_id": "RADI00006"
       },
       {
-        "name": "Marvel’s Spider-Man 2",
-        "src": "assets/native-58beaf6e89643cd96a7eff659eeccf09d87797c8100a915c2bf3a4a5039cfa55.jpg",
-        "game_id": "PPSA08338",
-        "popularity": 905.0,
-        "card_id": "RADI09797"
+        "name": "Resident Evil Requiem",
+        "src": "assets/native-47ddc027612714ecef2e0f431d3db259ba912411eb4ffc2ce2b1491b99eda6d8.jpg",
+        "game_id": "PPSA31246",
+        "popularity": 839.0,
+        "card_id": "RADI03210"
       },
       {
-        "name": "Horizon Zero Dawn Remastered",
-        "src": "assets/native-bbd9e913d3d4cbb720e486f45ec585d4a3b5889f8b71f8ad6961a6aadc9054b7.jpg",
-        "game_id": "PPSA13427",
-        "popularity": 890.0,
-        "card_id": "RADI12646"
+        "name": "RESIDENT EVIL 3",
+        "src": "assets/native-d1105ee671b205bf41ac5873871373922b3f6832e6f6cccf25ff6c9033751137.jpg",
+        "game_id": "PPSA03953",
+        "popularity": 824.0,
+        "card_id": "RADI00015"
       },
       {
-        "name": "God of War Ragnarök",
-        "src": "assets/native-06dbc88985ddecd11b7b1c6e365ef3390fa5d60b6649ec5815b8a17a98013110.jpg",
-        "game_id": "PPSA08330",
-        "popularity": 888.0,
-        "card_id": "RADI11162"
+        "name": "Resident Evil Village",
+        "src": "assets/native-6e508b972c7d09a72d128fc488bb0ae81187e34b49fa8de92716a21e5302a1ca.jpg",
+        "game_id": "PPSA01557",
+        "popularity": 812.0,
+        "card_id": "RADI00014"
       },
       {
-        "name": "Marvel's Spider-Man: Miles Morales",
-        "src": "assets/native-131db92f3754e91b16e2a5ef4075c0e9fa12a28bae1d3105f382f1ef6f876afc.jpg",
-        "game_id": "PPSA01417",
-        "popularity": 880.0,
-        "card_id": "RADI12407"
+        "name": "Resident Evil 7 Biohazard",
+        "src": "assets/native-2f16a8e234a4624c5b7b06d5f1ae4bf486c5efb43ef94b5930a257ed414d7d69.jpg",
+        "game_id": "PPSA04401",
+        "popularity": 807.0,
+        "card_id": "RADI01538"
       },
       {
-        "name": "Helldivers 2",
-        "src": "assets/native-bc2d31a8182e7454f4b9f282a85209cc10d58bce4b32bbc6543b51b0ab31bd0b.jpg",
-        "game_id": "PPSA06016",
-        "popularity": 867.0,
-        "card_id": "RADI09199"
+        "name": "resident evil 4 (2005)",
+        "src": "assets/native-7e97ea7106f75b347262ac1bdb9ea81e91c8ac43ffd700bf9cdaa23137e336eb.jpg",
+        "game_id": "CUSA04704",
+        "popularity": 784.0,
+        "card_id": "RADI00543"
       },
       {
-        "name": "The Last of Us Part I",
-        "src": "assets/native-5aea272bb46b62bb155449e0c4dc0a6ae02a0398336866ce005b643cb70de9d9.jpg",
-        "game_id": "PPSA07642",
-        "popularity": 862.0,
-        "card_id": "RADI11419"
+        "name": "RESIDENT EVIL 5",
+        "src": "assets/native-447c4be6e55be7df15e78ec7c2fb99fe265563e3baab6fe4739219b8ac479342.jpg",
+        "game_id": "CUSA04284",
+        "popularity": 762.0,
+        "card_id": "RADI00122"
       },
       {
-        "name": "Ratchet Clank",
-        "src": "assets/native-8ac48141b30af37c3393427336f05c1baca3c602f86d0c18515f158a45a6ff0e.jpg",
-        "game_id": "CUSA01073",
-        "popularity": 843.0,
-        "card_id": "RADI00604"
+        "name": "Resident Evil: Deluxe Origins Bundle",
+        "src": "assets/native-15f2725a82a47d634c326f2a86155afdb3e8fbf3893ad6099286412bfb4ae409.jpg",
+        "game_id": "CUSA01815",
+        "popularity": 731.0,
+        "card_id": "RADI15196"
       },
       {
-        "name": "Stellar Blade",
-        "src": "assets/native-17a83fedc341480c7ed3b97c55909946102302b2a7690f091fac318f01d1a385.jpg",
-        "game_id": "PPSA13197",
-        "popularity": 829.0,
-        "card_id": "RADI08708"
+        "name": "RESIDENT EVIL REVELATIONS",
+        "src": "assets/native-fe206c9d4a2f29a82a8cbb15a40e3979c38ae074a5026044d397edd0f4ce9d05.jpg",
+        "game_id": "CUSA06212",
+        "popularity": 682.0,
+        "card_id": "RADI15183"
       },
       {
-        "name": "Death Stranding",
-        "src": "assets/native-2f4ff1346b9015aaedecd7cb584e197007908d25649dadfc67d79b0d5d46303c.jpg",
-        "game_id": "CUSA12605",
-        "popularity": 829.0,
-        "card_id": "RADI15411"
-      },
-      {
-        "name": "ASTRO BOT",
-        "src": "assets/native-19e37c8f055deef9c1dd418cd8e0bd178f33c988a8393d4d3cd58c25d03a4e15.jpg",
-        "game_id": "PPSA21567",
-        "popularity": 815.0,
-        "card_id": "RADI07883"
-      },
-      {
-        "name": "Horizon Forbidden West",
-        "src": "assets/native-07bdeae4c908d2312f4b33733d52d5eb224559ca0e67c4519f3d1c542416b022.jpg",
-        "game_id": "PPSA01521",
-        "popularity": 805.0,
-        "card_id": "RADI11879"
-      },
-      {
-        "name": "Marvel’s Wolverine",
-        "src": "assets/native-19f9c8dc5b4f687618ef63b045feabb01655ae6fed748e58551ef4ab9d596a44.jpg",
-        "game_id": "PPSA03671",
-        "popularity": 803.0,
-        "card_id": "RADI01148"
+        "name": "Resident Evil Code: Veronica X",
+        "src": "assets/native-c9901a640186a3f9817e4aeee94d6bfc8387a8a1e5524b6b27e952329a5ed382.jpg",
+        "game_id": "CUSA07343",
+        "popularity": 673.0,
+        "card_id": "RADI00926"
       }
     ],
     "workspace": "#444444",
@@ -334,18 +313,18 @@
       {
         "version": 4,
         "name": "Основной",
-        "background": "#202d35",
-        "grid": "#62757f",
-        "cell_background": "#171e22",
-        "accent": "#bed5e2"
+        "background": "#362727",
+        "grid": "#816b6c",
+        "cell_background": "#221b1b",
+        "accent": "#e5c9ca"
       },
       {
         "version": 4,
         "name": "Вариант 2",
-        "background": "#1d2e37",
-        "grid": "#5d7683",
-        "cell_background": "#151e23",
-        "accent": "#b8d6e8"
+        "background": "#3d2324",
+        "grid": "#8d6667",
+        "cell_background": "#271919",
+        "accent": "#f5c2c3"
       },
       {
         "version": 4,
@@ -358,7 +337,7 @@
     ],
     "active_palette": "Основной"
   },
-  "savedAt": "2026-11-20T00:37:52.914141+00:00",
+  "savedAt": "2026-11-20T00:50:56.739911+00:00",
   "schemaVersion": 1,
   "workspaces": [
     {
