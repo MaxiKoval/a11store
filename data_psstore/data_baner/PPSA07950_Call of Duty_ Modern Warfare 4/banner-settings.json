@@ -106,6 +106,23 @@
             "text": "Текст",
             "font_size": 80,
             "color": "#ffffff"
+          },
+          {
+            "id": "16841d25f464",
+            "kind": "shape",
+            "name": "CODMW4_LOGO_PRIMARY.webp",
+            "x": 19.222280675849763,
+            "y": -0.32236885461734577,
+            "w": 65.69757468079355,
+            "h": 100.05398236185317,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "src": "assets/native-efe7ce5ef994a78bbc8fc230997011f830be54f3c550b73fb8146ff503f66f9b.webp",
+            "fit": "contain",
+            "texture_alpha": 1
           }
         ],
         "effects": {},
@@ -161,11 +178,15 @@
       {
         "name": "COD_MW4_GHOST.jpg",
         "src": "assets/native-640befb4dffd0f19e977ede52bccb8deffb6bc1785216a963d397242df0e41db.jpg"
+      },
+      {
+        "name": "CODMW4_LOGO_PRIMARY.webp",
+        "src": "assets/native-efe7ce5ef994a78bbc8fc230997011f830be54f3c550b73fb8146ff503f66f9b.webp"
       }
     ],
     "workspace": "#212121"
   },
-  "savedAt": "2026-11-20T14:27:02.426858+00:00",
+  "savedAt": "2026-11-20T14:31:42.273343+00:00",
   "schemaVersion": 1,
   "workspaces": [
     {
