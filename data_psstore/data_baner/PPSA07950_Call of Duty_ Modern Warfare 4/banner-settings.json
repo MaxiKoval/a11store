@@ -15,10 +15,10 @@
             "id": "bd73ea5f171f",
             "kind": "shape",
             "name": "COD_MW4_GHOST.jpg",
-            "x": 67.87557073934066,
+            "x": 62.0184855489827,
             "y": -4.08536585365853,
-            "w": 55.05849519472521,
-            "h": 137.64623798681302,
+            "w": 60.915580385083175,
+            "h": 152.28895096270793,
             "rotation": 0,
             "opacity": 1,
             "hidden": false,
@@ -32,8 +32,8 @@
             "id": "8f68dc9ad658",
             "kind": "shape",
             "name": "3-p4F4hE5l4sdktX4e9ujDWFfdAnFtqkEbrCFHRdPaHLuulURzJ8qWd5YKNZIb_gC-9ZZcocAeBJ8HsZvHbhljwU7AQfzhK9pH4_IkTHB9NwTXnWZFmLQkmdHBENMTR6riiXdqg5vMyoh4QGAwAQRB9AV7r6DQT3Tr1l6WQaznPf0AYP2pFmt7F-Boa-EVuF.jpg",
-            "x": -22.252747252747263,
-            "y": -28.350081605366032,
+            "x": -19.7043088490457,
+            "y": -31.648105461516998,
             "w": 63.31292133667111,
             "h": 281.3907614963161,
             "rotation": 0,
@@ -49,10 +49,10 @@
             "id": "aa0ebdd1d23f",
             "kind": "gradient",
             "name": "Градиент",
-            "x": 0,
-            "y": 0,
-            "w": 100,
-            "h": 100,
+            "x": 0.0,
+            "y": -0.1925415811277773,
+            "w": 100.90628074152502,
+            "h": 100.90628074152502,
             "rotation": 0,
             "opacity": 1,
             "hidden": false,
@@ -95,7 +95,7 @@
             "kind": "text",
             "name": "лучшая часть за многие годы",
             "x": 0.0,
-            "y": 84.73161350723579,
+            "y": 85.00000000000001,
             "w": 100,
             "h": 30,
             "rotation": 0,
@@ -104,8 +104,8 @@
             "blend": "normal",
             "effects": {},
             "text": "лучшая часть за многие годы",
-            "font_size": 80,
-            "color": "#ffcf00",
+            "font_size": 70.0,
+            "color": "#f9e49d",
             "align": "center",
             "font_family": "Oswald",
             "font": "",
@@ -113,17 +113,19 @@
             "stroke_color": "#000000",
             "inner_glow_color": "#171717",
             "inner_glow_radius": 0,
-            "stroke": 1.618705035971223,
-            "bold": true
+            "stroke": 0,
+            "bold": true,
+            "shadow_opacity": 1,
+            "shadow": 16.906474820143885
           },
           {
             "id": "16841d25f464",
             "kind": "shape",
             "name": "CODMW4_LOGO_PRIMARY.webp",
-            "x": 19.084918038487125,
-            "y": -0.3223688546173668,
-            "w": 65.69757468079355,
-            "h": 100.05398236185317,
+            "x": 19.49694645515757,
+            "y": -0.1925415811277774,
+            "w": 61.91238783120987,
+            "h": 94.28934005770914,
             "rotation": 0,
             "opacity": 1,
             "hidden": false,
@@ -138,9 +140,9 @@
         "workspace_view": {
           "width": 100,
           "height": 584,
-          "zoom": 1.7160068621848583,
-          "panX": -137.1032660731064,
-          "panY": -125.09294011932562
+          "zoom": 0.8352702114112713,
+          "panX": -182.6033398486092,
+          "panY": 157.01060390783778
         }
       },
       {
@@ -193,9 +195,10 @@
         "src": "assets/native-efe7ce5ef994a78bbc8fc230997011f830be54f3c550b73fb8146ff503f66f9b.webp"
       }
     ],
-    "workspace": "#212121"
+    "workspace": "#212121",
+    "banner_game_name": "PPSA07950_Call of Duty_ Modern Warfare 4"
   },
-  "savedAt": "2026-11-20T20:22:41.546815+00:00",
+  "savedAt": "2026-11-20T20:38:21.441883+00:00",
   "schemaVersion": 1,
   "workspaces": [
     {
