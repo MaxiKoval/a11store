@@ -1,0 +1,32 @@
+{
+  "path": "data_psstore/delete_date/posts/8c6d5d637d92a83eaf746bfe/2026-11-20_16-22-55-a924b0a39731457193b10d834b8defa8.json",
+  "archived_at": "2026-11-20T16:22:55.778298+03:00",
+  "position": 0,
+  "document": {
+    "path": "data_psstore/posts/Скоро_2026-10-24_11-29-03/post.json",
+    "rows": [
+      {
+        "title": "Скоро",
+        "text": "Надеюсь скоро запуск\nЭтот текст написан мной",
+        "date": "2026-10-24",
+        "author": "Максим Ковалев",
+        "signature": "",
+        "images": [
+          "img_1.jpg"
+        ],
+        "createdAt": "2026-10-24T08:29:03.975Z",
+        "updatedAt": "2026-10-24T08:29:03.975Z"
+      }
+    ],
+    "format": "json",
+    "headers": [],
+    "metadata": [],
+    "container": "single",
+    "sha": "",
+    "local_source": "",
+    "baseline": "",
+    "assets": {}
+  },
+  "sha": "",
+  "unpublished": false
+}
