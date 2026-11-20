@@ -61,23 +61,23 @@
             "stops": [
               {
                 "pos": 0,
-                "color": "#000000",
+                "color": "transparent",
                 "alpha": 1
               },
               {
                 "pos": 1,
-                "color": "#000000",
+                "color": "transparent",
                 "alpha": 0
               },
               {
-                "pos": 0.8516107131009442,
-                "color": "#000000",
-                "alpha": 0.5
+                "pos": 0.8265951123791689,
+                "color": "#e5e5e3",
+                "alpha": 1
               },
               {
-                "pos": 0.2833750740297259,
-                "color": "#000000",
-                "alpha": 0.7509803921568627
+                "pos": 0.23686469960406906,
+                "color": "#d0dbe1",
+                "alpha": 1
               }
             ],
             "a": [
@@ -85,10 +85,27 @@
               43.292682926829265
             ],
             "b": [
-              72.52747252747253,
-              42.6829268292683
+              79.53296703296704,
+              40.853658536585364
             ],
             "smoothness": 100
+          },
+          {
+            "id": "605d1c924bba",
+            "kind": "text",
+            "name": "лучшая часть за многие годы",
+            "x": -0.2747252747252749,
+            "y": 33.536585365853654,
+            "w": 100,
+            "h": 30,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "Текст",
+            "font_size": 80,
+            "color": "#ffffff"
           }
         ],
         "effects": {},
@@ -96,7 +113,7 @@
           "width": 100,
           "height": 584,
           "zoom": 1,
-          "panX": -6,
+          "panX": -5,
           "panY": -27
         }
       },
@@ -148,7 +165,7 @@
     ],
     "workspace": "#212121"
   },
-  "savedAt": "2026-11-20T14:14:57.218475+00:00",
+  "savedAt": "2026-11-20T14:27:02.426858+00:00",
   "schemaVersion": 1,
   "workspaces": [
     {
@@ -173,9 +190,9 @@
     "mobile": "Banner Mobile.webp"
   },
   "game": {
-    "name": "Call of Duty: Modern Warfare 4",
+    "name": "PPSA07950_Call of Duty_ Modern Warfare 4",
     "gameId": "PPSA07950",
     "platforms": "",
-    "url": "https://store.playstation.com/en-tr/product/EP0002-PPSA07950_00-CODMW4STANDARD01"
+    "url": ""
   }
 }
