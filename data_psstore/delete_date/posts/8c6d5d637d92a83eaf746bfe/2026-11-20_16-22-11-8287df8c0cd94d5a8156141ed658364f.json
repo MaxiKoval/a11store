@@ -1,0 +1,28 @@
+{
+  "path": "data_psstore/delete_date/posts/8c6d5d637d92a83eaf746bfe/2026-11-20_16-22-11-8287df8c0cd94d5a8156141ed658364f.json",
+  "archived_at": "2026-11-20T16:22:11.878485+03:00",
+  "position": 0,
+  "document": {
+    "path": "data_psstore/posts/2026-11-09_22-50-08-23f82856/data.json",
+    "rows": [
+      {
+        "title": "",
+        "text": "",
+        "date": "2026-11-09",
+        "signature": "",
+        "images": [],
+        "createdAt": "2026-11-09T22:50:08.082142+03:00"
+      }
+    ],
+    "format": "json",
+    "headers": [],
+    "metadata": [],
+    "container": "single",
+    "sha": "",
+    "local_source": "",
+    "baseline": "",
+    "assets": {}
+  },
+  "sha": "",
+  "unpublished": true
+}
