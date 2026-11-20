@@ -1,0 +1,348 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 1,
+    "canvases": [
+      {
+        "id": "desktop",
+        "name": "Основной баннер",
+        "width": 2400,
+        "height": 540,
+        "background": "transparent",
+        "layers": [
+          {
+            "id": "35f551a4f2c6",
+            "kind": "shape",
+            "name": "3-p4F4hE5l4sdktX4e9ujDWFfdAnFtqkEbrCFHRdPaHLuulURzJ8qWd5YKNZIb_gC-9ZZcocAeBJ8HsZvHbhljwU7AQfzhK9pH4_IkTHB9NwTXnWZFmLQkmdHBENMTR6riiXdqg5vMyoh4QGAwAQRB9AV7r6DQT3Tr1l6WQaznPf0AYP2pFmt7F-Boa-EVuF.jpg",
+            "x": -23.626373626373624,
+            "y": -35.792682926829286,
+            "w": 68.63894746020146,
+            "h": 305.0619887120065,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "src": "assets/native-349da264998ce0bdc545fe14fa0269872b74709d18e1cbc0e11ea4d1548fb4fa.jpg",
+            "fit": "contain",
+            "texture_alpha": 1
+          },
+          {
+            "id": "590189eb7ef1",
+            "kind": "shape",
+            "name": "COD_MW4_GHOST.jpg",
+            "x": 63.72033442582083,
+            "y": 0.0,
+            "w": 56.69977843475108,
+            "h": 141.7494460868777,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "src": "assets/native-640befb4dffd0f19e977ede52bccb8deffb6bc1785216a963d397242df0e41db.jpg",
+            "fit": "contain",
+            "texture_alpha": 1
+          },
+          {
+            "id": "644931f973ad",
+            "kind": "gradient",
+            "name": "Градиент",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "stops": [
+              {
+                "pos": 0,
+                "color": "transparent",
+                "alpha": 0
+              },
+              {
+                "pos": 0.21153361450439392,
+                "color": "#d0dbe1",
+                "alpha": 1
+              },
+              {
+                "pos": 0.8666677868700953,
+                "color": "#e5e5e5",
+                "alpha": 1
+              },
+              {
+                "pos": 1,
+                "color": "transparent",
+                "alpha": 0
+              }
+            ],
+            "a": [
+              28.57142857142857,
+              44.51219512195122
+            ],
+            "b": [
+              75.96153846153847,
+              45.12195121951219
+            ],
+            "smoothness": 100
+          },
+          {
+            "id": "6f49e4ab431f",
+            "kind": "text",
+            "name": "Текст",
+            "x": 9.473903143468002e-15,
+            "y": 81.43846236524173,
+            "w": 100,
+            "h": 30,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "лучшая часть за многие годы ",
+            "font_size": 65.0,
+            "color": "#ffcf03",
+            "align": "center",
+            "shadow_size": 1.7266187050359711,
+            "shadow": 22.66187050359712,
+            "shadow_opacity": 0.6942446043165468,
+            "font_family": "Jost",
+            "font": "",
+            "font_name": ""
+          },
+          {
+            "id": "eed155e1e883",
+            "kind": "shape",
+            "name": "CODMW4_LOGO_PRIMARY.webp",
+            "x": 22.92980067702512,
+            "y": 3.561537634758273,
+            "w": 54.14039864594977,
+            "h": 82.45300557143987,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "src": "assets/native-efe7ce5ef994a78bbc8fc230997011f830be54f3c550b73fb8146ff503f66f9b.webp",
+            "fit": "contain",
+            "texture_alpha": 1
+          }
+        ],
+        "workspace_view": {
+          "width": 100,
+          "height": 760,
+          "panX": -89,
+          "panY": -9
+        }
+      },
+      {
+        "id": "mobile",
+        "name": "Мобильный баннер",
+        "width": 1230,
+        "height": 600,
+        "background": "transparent",
+        "layers": [
+          {
+            "id": "649fd0c60604",
+            "kind": "shape",
+            "name": "3-p4F4hE5l4sdktX4e9ujDWFfdAnFtqkEbrCFHRdPaHLuulURzJ8qWd5YKNZIb_gC-9ZZcocAeBJ8HsZvHbhljwU7AQfzhK9pH4_IkTHB9NwTXnWZFmLQkmdHBENMTR6riiXdqg5vMyoh4QGAwAQRB9AV7r6DQT3Tr1l6WQaznPf0AYP2pFmt7F-Boa-EVuF.jpg",
+            "x": -15.616969438223427,
+            "y": -75.08228854194478,
+            "w": 56.6587986077641,
+            "h": 251.81688270117377,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "src": "assets/native-349da264998ce0bdc545fe14fa0269872b74709d18e1cbc0e11ea4d1548fb4fa.jpg",
+            "fit": "contain",
+            "texture_alpha": 1
+          },
+          {
+            "id": "b0062f96af7f",
+            "kind": "shape",
+            "name": "COD_MW4_GHOST.jpg",
+            "x": 49.08625133541536,
+            "y": -70.69648177106508,
+            "w": 94.18656592382195,
+            "h": 235.46641480955483,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "src": "assets/native-640befb4dffd0f19e977ede52bccb8deffb6bc1785216a963d397242df0e41db.jpg",
+            "fit": "contain",
+            "texture_alpha": 1
+          },
+          {
+            "id": "20600d9d6809",
+            "kind": "gradient",
+            "name": "Градиент",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "stops": [
+              {
+                "pos": 0,
+                "color": "transparent",
+                "alpha": 0
+              },
+              {
+                "pos": 0.0496643348390282,
+                "color": "#d0dbe1",
+                "alpha": 1
+              },
+              {
+                "pos": 0.574444266751959,
+                "color": "#e5e5e5",
+                "alpha": 1
+              },
+              {
+                "pos": 1,
+                "color": "transparent",
+                "alpha": 0
+              }
+            ],
+            "a": [
+              33.92857142857142,
+              71.83098591549296
+            ],
+            "b": [
+              71.7032967032967,
+              49.29577464788733
+            ],
+            "smoothness": 100
+          },
+          {
+            "id": "53be11c87482",
+            "kind": "text",
+            "name": "Текст",
+            "x": 7.22096276178938e-18,
+            "y": 63.497009540080995,
+            "w": 100,
+            "h": 30,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "лучшая часть за многие годы ",
+            "font_size": 40.0,
+            "color": "#ffcf03",
+            "align": "center",
+            "shadow_size": 3.223021582733813,
+            "shadow": 22.66187050359712,
+            "shadow_opacity": 0.6942446043165468,
+            "font_family": "Jost",
+            "font": "",
+            "font_name": ""
+          },
+          {
+            "id": "05751e3c5b37",
+            "kind": "shape",
+            "name": "CODMW4_LOGO_PRIMARY.webp",
+            "x": 22.92980067702514,
+            "y": 8.155296077203172,
+            "w": 54.14039864594977,
+            "h": 82.45300557143987,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "src": "assets/native-efe7ce5ef994a78bbc8fc230997011f830be54f3c550b73fb8146ff503f66f9b.webp",
+            "fit": "contain",
+            "texture_alpha": 1
+          }
+        ],
+        "workspace_view": {
+          "width": 100,
+          "height": 755
+        }
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "name": "EP0002-PPSA07950_00-CODMW4STANDARD01_RADI00573_Call of Duty Modern Warfare 4.jpg",
+        "src": "assets/native-09ea787853e55af581b04bbe4c6685cfc498a35c58070e275cc6bee9acc5b108.jpg",
+        "product_media_for": "TR:EP0002-PPSA07950_00-CODMW4STANDARD01"
+      },
+      {
+        "name": "skr_EP0002-PPSA07950_00-CODMW4STANDARD01_SLAVI00876_Call of Duty Modern Warfare 4_1.jpg",
+        "src": "assets/native-29beb5ab80dc47bd7f3430a77017f51e0b7e30d1afe8387c88f7133929a1e762.jpg",
+        "product_media_for": "TR:EP0002-PPSA07950_00-CODMW4STANDARD01"
+      },
+      {
+        "name": "skr_EP0002-PPSA07950_00-CODMW4STANDARD01_SLAVI00876_Call of Duty Modern Warfare 4_2.jpg",
+        "src": "assets/native-d0336661277c0ad8e3f545800bb8f1795646dd3034c10e31c6e9e42f753bf594.jpg",
+        "product_media_for": "TR:EP0002-PPSA07950_00-CODMW4STANDARD01"
+      },
+      {
+        "name": "skr_EP0002-PPSA07950_00-CODMW4STANDARD01_SLAVI00876_Call of Duty Modern Warfare 4_3.jpg",
+        "src": "assets/native-fe056c746a4cb19b734b31b30199fcbf819bb8f95df702721ee4b1379594d06e.jpg",
+        "product_media_for": "TR:EP0002-PPSA07950_00-CODMW4STANDARD01"
+      },
+      {
+        "name": "wall_EP0002-PPSA07950_00-CODMW4STANDARD01_SLAVI00876_Call of Duty Modern Warfare 4_1.jpg",
+        "src": "assets/native-2065d82c8d6ff91f8c193aa2a0d19597cc908a529ed04f7f2c6a4e697a075725.jpg",
+        "product_media_for": "TR:EP0002-PPSA07950_00-CODMW4STANDARD01"
+      },
+      {
+        "name": "3-p4F4hE5l4sdktX4e9ujDWFfdAnFtqkEbrCFHRdPaHLuulURzJ8qWd5YKNZIb_gC-9ZZcocAeBJ8HsZvHbhljwU7AQfzhK9pH4_IkTHB9NwTXnWZFmLQkmdHBENMTR6riiXdqg5vMyoh4QGAwAQRB9AV7r6DQT3Tr1l6WQaznPf0AYP2pFmt7F-Boa-EVuF.jpg",
+        "src": "assets/native-349da264998ce0bdc545fe14fa0269872b74709d18e1cbc0e11ea4d1548fb4fa.jpg"
+      },
+      {
+        "name": "COD_MW4_GHOST.jpg",
+        "src": "assets/native-640befb4dffd0f19e977ede52bccb8deffb6bc1785216a963d397242df0e41db.jpg"
+      },
+      {
+        "name": "CODMW4_LOGO_PRIMARY.webp",
+        "src": "assets/native-efe7ce5ef994a78bbc8fc230997011f830be54f3c550b73fb8146ff503f66f9b.webp"
+      }
+    ],
+    "workspace": "#444444"
+  },
+  "savedAt": "2026-11-20T21:34:11.148683+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "desktop",
+      "name": "Основной баннер",
+      "file": "Banner.webp",
+      "width": 2400,
+      "height": 540,
+      "ratio": "2400:540"
+    },
+    {
+      "id": "mobile",
+      "name": "Мобильный баннер",
+      "file": "Banner Mobile.webp",
+      "width": 1230,
+      "height": 600,
+      "ratio": "1230:600"
+    }
+  ],
+  "files": {
+    "desktop": "Banner.webp",
+    "mobile": "Banner Mobile.webp"
+  },
+  "game": {
+    "name": "Call of Duty: Modern Warfare 4",
+    "gameId": "PPSA07950",
+    "platforms": "",
+    "url": "https://store.playstation.com/en-tr/product/EP0002-PPSA07950_00-CODMW4STANDARD01"
+  }
+}
