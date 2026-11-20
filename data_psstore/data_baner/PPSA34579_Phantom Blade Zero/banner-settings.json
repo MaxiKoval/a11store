@@ -1,0 +1,136 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 0,
+    "canvases": [
+      {
+        "id": "desktop",
+        "name": "Основной баннер",
+        "width": 2400,
+        "height": 540,
+        "background": "transparent",
+        "layers": [
+          {
+            "id": "f6ed2582070e",
+            "kind": "shape",
+            "name": "wall_UB2134-PPSA34579_00-0622032276386943_SLAVI00742_Phantom Blade Zero_1.jpg",
+            "x": -2.512936095283166,
+            "y": -90.8556040215073,
+            "w": 114.38260850678823,
+            "h": 285.9565212669707,
+            "rotation": 22.912562306895182,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {
+              "blur": 10.685714285714285,
+              "grain": 0.10428571428571429,
+              "vignette": 1,
+              "tint_alpha": 0.02142857142857143,
+              "sepia": 0,
+              "saturation": 1.0,
+              "contrast": 1.0,
+              "brightness": 1.0
+            },
+            "src": "assets/native-5e4f3a2ce8e9923f2166ce87c5f6a7603a4fd7a8e5f133b3e99adbdf762ea625.jpg",
+            "fit": "contain",
+            "texture_alpha": 1
+          },
+          {
+            "id": "478597e8960e",
+            "kind": "shape",
+            "name": "UB2134-PPSA34579_00-0622032276386943_RADI00487_Phantom Blade Zero.jpg",
+            "x": 2.3811813186813158,
+            "y": 10.818445876139783,
+            "w": 17.38942320066945,
+            "h": 77.28632533630866,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "src": "assets/native-2e917d63c6f5b8717efa6826cbeecd6ca4d008787e80ef80bec2ce0cf1564a12.jpg",
+            "fit": "contain",
+            "texture_alpha": 1
+          },
+          {
+            "id": "c158469106f0",
+            "kind": "text",
+            "name": "Текст",
+            "x": 22.939560439560434,
+            "y": 16.172229130099918,
+            "w": 57.203680677444716,
+            "h": 17.161104203233414,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "text": "\nPhantom Blade Zero\n66 дней на месть, раскрытие заговора и спасение собственной жизни.",
+            "font_size": 45.762944541955775,
+            "color": "#ffffff",
+            "valign": "center"
+          }
+        ],
+        "workspace_view": {
+          "panX": -24,
+          "panY": -11,
+          "width": 100,
+          "height": 759
+        }
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "name": "UB2134-PPSA34579_00-0622032276386943_RADI00487_Phantom Blade Zero.jpg",
+        "src": "assets/native-2e917d63c6f5b8717efa6826cbeecd6ca4d008787e80ef80bec2ce0cf1564a12.jpg",
+        "product_media_for": "TR:UB2134-PPSA34579_00-0622032276386943"
+      },
+      {
+        "name": "skr_UB2134-PPSA34579_00-0622032276386943_SLAVI00742_Phantom Blade Zero_1.jpg",
+        "src": "assets/native-c941267c41949cab1871909069d5c50452baa5d3a306bd12c201c7f67c95677c.jpg",
+        "product_media_for": "TR:UB2134-PPSA34579_00-0622032276386943"
+      },
+      {
+        "name": "skr_UB2134-PPSA34579_00-0622032276386943_SLAVI00742_Phantom Blade Zero_2.jpg",
+        "src": "assets/native-037cd029fee69964794c23d141c02fb63600d2cbfb6de4d2a6eb3cc945e723a9.jpg",
+        "product_media_for": "TR:UB2134-PPSA34579_00-0622032276386943"
+      },
+      {
+        "name": "skr_UB2134-PPSA34579_00-0622032276386943_SLAVI00742_Phantom Blade Zero_3.jpg",
+        "src": "assets/native-6f1cc2f3ecc8fda0f6c12d7264d6012fce31147186521981b4f4dae53c47f897.jpg",
+        "product_media_for": "TR:UB2134-PPSA34579_00-0622032276386943"
+      },
+      {
+        "name": "wall_UB2134-PPSA34579_00-0622032276386943_SLAVI00742_Phantom Blade Zero_1.jpg",
+        "src": "assets/native-5e4f3a2ce8e9923f2166ce87c5f6a7603a4fd7a8e5f133b3e99adbdf762ea625.jpg",
+        "product_media_for": "TR:UB2134-PPSA34579_00-0622032276386943"
+      }
+    ],
+    "workspace": "#444444"
+  },
+  "savedAt": "2026-11-20T21:46:40.197154+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "desktop",
+      "name": "Основной баннер",
+      "file": "Banner.webp",
+      "width": 2400,
+      "height": 540,
+      "ratio": "2400:540"
+    }
+  ],
+  "files": {
+    "desktop": "Banner.webp",
+    "mobile": null
+  },
+  "game": {
+    "name": "Phantom Blade Zero",
+    "gameId": "PPSA34579",
+    "platforms": "",
+    "url": "https://store.playstation.com/en-tr/product/UB2134-PPSA34579_00-0622032276386943"
+  }
+}
