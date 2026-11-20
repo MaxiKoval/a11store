@@ -1,0 +1,177 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 0,
+    "canvases": [
+      {
+        "id": "desktop",
+        "name": "Основной баннер",
+        "width": 2400,
+        "height": 540,
+        "background": "transparent",
+        "layers": [
+          {
+            "id": "bd73ea5f171f",
+            "kind": "shape",
+            "name": "COD_MW4_GHOST.jpg",
+            "x": 67.87557073934066,
+            "y": -4.08536585365853,
+            "w": 55.05849519472521,
+            "h": 137.64623798681302,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "src": "assets/native-640befb4dffd0f19e977ede52bccb8deffb6bc1785216a963d397242df0e41db.jpg",
+            "fit": "contain",
+            "texture_alpha": 1
+          },
+          {
+            "id": "8f68dc9ad658",
+            "kind": "shape",
+            "name": "3-p4F4hE5l4sdktX4e9ujDWFfdAnFtqkEbrCFHRdPaHLuulURzJ8qWd5YKNZIb_gC-9ZZcocAeBJ8HsZvHbhljwU7AQfzhK9pH4_IkTHB9NwTXnWZFmLQkmdHBENMTR6riiXdqg5vMyoh4QGAwAQRB9AV7r6DQT3Tr1l6WQaznPf0AYP2pFmt7F-Boa-EVuF.jpg",
+            "x": -22.252747252747263,
+            "y": -28.350081605366032,
+            "w": 63.31292133667111,
+            "h": 281.3907614963161,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "src": "assets/native-349da264998ce0bdc545fe14fa0269872b74709d18e1cbc0e11ea4d1548fb4fa.jpg",
+            "fit": "contain",
+            "texture_alpha": 1
+          },
+          {
+            "id": "aa0ebdd1d23f",
+            "kind": "gradient",
+            "name": "Градиент",
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "stops": [
+              {
+                "pos": 0,
+                "color": "#000000",
+                "alpha": 1
+              },
+              {
+                "pos": 1,
+                "color": "#000000",
+                "alpha": 0
+              },
+              {
+                "pos": 0.8516107131009442,
+                "color": "#000000",
+                "alpha": 0.5
+              },
+              {
+                "pos": 0.2833750740297259,
+                "color": "#000000",
+                "alpha": 0.7509803921568627
+              }
+            ],
+            "a": [
+              28.05755395683453,
+              43.292682926829265
+            ],
+            "b": [
+              72.52747252747253,
+              42.6829268292683
+            ],
+            "smoothness": 100
+          }
+        ],
+        "effects": {},
+        "workspace_view": {
+          "width": 100,
+          "height": 584
+        }
+      },
+      {
+        "id": "mobile",
+        "name": "Мобильный баннер",
+        "width": 1230,
+        "height": 600,
+        "background": "transparent",
+        "layers": []
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "name": "3-p4F4hE5l4sdktX4e9ujDWFfdAnFtqkEbrCFHRdPaHLuulURzJ8qWd5YKNZIb_gC-9ZZcocAeBJ8HsZvHbhljwU7AQfzhK9pH4_IkTHB9NwTXnWZFmLQkmdHBENMTR6riiXdqg5vMyoh4QGAwAQRB9AV7r6DQT3Tr1l6WQaznPf0AYP2pFmt7F-Boa-EVuF.jpg",
+        "src": "assets/native-349da264998ce0bdc545fe14fa0269872b74709d18e1cbc0e11ea4d1548fb4fa.jpg"
+      },
+      {
+        "name": "EP0002-PPSA07950_00-CODMW4STANDARD01_RADI00573_Call of Duty Modern Warfare 4.jpg",
+        "src": "assets/native-09ea787853e55af581b04bbe4c6685cfc498a35c58070e275cc6bee9acc5b108.jpg",
+        "product_media_for": "TR:EP0002-PPSA07950_00-CODMW4STANDARD01"
+      },
+      {
+        "name": "skr_EP0002-PPSA07950_00-CODMW4STANDARD01_SLAVI00876_Call of Duty Modern Warfare 4_1.jpg",
+        "src": "assets/native-29beb5ab80dc47bd7f3430a77017f51e0b7e30d1afe8387c88f7133929a1e762.jpg",
+        "product_media_for": "TR:EP0002-PPSA07950_00-CODMW4STANDARD01"
+      },
+      {
+        "name": "skr_EP0002-PPSA07950_00-CODMW4STANDARD01_SLAVI00876_Call of Duty Modern Warfare 4_2.jpg",
+        "src": "assets/native-d0336661277c0ad8e3f545800bb8f1795646dd3034c10e31c6e9e42f753bf594.jpg",
+        "product_media_for": "TR:EP0002-PPSA07950_00-CODMW4STANDARD01"
+      },
+      {
+        "name": "skr_EP0002-PPSA07950_00-CODMW4STANDARD01_SLAVI00876_Call of Duty Modern Warfare 4_3.jpg",
+        "src": "assets/native-fe056c746a4cb19b734b31b30199fcbf819bb8f95df702721ee4b1379594d06e.jpg",
+        "product_media_for": "TR:EP0002-PPSA07950_00-CODMW4STANDARD01"
+      },
+      {
+        "name": "wall_EP0002-PPSA07950_00-CODMW4STANDARD01_SLAVI00876_Call of Duty Modern Warfare 4_1.jpg",
+        "src": "assets/native-2065d82c8d6ff91f8c193aa2a0d19597cc908a529ed04f7f2c6a4e697a075725.jpg",
+        "product_media_for": "TR:EP0002-PPSA07950_00-CODMW4STANDARD01"
+      },
+      {
+        "name": "COD_MW4_GHOST.jpg",
+        "src": "assets/native-640befb4dffd0f19e977ede52bccb8deffb6bc1785216a963d397242df0e41db.jpg"
+      }
+    ],
+    "workspace": "#212121"
+  },
+  "savedAt": "2026-11-20T14:11:11.228644+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "desktop",
+      "name": "Основной баннер",
+      "file": "Banner.webp",
+      "width": 2400,
+      "height": 540,
+      "ratio": "2400:540"
+    },
+    {
+      "id": "mobile",
+      "name": "Мобильный баннер",
+      "file": "Banner Mobile.webp",
+      "width": 1230,
+      "height": 600,
+      "ratio": "1230:600"
+    }
+  ],
+  "files": {
+    "desktop": "Banner.webp",
+    "mobile": "Banner Mobile.webp"
+  },
+  "game": {
+    "name": "Call of Duty: Modern Warfare 4",
+    "gameId": "PPSA07950",
+    "platforms": "",
+    "url": "https://store.playstation.com/en-tr/product/EP0002-PPSA07950_00-CODMW4STANDARD01"
+  }
+}
