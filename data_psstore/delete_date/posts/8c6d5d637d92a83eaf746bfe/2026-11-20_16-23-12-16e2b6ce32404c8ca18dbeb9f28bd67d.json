@@ -1,0 +1,31 @@
+{
+  "path": "data_psstore/delete_date/posts/8c6d5d637d92a83eaf746bfe/2026-11-20_16-23-12-16e2b6ce32404c8ca18dbeb9f28bd67d.json",
+  "archived_at": "2026-11-20T16:23:12.392081+03:00",
+  "position": 0,
+  "document": {
+    "path": "data_psstore/posts/Прием_прием_2026-09-19_10-59-23/post.json",
+    "rows": [
+      {
+        "title": "Прием прием",
+        "text": "Это тестовая запись",
+        "date": "2026-09-19",
+        "signature": "Ковалев Максим",
+        "images": [
+          "img_1.png"
+        ],
+        "createdAt": "2026-09-19T07:59:23.000Z",
+        "updatedAt": "2026-09-19T07:59:23.000Z"
+      }
+    ],
+    "format": "json",
+    "headers": [],
+    "metadata": [],
+    "container": "single",
+    "sha": "",
+    "local_source": "",
+    "baseline": "",
+    "assets": {}
+  },
+  "sha": "",
+  "unpublished": false
+}
