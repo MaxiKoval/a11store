@@ -194,7 +194,7 @@
             "hidden": false,
             "blend": "normal",
             "effects": {},
-            "text": "ИГРЫ SONY",
+            "text": "RESIDENT EVIL",
             "font_size": 112,
             "bold": true,
             "align": "center",
@@ -337,13 +337,13 @@
     ],
     "active_palette": "Основной"
   },
-  "savedAt": "2026-11-20T00:50:56.739911+00:00",
+  "savedAt": "2026-11-20T00:51:41.293521+00:00",
   "schemaVersion": 1,
   "workspaces": [
     {
       "id": "cover-1",
       "name": "Соты",
-      "file": "Игры Sony.png",
+      "file": "Resident Evil.png",
       "width": 1600,
       "height": 1600
     }
