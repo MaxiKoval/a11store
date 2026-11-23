@@ -71,6 +71,15 @@
       1
     ]
   },
+  "card:RADI00734": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP1875-PPSA16902_00-TOMBRAIDER123224_SLAVI01190_Tomb Raider I-III Remastered Starring Lara Croft_1.jpg",
+    "position": [
+      50,
+      0,
+      1
+    ],
+    "wallpaper_sha": "188c5645b513001cf2b9867bcd0ce55c01356846"
+  },
   "card:RADI00857": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA00605_00-AC5GAMEPS4000001_SLAVI04024_Assassin's Creed Unity_1.jpg",
     "position": [
