@@ -176,6 +176,15 @@
       1.08
     ]
   },
+  "card:RADI05937": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA01355_00-ACCHRONICLESEP02_SLAVI13047_Assassin’s Creed Chronicles India_1.png",
+    "position": [
+      50,
+      0,
+      1
+    ],
+    "wallpaper_sha": "1c1f7f50bd1c99dcc6694888e1949d8959fa372c"
+  },
   "card:RADI05938": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA01356_00-ACCHRONICLESEP03_SLAVI13048_Assassin’s Creed Chronicles Russia_1.png",
     "position": [
