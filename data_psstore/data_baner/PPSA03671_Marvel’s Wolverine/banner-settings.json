@@ -1,0 +1,90 @@
+{
+  "nativeProject": {
+    "schema": "a11-native-graphics",
+    "version": 1,
+    "active": 0,
+    "canvases": [
+      {
+        "id": "desktop",
+        "name": "Основной баннер",
+        "width": 2400,
+        "height": 540,
+        "background": "transparent",
+        "layers": [
+          {
+            "id": "19fff8be0ab1",
+            "kind": "shape",
+            "name": "i.webp",
+            "x": -0.5150589932258475,
+            "y": -7.401978258004012,
+            "w": 101.03011798645169,
+            "h": 193.8227683193318,
+            "rotation": 0,
+            "opacity": 1,
+            "hidden": false,
+            "blend": "normal",
+            "effects": {},
+            "src": "assets/native-1c4ef73eca8ba92af304b137feb13eb6c71b453ee6628a159096cbe8faa760cd.webp",
+            "fit": "contain",
+            "texture_alpha": 1
+          }
+        ]
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "name": "UP9000-PPSA03671_00-MARVELSWOLVERINE_RADI01148_Marvel’s Wolverine.jpg",
+        "src": "assets/native-19f9c8dc5b4f687618ef63b045feabb01655ae6fed748e58551ef4ab9d596a44.jpg",
+        "product_media_for": "TR:UP9000-PPSA03671_00-MARVELSWOLVERINE"
+      },
+      {
+        "name": "skr_UP9000-PPSA03671_00-MARVELSWOLVERINE_SLAVI01914_Marvel’s Wolverine_1.jpg",
+        "src": "assets/native-86ca9436f20f6a97b8c2b76785c675c8f7209ad4eb26d9bd7093c3225778cff3.jpg",
+        "product_media_for": "TR:UP9000-PPSA03671_00-MARVELSWOLVERINE"
+      },
+      {
+        "name": "skr_UP9000-PPSA03671_00-MARVELSWOLVERINE_SLAVI01914_Marvel’s Wolverine_2.jpg",
+        "src": "assets/native-8367198168e66714914d064612ae32baed912f2fc8778a65ac9e023197895e97.jpg",
+        "product_media_for": "TR:UP9000-PPSA03671_00-MARVELSWOLVERINE"
+      },
+      {
+        "name": "skr_UP9000-PPSA03671_00-MARVELSWOLVERINE_SLAVI01914_Marvel’s Wolverine_3.jpg",
+        "src": "assets/native-1b53e633d9a172c1b36490fdbd5a5cf3a94282612ec00d453efcce931eef8a5a.jpg",
+        "product_media_for": "TR:UP9000-PPSA03671_00-MARVELSWOLVERINE"
+      },
+      {
+        "name": "wall_UP9000-PPSA03671_00-MARVELSWOLVERINE_SLAVI01914_Marvel’s Wolverine_1.jpg",
+        "src": "assets/native-be18359f3b99c0be34bc2210af5d93ef091d25b13ce065ece25528392478988a.jpg",
+        "product_media_for": "TR:UP9000-PPSA03671_00-MARVELSWOLVERINE"
+      },
+      {
+        "name": "i.webp",
+        "src": "assets/native-1c4ef73eca8ba92af304b137feb13eb6c71b453ee6628a159096cbe8faa760cd.webp"
+      }
+    ],
+    "workspace": "#444444"
+  },
+  "savedAt": "2026-11-23T10:50:12.764492+00:00",
+  "schemaVersion": 1,
+  "workspaces": [
+    {
+      "id": "desktop",
+      "name": "Основной баннер",
+      "file": "Banner.webp",
+      "width": 2400,
+      "height": 540,
+      "ratio": "2400:540"
+    }
+  ],
+  "files": {
+    "desktop": "Banner.webp",
+    "mobile": null
+  },
+  "game": {
+    "name": "Marvel’s Wolverine",
+    "gameId": "PPSA03671",
+    "platforms": "",
+    "url": "https://store.playstation.com/en-tr/product/UP9000-PPSA03671_00-MARVELSWOLVERINE"
+  }
+}
