@@ -176,6 +176,15 @@
       1.08
     ]
   },
+  "card:RADI05938": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA01356_00-ACCHRONICLESEP03_SLAVI13048_Assassin’s Creed Chronicles Russia_1.png",
+    "position": [
+      50,
+      0,
+      1
+    ],
+    "wallpaper_sha": "e91d0d1a14fae22ac9c1372275c01621898fbd93"
+  },
   "card:RADI06551": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-PPSA22100_00-GAME000000000000_SLAVI12839_Assassin’s Creed Shadows_1.jpg",
     "position": [
