@@ -135,6 +135,15 @@
       1
     ]
   },
+  "card:RADI02202": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA01329_00-ACCHRONICLESEP01_SLAVI13046_Assassin's Creed Chronicles China_1.png",
+    "position": [
+      50,
+      0,
+      1
+    ],
+    "wallpaper_sha": "89a94fee162046ac18f3e99f7fed6ec4790c4009"
+  },
   "card:RADI02495": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP3643-CUSA05773_00-0000000000000SSC_SLAVI05665_Serious Sam Collection_1.jpg",
     "position": [
