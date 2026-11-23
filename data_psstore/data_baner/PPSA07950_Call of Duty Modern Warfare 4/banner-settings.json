@@ -2,7 +2,7 @@
   "nativeProject": {
     "schema": "a11-native-graphics",
     "version": 1,
-    "active": 1,
+    "active": 0,
     "canvases": [
       {
         "id": "desktop",
@@ -91,35 +91,11 @@
             "smoothness": 100
           },
           {
-            "id": "6f49e4ab431f",
-            "kind": "text",
-            "name": "Текст",
-            "x": 9.473903143468002e-15,
-            "y": 81.43846236524173,
-            "w": 100,
-            "h": 30,
-            "rotation": 0,
-            "opacity": 1,
-            "hidden": false,
-            "blend": "normal",
-            "effects": {},
-            "text": "лучшая часть за многие годы ",
-            "font_size": 65.0,
-            "color": "#ffcf03",
-            "align": "center",
-            "shadow_size": 1.7266187050359711,
-            "shadow": 22.66187050359712,
-            "shadow_opacity": 0.6942446043165468,
-            "font_family": "Jost",
-            "font": "",
-            "font_name": ""
-          },
-          {
             "id": "eed155e1e883",
             "kind": "shape",
             "name": "CODMW4_LOGO_PRIMARY.webp",
-            "x": 22.92980067702512,
-            "y": 3.561537634758273,
+            "x": 22.92980067702511,
+            "y": 13.681472674402759,
             "w": 54.14039864594977,
             "h": 82.45300557143987,
             "rotation": 0,
@@ -226,35 +202,11 @@
             "smoothness": 100
           },
           {
-            "id": "53be11c87482",
-            "kind": "text",
-            "name": "Текст",
-            "x": 7.22096276178938e-18,
-            "y": 63.497009540080995,
-            "w": 100,
-            "h": 30,
-            "rotation": 0,
-            "opacity": 1,
-            "hidden": false,
-            "blend": "normal",
-            "effects": {},
-            "text": "лучшая часть за многие годы ",
-            "font_size": 40.0,
-            "color": "#ffcf03",
-            "align": "center",
-            "shadow_size": 3.223021582733813,
-            "shadow": 22.66187050359712,
-            "shadow_opacity": 0.6942446043165468,
-            "font_family": "Jost",
-            "font": "",
-            "font_name": ""
-          },
-          {
             "id": "05751e3c5b37",
             "kind": "shape",
             "name": "CODMW4_LOGO_PRIMARY.webp",
-            "x": 22.92980067702514,
-            "y": 8.155296077203172,
+            "x": 22.92980067702511,
+            "y": 11.736771580567716,
             "w": 54.14039864594977,
             "h": 82.45300557143987,
             "rotation": 0,
@@ -313,9 +265,10 @@
         "src": "assets/native-efe7ce5ef994a78bbc8fc230997011f830be54f3c550b73fb8146ff503f66f9b.webp"
       }
     ],
-    "workspace": "#444444"
+    "workspace": "#444444",
+    "banner_game_name": "Call of Duty Modern Warfare 4"
   },
-  "savedAt": "2026-11-20T21:34:46.085308+00:00",
+  "savedAt": "2026-11-23T10:37:23.898871+00:00",
   "schemaVersion": 1,
   "workspaces": [
     {
@@ -343,7 +296,7 @@
     "name": "Call of Duty Modern Warfare 4",
     "gameId": "PPSA07950",
     "platforms": "",
-    "url": "https://store.playstation.com/en-tr/product/EP0002-PPSA07950_00-CODMW4STANDARD01"
+    "url": ""
   },
   "comment": "Лучшая часть Call of Duty за многие годы"
 }
