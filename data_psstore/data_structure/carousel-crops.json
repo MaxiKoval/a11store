@@ -1,4 +1,20 @@
 {
+  "card:RADI00001": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0102-PPSA07412_00-RE4RMAINGAME0000_SLAVI00001_Resident Evil 4_1.jpg",
+    "position": [
+      68.248,
+      0,
+      1
+    ]
+  },
+  "card:RADI00014": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0102-PPSA01557_00-VILLAGEFULLGAMEX_SLAVI00014_Resident Evil Village PS4 & PS5_1.jpg",
+    "position": [
+      82.331,
+      0,
+      1
+    ]
+  },
   "card:RADI00078": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP2154-CUSA04865_00-GANGBEASTSPS04EU_SLAVI00139_Gang Beasts_1.jpg",
     "position": [
@@ -7,12 +23,28 @@
       1.15
     ]
   },
+  "card:RADI00122": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0102-CUSA04284_00-RE5HDPS400000000_SLAVI00252_RESIDENT EVIL 5_1.jpg",
+    "position": [
+      60.116,
+      0,
+      1
+    ]
+  },
   "card:RADI00470": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP3678-PPSA17246_00-TMNTMU0000000001_SLAVI00722_Teenage Mutant Ninja Turtles Mutants Unleashed_1.jpg",
     "position": [
       97.918,
       93.789,
       1.36
+    ]
+  },
+  "card:RADI00543": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0102-CUSA04704_00-BH4HD00000000001_SLAVI00845_resident evil 4 (2005)_1.jpg",
+    "position": [
+      78.364,
+      0,
+      1
     ]
   },
   "card:RADI00598": {
@@ -53,6 +85,14 @@
       65.915,
       34.028,
       1.4
+    ]
+  },
+  "card:RADI00926": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0102-CUSA07343_00-SLES503060000001_SLAVI01527_Resident Evil Code Veronica X_1.jpg",
+    "position": [
+      79.56,
+      100,
+      1.16
     ]
   },
   "card:RADI01049": {
@@ -199,10 +239,34 @@
       1.35
     ]
   },
+  "card:RADI15183": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0102-CUSA06212_00-RERHDPS400000000_SLAVI00723_RESIDENT EVIL REVELATIONS_1.jpg",
+    "position": [
+      99.39,
+      0,
+      1
+    ]
+  },
+  "card:RADI15196": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0102-CUSA01815_00-BH0HD00000000001_SLAVI01075_Resident Evil 0_1.jpg",
+    "position": [
+      74.794,
+      0,
+      1
+    ]
+  },
   "card:RADI15198": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA12042_00-GAME000000000000_SLAVI01322_Assassin's Creed Odyssey_1.jpg",
     "position": [
       69.637,
+      0,
+      1
+    ]
+  },
+  "card:RADI15506": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0102-CUSA00804_00-BHR2HGTRIALPS401_SLAVI31011_Resident Evil Revelations 2 (Episode One Penal Colony)_1.jpg",
+    "position": [
+      63.885,
       0,
       1
     ]
