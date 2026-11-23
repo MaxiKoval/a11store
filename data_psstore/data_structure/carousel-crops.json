@@ -1,10 +1,114 @@
 {
+  "card:RADI00078": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP2154-CUSA04865_00-GANGBEASTSPS04EU_SLAVI00139_Gang Beasts_1.jpg",
+    "position": [
+      79.069,
+      50.579,
+      1.15
+    ]
+  },
+  "card:RADI00470": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP3678-PPSA17246_00-TMNTMU0000000001_SLAVI00722_Teenage Mutant Ninja Turtles Mutants Unleashed_1.jpg",
+    "position": [
+      97.918,
+      93.789,
+      1.36
+    ]
+  },
+  "card:RADI00719": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP1018-CUSA00970_00-MORTALKOMBATX000_SLAVI00149_Mortal Kombat X_1.jpg",
+    "position": [
+      100,
+      0,
+      1
+    ]
+  },
+  "card:RADI00876": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA27236_00-GAME000000000000_SLAVI01427_Rabbids Party of Legends_1.jpg",
+    "position": [
+      65.915,
+      34.028,
+      1.4
+    ]
+  },
+  "card:RADI01049": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP2015-CUSA14537_00-CASTLECRASHERSEU_SLAVI15870_Castle Crashers Remastered_1.jpg",
+    "position": [
+      72.19,
+      84.722,
+      1.22
+    ]
+  },
+  "card:RADI02495": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP3643-CUSA05773_00-0000000000000SSC_SLAVI05665_Serious Sam Collection_1.jpg",
+    "position": [
+      51.122,
+      43.342,
+      1.13
+    ]
+  },
+  "card:RADI04184": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0700-PPSA05921_00-SMGDARKPICTURESD_SLAVI01775_The Dark Pictures Anthology The Devil in Me PS4 & PS5_1.jpg",
+    "position": [
+      76.743,
+      0,
+      1
+    ]
+  },
+  "card:RADI05269": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_UP6312-PPSA17525_00-0219247498273183_SLAVI09781_Gears of War Reloaded_1.jpg",
+    "position": [
+      73.255,
+      0,
+      1
+    ]
+  },
+  "card:RADI07293": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP9000-PPSA14632_00-LEGOHZNADVENTURE_SLAVI14585_LEGO Horizon Adventures_1.jpg",
+    "position": [
+      51.158,
+      72.755,
+      1.52
+    ]
+  },
+  "card:RADI10045": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP3383-PPSA14002_00-0872837811678079_SLAVI21309_Baldur's Gate 3_1.jpg",
+    "position": [
+      78.598,
+      15.336,
+      1.06
+    ]
+  },
+  "card:RADI10297": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0002-PPSA08595_00-DIVLOHCOMBO00000_SLAVI21914_Diablo IV Age of Hatred Collection_1.jpg",
+    "position": [
+      36.34,
+      46.025,
+      1.38
+    ]
+  },
+  "card:RADI12408": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP9000-PPSA01288_00-SACKBOYADVENTURE_SLAVI00245_Sackboy A Big Adventure PS4 & PS5_1.jpg",
+    "position": [
+      75.34,
+      10.088,
+      1.38
+    ]
+  },
   "card:RADI13258": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0006-CUSA16746_00-HAZELIGHTNUTS000_SLAVI24571_It Takes Two - Friend's Pass PS4_1.jpg",
     "position": [
       69.483,
       55.643,
       1.22
+    ]
+  },
+  "card:RADI15173": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP4064-CUSA10870_00-OVERCOOKED200000_SLAVI00359_Overcooked! 2_1.jpg",
+    "position": [
+      84.157,
+      51.562,
+      1.35
     ]
   }
 }
