@@ -164,13 +164,13 @@
                 "src": "assets/native-f9234f8ab6bf32997e1f887809447804501eaa31df95c33be7553ef5173ba57f.jpg",
                 "zoom": 1.6798561151079137,
                 "pan_x": -0.03597122302158273,
-                "pan_y": 0.007194244604316502
+                "pan_y": 0.1151079136690647
               },
               "14": {
                 "src": "assets/native-93bddb83753705d6a07ba9ad20e78fe98682ea8a0d92f6afd646f799699f3800.jpg",
                 "zoom": 1.3021582733812949,
                 "pan_x": 0.0,
-                "pan_y": 0.60431654676259
+                "pan_y": 0.5539568345323742
               },
               "5": {
                 "src": "assets/native-d877d6cf1db30f4675457ea15f8a8a711b6c3ec7c80f289d30605ebf6af8e92a.jpg",
@@ -351,7 +351,7 @@
     ],
     "cover_alternates": []
   },
-  "savedAt": "2026-11-23T12:45:07.390691+00:00",
+  "savedAt": "2026-11-23T12:45:44.637961+00:00",
   "schemaVersion": 1,
   "workspaces": [
     {
