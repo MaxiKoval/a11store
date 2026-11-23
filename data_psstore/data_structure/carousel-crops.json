@@ -15,6 +15,14 @@
       1
     ]
   },
+  "card:RADI00040": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_UP5267-PPSA29000_00-TRLOADELX0000000_SLAVI00045_Tomb Raider Legacy of Atlantis_1.jpg",
+    "position": [
+      68.438,
+      0,
+      1
+    ]
+  },
   "card:RADI00078": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP2154-CUSA04865_00-GANGBEASTSPS04EU_SLAVI00139_Gang Beasts_1.jpg",
     "position": [
@@ -27,6 +35,22 @@
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0102-CUSA04284_00-RE5HDPS400000000_SLAVI00252_RESIDENT EVIL 5_1.jpg",
     "position": [
       60.116,
+      0,
+      1
+    ]
+  },
+  "card:RADI00214": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0082-CUSA00109_00-000000TOMBRAIDER_SLAVI00350_Tomb Raider Definitive Edition_1.jpg",
+    "position": [
+      71.262,
+      0,
+      1
+    ]
+  },
+  "card:RADI00276": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0082-CUSA05716_00-RISEOFTOMBRAIDER_SLAVI00407_Rise of the Tomb Raider 20 Year Celebration_1.jpg",
+    "position": [
+      82.059,
       0,
       1
     ]
@@ -55,6 +79,22 @@
       1
     ]
   },
+  "card:RADI00615": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP1875-PPSA18151_00-TOMBRAIDER456225_SLAVI00972_Tomb Raider IV-VI Remastered PS4 & PS5_1.jpg",
+    "position": [
+      67.773,
+      0,
+      1
+    ]
+  },
+  "card:RADI00619": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_UP8489-PPSA27718_00-0618689374962365_SLAVI00976_Tomb Raider Anniversary PS4 & PS5_1.jpg",
+    "position": [
+      87.872,
+      0,
+      1
+    ]
+  },
   "card:RADI00719": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP1018-CUSA00970_00-MORTALKOMBATX000_SLAVI00149_Mortal Kombat X_1.jpg",
     "position": [
@@ -74,7 +114,7 @@
   "card:RADI00734": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP1875-PPSA16902_00-TOMBRAIDER123224_SLAVI01190_Tomb Raider I-III Remastered Starring Lara Croft_1.jpg",
     "position": [
-      50,
+      50.83,
       0,
       1
     ],
@@ -303,6 +343,14 @@
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0102-CUSA00804_00-BHR2HGTRIALPS401_SLAVI31011_Resident Evil Revelations 2 (Episode One Penal Colony)_1.jpg",
     "position": [
       63.885,
+      0,
+      1
+    ]
+  },
+  "card:RADI15515": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0082-CUSA10872_00-SHADOWTOMBRAIDER_SLAVI31748_Shadow of the Tomb Raider_1.jpg",
+    "position": [
+      80.065,
       0,
       1
     ]
