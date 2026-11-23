@@ -247,12 +247,12 @@
             },
             "gallery_auto": true,
             "color": "#1d1d1d",
-            "outline": "#202a3a",
+            "outline": "#1c1e26",
             "outline_width": 5,
             "outline_opacity": 1,
             "background_saturation": 0,
             "background_blur": 2,
-            "background_opacity": 1,
+            "background_opacity": 0.18705035971223022,
             "background_tint": "#ffffff",
             "background_tint_alpha": 0,
             "background_blend": "multiply",
@@ -269,11 +269,11 @@
             "w": 100,
             "h": 100,
             "rotation": 0,
-            "opacity": 0.40076335877862596,
+            "opacity": 0.9923664122137404,
             "hidden": false,
             "blend": "color",
             "effects": {},
-            "color": "#4d565f",
+            "color": "#0b0c0f",
             "palette_filter": true
           },
           {
@@ -305,7 +305,7 @@
             "hidden": false,
             "blend": "normal",
             "effects": {},
-            "color": "#202a3a",
+            "color": "#1c1e26",
             "cover_role": "plate"
           },
           {
@@ -342,7 +342,7 @@
             "hidden": false,
             "blend": "normal",
             "effects": {},
-            "color": "#8ba6ae",
+            "color": "#d4eaf7",
             "cover_role": "line"
           }
         ],
@@ -351,7 +351,7 @@
     ],
     "cover_alternates": []
   },
-  "savedAt": "2026-11-23T12:42:12.621268+00:00",
+  "savedAt": "2026-11-23T12:45:07.390691+00:00",
   "schemaVersion": 1,
   "workspaces": [
     {
