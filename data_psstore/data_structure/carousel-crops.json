@@ -50,7 +50,7 @@
   "card:RADI00598": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA00009_00-AC4GAMEPS4000001_SLAVI01663_Assassin's Creed IV Black Flag_1.jpg",
     "position": [
-      53.769,
+      70.878,
       0,
       1
     ]
@@ -106,15 +106,15 @@
   "card:RADI01136": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA05625_00-GAMEACEMPIRE0000_SLAVI01898_Assassin's Creed Origins_1.jpg",
     "position": [
-      75.491,
+      73.213,
       100,
-      1.4
+      1.52
     ]
   },
   "card:RADI01461": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA04893_00-ACLEGACYHD000000_SLAVI02524_Assassin’s Creed The Ezio Collection_1.jpg",
     "position": [
-      53.174,
+      80.416,
       0,
       1
     ]
@@ -163,8 +163,8 @@
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA10123_00-ACRGAMEPS4000001_SLAVI13049_Assassin's Creed Rogue Remastered_1.jpg",
     "position": [
       80.546,
-      0,
-      1
+      32.812,
+      1.08
     ]
   },
   "card:RADI06551": {
