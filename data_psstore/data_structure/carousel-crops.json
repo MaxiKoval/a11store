@@ -15,10 +15,34 @@
       1.36
     ]
   },
+  "card:RADI00598": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA00009_00-AC4GAMEPS4000001_SLAVI01663_Assassin's Creed IV Black Flag_1.jpg",
+    "position": [
+      53.769,
+      0,
+      1
+    ]
+  },
   "card:RADI00719": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP1018-CUSA00970_00-MORTALKOMBATX000_SLAVI00149_Mortal Kombat X_1.jpg",
     "position": [
       100,
+      0,
+      1
+    ]
+  },
+  "card:RADI00731": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA11560_00-AC3GAMEPS4000001_SLAVI02148_Assassin's Creed III Remastered_1.jpg",
+    "position": [
+      72.81,
+      0,
+      1
+    ]
+  },
+  "card:RADI00857": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA00605_00-AC5GAMEPS4000001_SLAVI04024_Assassin's Creed Unity_1.jpg",
+    "position": [
+      65.67,
       0,
       1
     ]
@@ -37,6 +61,38 @@
       72.19,
       84.722,
       1.22
+    ]
+  },
+  "card:RADI01136": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA05625_00-GAMEACEMPIRE0000_SLAVI01898_Assassin's Creed Origins_1.jpg",
+    "position": [
+      75.491,
+      100,
+      1.4
+    ]
+  },
+  "card:RADI01461": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA04893_00-ACLEGACYHD000000_SLAVI02524_Assassin’s Creed The Ezio Collection_1.jpg",
+    "position": [
+      53.174,
+      0,
+      1
+    ]
+  },
+  "card:RADI01819": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA00435_00-ACBFDLCSPSA00001_SLAVI07331_Assassin's Creed Freedom Cry_1.jpg",
+    "position": [
+      60.711,
+      0,
+      1
+    ]
+  },
+  "card:RADI01852": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-PPSA28183_00-GAME000000000000_SLAVI03243_Assassin's Creed Black Flag Resynced_1.jpg",
+    "position": [
+      71.224,
+      0,
+      1
     ]
   },
   "card:RADI02495": {
@@ -63,12 +119,36 @@
       1
     ]
   },
+  "card:RADI05936": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA10123_00-ACRGAMEPS4000001_SLAVI13049_Assassin's Creed Rogue Remastered_1.jpg",
+    "position": [
+      80.546,
+      0,
+      1
+    ]
+  },
+  "card:RADI06551": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-PPSA22100_00-GAME000000000000_SLAVI12839_Assassin’s Creed Shadows_1.jpg",
+    "position": [
+      76.381,
+      0,
+      1
+    ]
+  },
   "card:RADI07293": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP9000-PPSA14632_00-LEGOHZNADVENTURE_SLAVI14585_LEGO Horizon Adventures_1.jpg",
     "position": [
       51.158,
       72.755,
       1.52
+    ]
+  },
+  "card:RADI09886": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-PPSA13960_00-EDITIONDELUXE000_SLAVI20877_Assassin's Creed Mirage Deluxe Edition_1.jpg",
+    "position": [
+      85.505,
+      0,
+      1
     ]
   },
   "card:RADI10045": {
@@ -85,6 +165,14 @@
       36.34,
       46.025,
       1.38
+    ]
+  },
+  "card:RADI12395": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-PPSA01532_00-GAME000000000000_SLAVI00517_Assassin's Creed Valhalla_1.jpg",
+    "position": [
+      80.745,
+      0,
+      1
     ]
   },
   "card:RADI12408": {
@@ -109,6 +197,14 @@
       84.157,
       51.562,
       1.35
+    ]
+  },
+  "card:RADI15198": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA12042_00-GAME000000000000_SLAVI01322_Assassin's Creed Odyssey_1.jpg",
+    "position": [
+      69.637,
+      0,
+      1
     ]
   }
 }
