@@ -367,9 +367,9 @@
   "list:[\"folder:Assassin’s Creed\",\"Assassin's Creed Syndicate\",\"CUSA02376\",\"\",\"\",\"\",\"\",\"https://store.playstation.com/en-tr/product/EP0001-CUSA02376_00-ACVPOSTSTANDEURP\",\"\"]": {
     "artwork": "data_psstore/data_structure/carousel-artwork/220e00e903a39f15f34e09b8bdd88d1c908bb8ddf73df849f1715f33de8bb3d8.webp",
     "position": [
-      50,
-      0,
-      1
+      51.738,
+      100,
+      1.66
     ],
     "wallpaper_sha": "5e2f748a77fdcd615f4aa42c5697eb826c708d9f"
   }
