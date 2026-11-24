@@ -210,6 +210,15 @@
     ],
     "wallpaper_sha": "d33832f43a95fd1dd1e177f2229c1627cf0ced7e"
   },
+  "card:RADI03210": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0102-PPSA31246_00-REREQUIEM0000000_SLAVI05819_Resident Evil Requiem_1.jpg",
+    "position": [
+      50,
+      0,
+      1
+    ],
+    "wallpaper_sha": "89540ada7de4530f0ca3d7d207a1f925b221e09a"
+  },
   "card:RADI04184": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0700-PPSA05921_00-SMGDARKPICTURESD_SLAVI01775_The Dark Pictures Anthology The Devil in Me PS4 & PS5_1.jpg",
     "position": [
