@@ -177,6 +177,15 @@
       1
     ]
   },
+  "card:RADI01538": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0102-PPSA04401_00-BH70000000000001_SLAVI00021_RESIDENT EVIL 7 biohazard_1.jpg",
+    "position": [
+      50,
+      0,
+      1
+    ],
+    "wallpaper_sha": "c50b5e4e3d7c180f5de7125cf764513b7ecb36ee"
+  },
   "card:RADI01819": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA00435_00-ACBFDLCSPSA00001_SLAVI07331_Assassin's Creed Freedom Cry_1.jpg",
     "position": [
