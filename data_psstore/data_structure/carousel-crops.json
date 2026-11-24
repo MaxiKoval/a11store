@@ -15,6 +15,15 @@
       1
     ]
   },
+  "card:RADI00015": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0102-PPSA03953_00-BH3ROFF000000001_SLAVI00015_RESIDENT EVIL 3_1.jpg",
+    "position": [
+      50,
+      0,
+      1
+    ],
+    "wallpaper_sha": "fd7036b2ec546db42f6241bdd8eccfd99e7176d5"
+  },
   "card:RADI00040": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_UP5267-PPSA29000_00-TRLOADELX0000000_SLAVI00045_Tomb Raider Legacy of Atlantis_1.jpg",
     "position": [
