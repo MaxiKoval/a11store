@@ -201,6 +201,15 @@
       1.13
     ]
   },
+  "card:RADI02993": {
+    "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0001-CUSA03440_00-ACCHRONICLESTRIL_SLAVI05435_Assassin's Creed Chronicles – Trilogy_1.png",
+    "position": [
+      50,
+      0,
+      1
+    ],
+    "wallpaper_sha": "6a80400a18fb29d5ace2328f326e6c4cc29ce525"
+  },
   "card:RADI04184": {
     "artwork": "data_psstore/data_media/TR/wallpaper/wall_EP0700-PPSA05921_00-SMGDARKPICTURESD_SLAVI01775_The Dark Pictures Anthology The Devil in Me PS4 & PS5_1.jpg",
     "position": [
